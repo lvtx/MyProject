@@ -8,6 +8,9 @@ namespace ClassLib
 {
     public class MyClass
     {
-        public class
+        public int DoubleValue(int value)
+        {
+            return 2 * value;
+        }
     }
 }
