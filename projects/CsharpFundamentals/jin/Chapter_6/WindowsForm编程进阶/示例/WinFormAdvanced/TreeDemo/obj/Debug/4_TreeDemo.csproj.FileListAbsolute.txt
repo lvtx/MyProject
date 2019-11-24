@@ -1,0 +1,12 @@
+E:\WinFormAdvanced\TreeDemo\bin\Debug\TreeDemo.exe.config
+E:\WinFormAdvanced\TreeDemo\obj\Debug\TreeDemo.exe
+E:\WinFormAdvanced\TreeDemo\obj\Debug\TreeDemo.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\TreeDemo\obj\Debug\4_TreeDemo.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\TreeDemo\obj\Debug\TreeDemo.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\TreeDemo\obj\Debug\TreeDemo.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\TreeDemo\bin\Debug\TreeDemo.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\TreeDemo\bin\Debug\TreeDemo.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\TreeDemo\bin\Debug\TreeDemo.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\TreeDemo\obj\Debug\TreeDemo.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\TreeDemo\obj\Debug\TreeDemo.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\TreeDemo\obj\Debug\4_TreeDemo.csproj.GenerateResource.cache

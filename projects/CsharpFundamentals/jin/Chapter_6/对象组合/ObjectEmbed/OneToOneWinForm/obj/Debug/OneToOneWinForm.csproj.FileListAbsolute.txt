@@ -1,0 +1,9 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\OneToOneWinForm\bin\Debug\OneToOneWinForm.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\OneToOneWinForm\bin\Debug\OneToOneWinForm.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\OneToOneWinForm\bin\Debug\OneToOneWinForm.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\OneToOneWinForm\obj\Debug\OneToOneWinForm.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\OneToOneWinForm\obj\Debug\OneToOneWinForm.Form1.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\OneToOneWinForm\obj\Debug\OneToOneWinForm.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\OneToOneWinForm\obj\Debug\OneToOneWinForm.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\OneToOneWinForm\obj\Debug\OneToOneWinForm.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\OneToOneWinForm\obj\Debug\OneToOneWinForm.pdb

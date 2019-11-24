@@ -1,0 +1,8 @@
+bin\Debug\UseGenericExampleForCS.exe
+bin\Debug\UseGenericExampleForCS.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\UseGenericExampleForCS.frmMain.resources
+obj\Debug\UseGenericExampleForCS.Properties.Resources.resources
+obj\Debug\UseGenericExampleForCS.csproj.GenerateResource.Cache
+obj\Debug\UseGenericExampleForCS.exe
+obj\Debug\UseGenericExampleForCS.pdb

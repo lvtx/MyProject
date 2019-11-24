@@ -1,0 +1,9 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\dotnet组件化开发示例分析\AddTwoNumber1\AddTwoNumber3\bin\Debug\AddTwoNumber3.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\dotnet组件化开发示例分析\AddTwoNumber1\AddTwoNumber3\bin\Debug\AddTwoNumber3.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\dotnet组件化开发示例分析\AddTwoNumber1\AddTwoNumber3\bin\Debug\AddTwoNumber3.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\dotnet组件化开发示例分析\AddTwoNumber1\AddTwoNumber3\obj\Debug\AddTwoNumber3.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\dotnet组件化开发示例分析\AddTwoNumber1\AddTwoNumber3\obj\Debug\AddTwoNumber3.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\dotnet组件化开发示例分析\AddTwoNumber1\AddTwoNumber3\obj\Debug\AddTwoNumber3.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\dotnet组件化开发示例分析\AddTwoNumber1\AddTwoNumber3\obj\Debug\AddTwoNumber3.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\dotnet组件化开发示例分析\AddTwoNumber1\AddTwoNumber3\obj\Debug\AddTwoNumber3.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\dotnet组件化开发示例分析\AddTwoNumber1\AddTwoNumber3\obj\Debug\AddTwoNumber3.pdb

@@ -1,0 +1,14 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\Exercise\bin\Debug\Exercise.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\Exercise\bin\Debug\Exercise.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\Exercise\obj\Debug\Exercise.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\Exercise\obj\Debug\Exercise.Form1.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\Exercise\obj\Debug\Exercise.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\Exercise\obj\Debug\Exercise.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\Exercise\obj\Debug\Exercise.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\Exercise\obj\Debug\Exercise.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\Exercise\obj\Debug\Exercise.MyClock.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\Exercise\obj\Debug\Exercise.OnlyInputNum.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\Exercise\obj\Debug\Exercise.SelfLearning.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\Exercise\obj\Debug\Exercise.Calculator.resources

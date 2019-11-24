@@ -1,0 +1,12 @@
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventExample\bin\Debug\UseEventExample.exe.config
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventExample\bin\Debug\UseEventExample.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventExample\bin\Debug\UseEventExample.pdb
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventExample\obj\Debug\3_UseEventExample.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventExample\obj\Debug\UseEventExample.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventExample\obj\Debug\UseEventExample.pdb
+E:\EventDemos\UseEventExample\bin\Debug\UseEventExample.exe.config
+E:\EventDemos\UseEventExample\bin\Debug\UseEventExample.exe
+E:\EventDemos\UseEventExample\bin\Debug\UseEventExample.pdb
+E:\EventDemos\UseEventExample\obj\Debug\3_UseEventExample.csprojResolveAssemblyReference.cache
+E:\EventDemos\UseEventExample\obj\Debug\UseEventExample.exe
+E:\EventDemos\UseEventExample\obj\Debug\UseEventExample.pdb

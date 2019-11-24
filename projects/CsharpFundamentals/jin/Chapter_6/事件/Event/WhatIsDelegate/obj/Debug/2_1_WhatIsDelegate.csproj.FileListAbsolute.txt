@@ -1,0 +1,6 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\WhatIsDelegate\bin\Debug\WhatIsDelegate.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\WhatIsDelegate\bin\Debug\WhatIsDelegate.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\WhatIsDelegate\bin\Debug\WhatIsDelegate.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\WhatIsDelegate\obj\Debug\2_1_WhatIsDelegate.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\WhatIsDelegate\obj\Debug\WhatIsDelegate.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\WhatIsDelegate\obj\Debug\WhatIsDelegate.pdb

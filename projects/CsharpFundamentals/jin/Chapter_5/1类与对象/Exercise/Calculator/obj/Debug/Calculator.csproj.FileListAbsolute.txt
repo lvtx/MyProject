@@ -1,0 +1,10 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\Exercise\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\Exercise\Calculator\bin\Debug\Calculator.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\Exercise\Calculator\bin\Debug\Calculator.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\Exercise\Calculator\bin\Debug\MyMathLibrary.dll
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\Exercise\Calculator\bin\Debug\MyMathLibrary.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\Exercise\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\Exercise\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\Exercise\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\Exercise\Calculator\obj\Debug\Calculator.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\Exercise\Calculator\obj\Debug\Calculator.pdb

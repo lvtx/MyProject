@@ -1,0 +1,15 @@
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\ClassLib\bin\Debug\ClassLib.dll
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\ClassLib\bin\Debug\ClassLib.pdb
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\ClassLib\obj\Debug\ClassLib.dll
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\ClassLib\obj\Debug\ClassLib.pdb
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\ClassLib\obj\Debug\ClassLib.csprojResolveAssemblyReference.cache
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\12 单元测试\UnitTestDemos\ClassLib\bin\Debug\ClassLib.dll
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\12 单元测试\UnitTestDemos\ClassLib\bin\Debug\ClassLib.pdb
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\12 单元测试\UnitTestDemos\ClassLib\obj\Debug\ClassLib.csprojResolveAssemblyReference.cache
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\12 单元测试\UnitTestDemos\ClassLib\obj\Debug\ClassLib.dll
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\12 单元测试\UnitTestDemos\ClassLib\obj\Debug\ClassLib.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\ClassLib\bin\Debug\ClassLib.dll
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\ClassLib\bin\Debug\ClassLib.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\ClassLib\obj\Debug\ClassLib.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\ClassLib\obj\Debug\ClassLib.dll
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\ClassLib\obj\Debug\ClassLib.pdb

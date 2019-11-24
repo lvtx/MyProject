@@ -1,0 +1,18 @@
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\ExploreWinFormEvent\obj\Debug\4_ExploreWinFormEvent.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\ExploreWinFormEvent\obj\Debug\ExploreWinFormEvent.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\ExploreWinFormEvent\obj\Debug\4_ExploreWinFormEvent.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\ExploreWinFormEvent\obj\Debug\ExploreWinFormEvent.frmMain.resources
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\ExploreWinFormEvent\bin\Debug\ExploreWinFormEvent.exe.config
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\ExploreWinFormEvent\bin\Debug\ExploreWinFormEvent.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\ExploreWinFormEvent\bin\Debug\ExploreWinFormEvent.pdb
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\ExploreWinFormEvent\obj\Debug\ExploreWinFormEvent.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\ExploreWinFormEvent\obj\Debug\ExploreWinFormEvent.pdb
+E:\EventDemos\ExploreWinFormEvent\bin\Debug\ExploreWinFormEvent.exe.config
+E:\EventDemos\ExploreWinFormEvent\bin\Debug\ExploreWinFormEvent.exe
+E:\EventDemos\ExploreWinFormEvent\bin\Debug\ExploreWinFormEvent.pdb
+E:\EventDemos\ExploreWinFormEvent\obj\Debug\4_ExploreWinFormEvent.csprojResolveAssemblyReference.cache
+E:\EventDemos\ExploreWinFormEvent\obj\Debug\ExploreWinFormEvent.frmMain.resources
+E:\EventDemos\ExploreWinFormEvent\obj\Debug\ExploreWinFormEvent.Properties.Resources.resources
+E:\EventDemos\ExploreWinFormEvent\obj\Debug\4_ExploreWinFormEvent.csproj.GenerateResource.Cache
+E:\EventDemos\ExploreWinFormEvent\obj\Debug\ExploreWinFormEvent.exe
+E:\EventDemos\ExploreWinFormEvent\obj\Debug\ExploreWinFormEvent.pdb

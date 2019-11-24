@@ -1,0 +1,10 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\Pseudorandom\bin\Debug\Pseudorandom.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\Pseudorandom\bin\Debug\Pseudorandom.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\Pseudorandom\bin\Debug\Pseudorandom.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\Pseudorandom\obj\Debug\Pseudorandom.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\Pseudorandom\obj\Debug\Pseudorandom.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\Pseudorandom\obj\Debug\Pseudorandom.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\Pseudorandom\obj\Debug\Pseudorandom.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\Pseudorandom\obj\Debug\Pseudorandom.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\Pseudorandom\obj\Debug\Pseudorandom.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\Pseudorandom\obj\Debug\Pseudorandom.pdb

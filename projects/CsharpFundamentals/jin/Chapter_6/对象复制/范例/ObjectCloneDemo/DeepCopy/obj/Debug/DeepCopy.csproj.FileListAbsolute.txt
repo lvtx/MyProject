@@ -1,0 +1,8 @@
+E:\MOOC\录课视频相关文件\Week2\2.2 对象复制\ObjectCloneDemo\DeepCopy\bin\Debug\DeepCopy.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.2 对象复制\ObjectCloneDemo\DeepCopy\bin\Debug\DeepCopy.exe
+E:\MOOC\录课视频相关文件\Week2\2.2 对象复制\ObjectCloneDemo\DeepCopy\bin\Debug\DeepCopy.pdb
+E:\MOOC\录课视频相关文件\Week2\2.2 对象复制\ObjectCloneDemo\DeepCopy\obj\Debug\DeepCopy.exe
+E:\MOOC\录课视频相关文件\Week2\2.2 对象复制\ObjectCloneDemo\DeepCopy\obj\Debug\DeepCopy.pdb
+E:\ObjectCloneDemo\DeepCopy\bin\Debug\DeepCopy.exe.config
+E:\ObjectCloneDemo\DeepCopy\obj\Debug\DeepCopy.exe
+E:\ObjectCloneDemo\DeepCopy\obj\Debug\DeepCopy.pdb

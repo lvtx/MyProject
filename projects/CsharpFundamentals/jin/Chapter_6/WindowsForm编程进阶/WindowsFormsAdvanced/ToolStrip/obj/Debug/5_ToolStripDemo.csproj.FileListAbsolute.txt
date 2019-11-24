@@ -1,0 +1,9 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\ToolStrip\obj\Debug\5_ToolStripDemo.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\ToolStrip\bin\Debug\ToolStrip.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\ToolStrip\bin\Debug\ToolStrip.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\ToolStrip\bin\Debug\ToolStrip.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\ToolStrip\obj\Debug\ToolStripDemo.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\ToolStrip\obj\Debug\ToolStrip.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\ToolStrip\obj\Debug\5_ToolStripDemo.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\ToolStrip\obj\Debug\ToolStrip.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\ToolStrip\obj\Debug\ToolStrip.pdb

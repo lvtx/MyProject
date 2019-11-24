@@ -1,0 +1,6 @@
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\RecursionDemos\AreYouEqual\bin\Debug\AreYouEqual.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\RecursionDemos\AreYouEqual\bin\Debug\AreYouEqual.exe
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\RecursionDemos\AreYouEqual\bin\Debug\AreYouEqual.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\RecursionDemos\AreYouEqual\obj\Debug\AreYouEqual.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\RecursionDemos\AreYouEqual\obj\Debug\AreYouEqual.exe
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\RecursionDemos\AreYouEqual\obj\Debug\AreYouEqual.pdb

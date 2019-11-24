@@ -1,0 +1,39 @@
+C:\jxl\MyBook\面向对象的艺术\第11章 对象的比较\SourceCode\ObjectCompare\ObjectCompare\obj\Debug\ObjectCompare.exe
+C:\jxl\MyBook\面向对象的艺术\第11章 对象的比较\SourceCode\ObjectCompare\ObjectCompare\obj\Debug\ObjectCompare.pdb
+C:\jxl\MyBook\面向对象的艺术\第11章 对象的比较\SourceCode\ObjectCompare\ObjectCompare\bin\Debug\ObjectCompare.exe
+C:\jxl\MyBook\面向对象的艺术\第11章 对象的比较\SourceCode\ObjectCompare\ObjectCompare\bin\Debug\ObjectCompare.pdb
+C:\jxl\MyBook\面向对象的艺术\第11章 对象的比较\SourceCode\ObjectCompare\ObjectCompare\obj\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\入室登堂\第3篇 了不起的技术创新——LINQ\第17章 漫谈对象比较与对象数组\SourceCode\17.1\ObjectCompare\ObjectCompare\obj\Debug\ObjectCompare.exe
+C:\jxl\MyBook\入室登堂\第3篇 了不起的技术创新——LINQ\第17章 漫谈对象比较与对象数组\SourceCode\17.1\ObjectCompare\ObjectCompare\obj\Debug\ObjectCompare.pdb
+C:\jxl\MyBook\入室登堂\第3篇 了不起的技术创新——LINQ\第17章 漫谈对象比较与对象数组\SourceCode\17.1\ObjectCompare\ObjectCompare\bin\Debug\ObjectCompare.exe
+C:\jxl\MyBook\入室登堂\第3篇 了不起的技术创新——LINQ\第17章 漫谈对象比较与对象数组\SourceCode\17.1\ObjectCompare\ObjectCompare\bin\Debug\ObjectCompare.pdb
+C:\jxl\MyBook\入室登堂\第3篇 了不起的技术创新——LINQ\第17章 漫谈对象比较与对象数组\SourceCode\17.1\ObjectCompare\ObjectCompare\obj\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\入室登堂\第2篇 对象的精彩演出\第12章 对象集合与LINQ\SourceCode\12.1\ObjectCompare\ObjectCompare\obj\Debug\ObjectCompare.exe
+C:\jxl\MyBook\入室登堂\第2篇 对象的精彩演出\第12章 对象集合与LINQ\SourceCode\12.1\ObjectCompare\ObjectCompare\obj\Debug\ObjectCompare.pdb
+C:\jxl\MyBook\入室登堂\第2篇 对象的精彩演出\第12章 对象集合与LINQ\SourceCode\12.1\ObjectCompare\ObjectCompare\bin\Debug\ObjectCompare.exe
+C:\jxl\MyBook\入室登堂\第2篇 对象的精彩演出\第12章 对象集合与LINQ\SourceCode\12.1\ObjectCompare\ObjectCompare\bin\Debug\ObjectCompare.pdb
+C:\jxl\MyBook\入室登堂\第2篇 对象的精彩演出\第12章 对象集合与LINQ\SourceCode\12.1\ObjectCompare\ObjectCompare\obj\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第11章 对象集合与LINQ\SourceCode\11.1\ObjectCompare\ObjectCompare\obj\Debug\ObjectCompare.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第11章 对象集合与LINQ\SourceCode\11.1\ObjectCompare\ObjectCompare\obj\Debug\ObjectCompare.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第11章 对象集合与LINQ\SourceCode\11.1\ObjectCompare\ObjectCompare\bin\Debug\ObjectCompare.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第11章 对象集合与LINQ\SourceCode\11.1\ObjectCompare\ObjectCompare\bin\Debug\ObjectCompare.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第11章 对象集合与LINQ\SourceCode\11.1\ObjectCompare\ObjectCompare\obj\Debug\ResolveAssemblyReference.cache
+D:\jxl\上课幻灯片\OOAD（研究生版-2011）\2 打好面向对象编程基础\6 对象集合与对象组合\SourceCode\ObjectCompare\ObjectCompare\obj\Debug\ObjectCompare.exe
+D:\jxl\上课幻灯片\OOAD（研究生版-2011）\2 打好面向对象编程基础\6 对象集合与对象组合\SourceCode\ObjectCompare\ObjectCompare\obj\Debug\ObjectCompare.pdb
+E:\MOOC\录课视频相关文件\Week2\2.4 对象比较\ObjectCompareDemo\ObjectCompare\obj\Debug\ObjectCompare.exe
+E:\MOOC\录课视频相关文件\Week2\2.4 对象比较\ObjectCompareDemo\ObjectCompare\obj\Debug\ObjectCompare.pdb
+E:\MOOC\录课视频相关文件\Week2\2.4 对象比较\ObjectCompareDemo\ObjectCompare\bin\Debug\ObjectCompare.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.4 对象比较\ObjectCompareDemo\ObjectCompare\bin\Debug\ObjectCompare.exe
+E:\MOOC\录课视频相关文件\Week2\2.4 对象比较\ObjectCompareDemo\ObjectCompare\bin\Debug\ObjectCompare.pdb
+E:\MOOC\录课视频相关文件\Week2\2.4 对象比较\ObjectCompareDemo\ObjectCompare\obj\Debug\ObjectCompare.csprojResolveAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectCompare\bin\Debug\ObjectCompare.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectCompare\bin\Debug\ObjectCompare.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectCompare\bin\Debug\ObjectCompare.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectCompare\bin\Debug\EntityFramework.dll
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectCompare\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectCompare\bin\Debug\EntityFramework.xml
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectCompare\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectCompare\obj\Debug\ObjectCompare.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectCompare\obj\Debug\ObjectCompare.csproj.CopyComplete
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectCompare\obj\Debug\ObjectCompare.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectCompare\obj\Debug\ObjectCompare.pdb

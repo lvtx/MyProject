@@ -1,0 +1,14 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\Queue\Queue\bin\Debug\Queue.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\Queue\Queue\bin\Debug\Queue.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\Queue\Queue\bin\Debug\Queue.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\Queue\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\Queue\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\Queue\Queue\obj\Debug\Queue.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\Queue\Queue\obj\Debug\Queue.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\Queue\Queue\bin\Debug\Queue.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\Queue\Queue\bin\Debug\Queue.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\Queue\Queue\bin\Debug\Queue.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\Queue\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\Queue\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\Queue\Queue\obj\Debug\Queue.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\Queue\Queue\obj\Debug\Queue.pdb

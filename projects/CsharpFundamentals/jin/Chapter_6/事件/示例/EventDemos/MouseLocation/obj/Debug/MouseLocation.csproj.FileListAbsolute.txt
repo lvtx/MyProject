@@ -1,0 +1,61 @@
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\MouseLocation\bin\Debug\MouseLocation.exe
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\MouseLocation\bin\Debug\MouseLocation.pdb
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\MouseLocation\obj\Debug\ResolveAssemblyReference.cache
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\MouseLocation\obj\Debug\MouseLocation.Form1.resources
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\MouseLocation\obj\Debug\MouseLocation.Properties.Resources.resources
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\MouseLocation\obj\Debug\MouseLocation.csproj.GenerateResource.Cache
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\MouseLocation\obj\Debug\MouseLocation.exe
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\MouseLocation\obj\Debug\MouseLocation.pdb
+C:\第四讲 委托与事件\SourceCode\Lecture4\MouseLocation\obj\Debug\MouseLocation.exe
+C:\第四讲 委托与事件\SourceCode\Lecture4\MouseLocation\obj\Debug\MouseLocation.pdb
+C:\第四讲 委托与事件\SourceCode\Lecture4\MouseLocation\bin\Debug\MouseLocation.exe
+C:\第四讲 委托与事件\SourceCode\Lecture4\MouseLocation\bin\Debug\MouseLocation.pdb
+C:\第四讲 委托与事件\SourceCode\Lecture4\MouseLocation\obj\Debug\ResolveAssemblyReference.cache
+C:\第四讲 委托与事件\SourceCode\Lecture4\MouseLocation\obj\Debug\MouseLocation.Form1.resources
+C:\第四讲 委托与事件\SourceCode\Lecture4\MouseLocation\obj\Debug\MouseLocation.Properties.Resources.resources
+C:\第四讲 委托与事件\SourceCode\Lecture4\MouseLocation\obj\Debug\MouseLocation.csproj.GenerateResource.Cache
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\MouseLocation\bin\Debug\MouseLocation.exe
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\MouseLocation\bin\Debug\MouseLocation.pdb
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\MouseLocation\obj\Debug\ResolveAssemblyReference.cache
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\MouseLocation\obj\Debug\MouseLocation.Form1.resources
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\MouseLocation\obj\Debug\MouseLocation.Properties.Resources.resources
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\MouseLocation\obj\Debug\MouseLocation.csproj.GenerateResource.Cache
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\MouseLocation\obj\Debug\MouseLocation.exe
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\MouseLocation\obj\Debug\MouseLocation.pdb
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\MouseLocation\bin\Debug\MouseLocation.exe
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\MouseLocation\bin\Debug\MouseLocation.pdb
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\MouseLocation\obj\Debug\ResolveAssemblyReference.cache
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\MouseLocation\obj\Debug\MouseLocation.Form1.resources
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\MouseLocation\obj\Debug\MouseLocation.Properties.Resources.resources
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\MouseLocation\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\MouseLocation\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\MouseLocation\obj\Debug\MouseLocation.exe
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\MouseLocation\obj\Debug\MouseLocation.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\MouseLocation\obj\Debug\MouseLocation.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\MouseLocation\obj\Debug\MouseLocation.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\MouseLocation\bin\Debug\MouseLocation.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\MouseLocation\bin\Debug\MouseLocation.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\MouseLocation\obj\Debug\ResolveAssemblyReference.cache
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\MouseLocation\obj\Debug\MouseLocation.frmMain.resources
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\MouseLocation\obj\Debug\MouseLocation.Properties.Resources.resources
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\MouseLocation\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\MouseLocation\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\jxl\上课幻灯片\OOAD（研究生版-2011）\2 打好面向对象编程基础\5 委托与事件\SourceCode\事件\MouseLocation\obj\Debug\MouseLocation.exe
+D:\jxl\上课幻灯片\OOAD（研究生版-2011）\2 打好面向对象编程基础\5 委托与事件\SourceCode\事件\MouseLocation\obj\Debug\MouseLocation.pdb
+E:\jxl\上课幻灯片\OOAD（研究生版-2012）\2 打好面向对象编程基础\5 委托与事件\SourceCode\事件\MouseLocation\obj\Debug\MouseLocation.exe
+E:\jxl\上课幻灯片\OOAD（研究生版-2012）\2 打好面向对象编程基础\5 委托与事件\SourceCode\事件\MouseLocation\obj\Debug\MouseLocation.pdb
+E:\jxl\上课幻灯片\OOAD（研究生版-2012）\2 打好面向对象编程基础\5 委托与事件\SourceCode\事件\MouseLocation\bin\Debug\MouseLocation.exe
+E:\jxl\上课幻灯片\OOAD（研究生版-2012）\2 打好面向对象编程基础\5 委托与事件\SourceCode\事件\MouseLocation\bin\Debug\MouseLocation.pdb
+E:\jxl\上课幻灯片\OOAD（研究生版-2012）\2 打好面向对象编程基础\5 委托与事件\SourceCode\事件\MouseLocation\obj\Debug\MouseLocation.csprojResolveAssemblyReference.cache
+E:\jxl\上课幻灯片\OOAD（研究生版-2012）\2 打好面向对象编程基础\5 委托与事件\SourceCode\事件\MouseLocation\obj\Debug\MouseLocation.frmMain.resources
+E:\jxl\上课幻灯片\OOAD（研究生版-2012）\2 打好面向对象编程基础\5 委托与事件\SourceCode\事件\MouseLocation\obj\Debug\MouseLocation.Properties.Resources.resources
+E:\jxl\上课幻灯片\OOAD（研究生版-2012）\2 打好面向对象编程基础\5 委托与事件\SourceCode\事件\MouseLocation\obj\Debug\MouseLocation.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\MouseLocation\obj\Debug\MouseLocation.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\MouseLocation\obj\Debug\MouseLocation.pdb
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\MouseLocation\bin\Debug\MouseLocation.exe.config
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\MouseLocation\bin\Debug\MouseLocation.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\MouseLocation\bin\Debug\MouseLocation.pdb
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\MouseLocation\obj\Debug\MouseLocation.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\MouseLocation\obj\Debug\MouseLocation.frmMain.resources
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\MouseLocation\obj\Debug\MouseLocation.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\MouseLocation\obj\Debug\MouseLocation.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+F:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\HowSlowlyIsBoxing\HowSlowlyIsBoxing\bin\Debug\HowSlowlyIsBoxing.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\HowSlowlyIsBoxing\HowSlowlyIsBoxing\bin\Debug\HowSlowlyIsBoxing.exe
+F:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\HowSlowlyIsBoxing\HowSlowlyIsBoxing\bin\Debug\HowSlowlyIsBoxing.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\HowSlowlyIsBoxing\HowSlowlyIsBoxing\obj\Debug\HowSlowlyIsBoxing.csprojResolveAssemblyReference.cache
+F:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\HowSlowlyIsBoxing\HowSlowlyIsBoxing\obj\Debug\HowSlowlyIsBoxing.exe
+F:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\HowSlowlyIsBoxing\HowSlowlyIsBoxing\obj\Debug\HowSlowlyIsBoxing.pdb

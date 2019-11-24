@@ -1,0 +1,17 @@
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\UseClassLib\bin\Debug\UseClassLib.exe.config
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\UseClassLib\bin\Debug\UseClassLib.exe
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\UseClassLib\bin\Debug\UseClassLib.pdb
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\UseClassLib\bin\Debug\ClassLib.dll
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\UseClassLib\bin\Debug\ClassLib.pdb
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\UseClassLib\obj\Debug\UseClassLib.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\UseClassLib\obj\Debug\UseClassLib.exe
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\UseClassLib\obj\Debug\UseClassLib.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\UseClassLib\bin\Debug\UseClassLib.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\UseClassLib\bin\Debug\UseClassLib.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\UseClassLib\bin\Debug\UseClassLib.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\UseClassLib\bin\Debug\ClassLib.dll
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\UseClassLib\bin\Debug\ClassLib.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\UseClassLib\obj\Debug\UseClassLib.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\UseClassLib\obj\Debug\UseClassLib.csproj.CopyComplete
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\UseClassLib\obj\Debug\UseClassLib.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\UseClassLib\obj\Debug\UseClassLib.pdb

@@ -1,0 +1,5 @@
+D:\Working\DotNET Web开发步步高系列在线课程\DotNET 编程语言与面向对象理论基础\第二讲 类与对象（2）\SourceCode\Lecture2\ObjectEmbodied\bin\Release\ObjectEmbodied.exe
+D:\Working\DotNET Web开发步步高系列在线课程\DotNET 编程语言与面向对象理论基础\第二讲 类与对象（2）\SourceCode\Lecture2\ObjectEmbodied\bin\Release\ObjectEmbodied.pdb
+D:\Working\DotNET Web开发步步高系列在线课程\DotNET 编程语言与面向对象理论基础\第二讲 类与对象（2）\SourceCode\Lecture2\ObjectEmbodied\obj\Release\ResolveAssemblyReference.cache
+D:\Working\DotNET Web开发步步高系列在线课程\DotNET 编程语言与面向对象理论基础\第二讲 类与对象（2）\SourceCode\Lecture2\ObjectEmbodied\obj\Release\ObjectEmbodied.exe
+D:\Working\DotNET Web开发步步高系列在线课程\DotNET 编程语言与面向对象理论基础\第二讲 类与对象（2）\SourceCode\Lecture2\ObjectEmbodied\obj\Release\ObjectEmbodied.pdb

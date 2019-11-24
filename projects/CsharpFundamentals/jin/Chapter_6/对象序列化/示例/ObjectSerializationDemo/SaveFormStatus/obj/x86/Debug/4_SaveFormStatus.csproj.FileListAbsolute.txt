@@ -1,0 +1,17 @@
+E:\ObjectSerializationDemo\SaveFormStatus\bin\Debug\SaveFormStatus.exe.config
+E:\ObjectSerializationDemo\SaveFormStatus\bin\Debug\SaveFormStatus.exe
+E:\ObjectSerializationDemo\SaveFormStatus\bin\Debug\SaveFormStatus.pdb
+E:\ObjectSerializationDemo\SaveFormStatus\obj\x86\Debug\SaveFormStatus.frmMain.resources
+E:\ObjectSerializationDemo\SaveFormStatus\obj\x86\Debug\SaveFormStatus.Properties.Resources.resources
+E:\ObjectSerializationDemo\SaveFormStatus\obj\x86\Debug\4_SaveFormStatus.csproj.GenerateResource.Cache
+E:\ObjectSerializationDemo\SaveFormStatus\obj\x86\Debug\SaveFormStatus.exe
+E:\ObjectSerializationDemo\SaveFormStatus\obj\x86\Debug\SaveFormStatus.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\示例\ObjectSerializationDemo\SaveFormStatus\bin\Debug\SaveFormStatus.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\示例\ObjectSerializationDemo\SaveFormStatus\bin\Debug\SaveFormStatus.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\示例\ObjectSerializationDemo\SaveFormStatus\bin\Debug\SaveFormStatus.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\示例\ObjectSerializationDemo\SaveFormStatus\obj\x86\Debug\4_SaveFormStatus.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\示例\ObjectSerializationDemo\SaveFormStatus\obj\x86\Debug\SaveFormStatus.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\示例\ObjectSerializationDemo\SaveFormStatus\obj\x86\Debug\SaveFormStatus.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\示例\ObjectSerializationDemo\SaveFormStatus\obj\x86\Debug\4_SaveFormStatus.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\示例\ObjectSerializationDemo\SaveFormStatus\obj\x86\Debug\SaveFormStatus.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\示例\ObjectSerializationDemo\SaveFormStatus\obj\x86\Debug\SaveFormStatus.pdb

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="LoopDemos.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAACAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="System.ConsoleKeyInfo">
+    <Position X="4.25" Y="1.25" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier />
+  </Struct>
+  <Enum Name="System.ConsoleKey">
+    <Position X="1.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.ConsoleModifiers">
+    <Position X="7.75" Y="2.5" Width="1.75" />
+    <TypeIdentifier />
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,7 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\VariableAndDataType\VariableAndDataType\bin\Debug\VariableAndDataType.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\VariableAndDataType\VariableAndDataType\bin\Debug\VariableAndDataType.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\VariableAndDataType\VariableAndDataType\bin\Debug\VariableAndDataType.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\VariableAndDataType\VariableAndDataType\obj\Debug\VariableAndDataType.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\VariableAndDataType\VariableAndDataType\obj\Debug\VariableAndDataType.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\VariableAndDataType\VariableAndDataType\obj\Debug\VariableAndDataType.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\VariableAndDataType\VariableAndDataType\obj\Debug\VariableAndDataType.pdb

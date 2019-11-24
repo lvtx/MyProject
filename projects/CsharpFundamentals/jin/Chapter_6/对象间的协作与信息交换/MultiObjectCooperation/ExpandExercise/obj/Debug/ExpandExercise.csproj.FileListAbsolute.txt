@@ -1,0 +1,10 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ExpandExercise\bin\Debug\ExpandExercise.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ExpandExercise\bin\Debug\ExpandExercise.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ExpandExercise\bin\Debug\ExpandExercise.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ExpandExercise\obj\Debug\ExpandExercise.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ExpandExercise\obj\Debug\ExpandExercise.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ExpandExercise\obj\Debug\ExpandExercise.frmSub.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ExpandExercise\obj\Debug\ExpandExercise.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ExpandExercise\obj\Debug\ExpandExercise.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ExpandExercise\obj\Debug\ExpandExercise.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ExpandExercise\obj\Debug\ExpandExercise.pdb

@@ -1,0 +1,8 @@
+bin\Debug\frmGPExample1.exe
+bin\Debug\frmGPExample1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\frmGPExample1.frmGPExample1.resources
+obj\Debug\frmGPExample1.Properties.Resources.resources
+obj\Debug\MaxMinValueForGP1.csproj.GenerateResource.Cache
+obj\Debug\frmGPExample1.exe
+obj\Debug\frmGPExample1.pdb

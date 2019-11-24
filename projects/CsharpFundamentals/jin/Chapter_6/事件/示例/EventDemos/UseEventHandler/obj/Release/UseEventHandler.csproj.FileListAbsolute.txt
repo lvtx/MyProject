@@ -1,0 +1,26 @@
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\委托与Lambda表达式\SourceCode\UseEventHandler\UseEventHandler\bin\Release\UseEventHandler.exe
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\委托与Lambda表达式\SourceCode\UseEventHandler\UseEventHandler\bin\Release\UseEventHandler.pdb
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\委托与Lambda表达式\SourceCode\UseEventHandler\UseEventHandler\obj\Release\ResolveAssemblyReference.cache
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\委托与Lambda表达式\SourceCode\UseEventHandler\UseEventHandler\obj\Release\UseEventHandler.Form1.resources
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\委托与Lambda表达式\SourceCode\UseEventHandler\UseEventHandler\obj\Release\UseEventHandler.Properties.Resources.resources
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\委托与Lambda表达式\SourceCode\UseEventHandler\UseEventHandler\obj\Release\UseEventHandler.csproj.GenerateResource.Cache
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\委托与Lambda表达式\SourceCode\UseEventHandler\UseEventHandler\obj\Release\UseEventHandler.exe
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\委托与Lambda表达式\SourceCode\UseEventHandler\UseEventHandler\obj\Release\UseEventHandler.pdb
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\5 委托与事件\SourceCode\UseEventHandler\UseEventHandler\obj\Release\UseEventHandler.exe
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\5 委托与事件\SourceCode\UseEventHandler\UseEventHandler\obj\Release\UseEventHandler.pdb
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\5 委托与事件\SourceCode\UseEventHandler\UseEventHandler\bin\Release\UseEventHandler.exe
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\5 委托与事件\SourceCode\UseEventHandler\UseEventHandler\bin\Release\UseEventHandler.pdb
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\5 委托与事件\SourceCode\UseEventHandler\UseEventHandler\obj\Release\ResolveAssemblyReference.cache
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\5 委托与事件\SourceCode\UseEventHandler\UseEventHandler\obj\Release\UseEventHandler.Form1.resources
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\5 委托与事件\SourceCode\UseEventHandler\UseEventHandler\obj\Release\UseEventHandler.Properties.Resources.resources
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\5 委托与事件\SourceCode\UseEventHandler\UseEventHandler\obj\Release\GenerateResource.read.1.tlog
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\5 委托与事件\SourceCode\UseEventHandler\UseEventHandler\obj\Release\GenerateResource.write.1.tlog
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\UseEventHandler\UseEventHandler\obj\Release\UseEventHandler.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\UseEventHandler\UseEventHandler\obj\Release\UseEventHandler.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\UseEventHandler\UseEventHandler\bin\Release\UseEventHandler.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\UseEventHandler\UseEventHandler\bin\Release\UseEventHandler.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\UseEventHandler\UseEventHandler\obj\Release\ResolveAssemblyReference.cache
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\UseEventHandler\UseEventHandler\obj\Release\UseEventHandler.frmMain.resources
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\UseEventHandler\UseEventHandler\obj\Release\UseEventHandler.Properties.Resources.resources
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\UseEventHandler\UseEventHandler\obj\Release\GenerateResource.read.1.tlog
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\UseEventHandler\UseEventHandler\obj\Release\GenerateResource.write.1.tlog

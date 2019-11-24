@@ -1,0 +1,6 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\UseEvent\bin\Debug\UseEvent.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\UseEvent\bin\Debug\UseEvent.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\UseEvent\bin\Debug\UseEvent.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\UseEvent\obj\Debug\UseEvent.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\UseEvent\obj\Debug\UseEvent.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\UseEvent\obj\Debug\UseEvent.pdb

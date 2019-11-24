@@ -1,0 +1,29 @@
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\MainFormToOtherForm\bin\Debug\MultiFormProgram1.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\MultiFormProgram1.exe
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\MultiFormProgram1.pdb
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\MainFormToOtherForm\bin\Debug\MultiFormProgram1.exe
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\MainFormToOtherForm\bin\Debug\MultiFormProgram1.pdb
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\MultiFormProgram1.frmMain.resources
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\MultiFormProgram1.frmOther.resources
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\MultiFormProgram1.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\2_MainFormToOtherForm.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换（上）\ObjectCooperationDemo\MainFormToOtherForm\bin\Debug\MultiFormProgram1.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换（上）\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\MultiFormProgram1.exe
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换（上）\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\MultiFormProgram1.pdb
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换（上）\ObjectCooperationDemo\MainFormToOtherForm\bin\Debug\MultiFormProgram1.exe
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换（上）\ObjectCooperationDemo\MainFormToOtherForm\bin\Debug\MultiFormProgram1.pdb
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换（上）\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\2_MainFormToOtherForm.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换（上）\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\MultiFormProgram1.frmMain.resources
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换（上）\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\MultiFormProgram1.frmOther.resources
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换（上）\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\MultiFormProgram1.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换（上）\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\2_MainFormToOtherForm.csproj.GenerateResource.Cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\MainFormToOtherForm\bin\Debug\MultiFormProgram1.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\MainFormToOtherForm\bin\Debug\MultiFormProgram1.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\MainFormToOtherForm\bin\Debug\MultiFormProgram1.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\2_MainFormToOtherForm.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\MultiFormProgram1.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\MultiFormProgram1.frmOther.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\MultiFormProgram1.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\2_MainFormToOtherForm.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\MultiFormProgram1.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\MultiFormProgram1.pdb

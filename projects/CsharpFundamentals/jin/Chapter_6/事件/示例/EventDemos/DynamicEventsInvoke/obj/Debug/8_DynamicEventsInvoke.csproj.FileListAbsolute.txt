@@ -1,0 +1,12 @@
+E:\EventDemos\DynamicEventsInvoke\bin\Debug\DynamicEventsInvoke.exe.config
+E:\EventDemos\DynamicEventsInvoke\obj\Debug\DynamicEventsInvoke.exe
+E:\EventDemos\DynamicEventsInvoke\obj\Debug\DynamicEventsInvoke.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\DynamicEventsInvoke\bin\Debug\DynamicEventsInvoke.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\DynamicEventsInvoke\bin\Debug\DynamicEventsInvoke.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\DynamicEventsInvoke\bin\Debug\DynamicEventsInvoke.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\DynamicEventsInvoke\obj\Debug\8_DynamicEventsInvoke.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\DynamicEventsInvoke\obj\Debug\DynamicEventsInvoke.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\DynamicEventsInvoke\obj\Debug\DynamicEventsInvoke.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\DynamicEventsInvoke\obj\Debug\8_DynamicEventsInvoke.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\DynamicEventsInvoke\obj\Debug\DynamicEventsInvoke.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\DynamicEventsInvoke\obj\Debug\DynamicEventsInvoke.pdb

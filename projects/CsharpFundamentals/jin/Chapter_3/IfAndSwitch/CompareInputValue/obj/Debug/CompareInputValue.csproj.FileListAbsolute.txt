@@ -1,0 +1,7 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\CompareInputValue\bin\Debug\CompareInputValue.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\CompareInputValue\bin\Debug\CompareInputValue.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\CompareInputValue\bin\Debug\CompareInputValue.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\CompareInputValue\obj\Debug\CompareInputValue.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\CompareInputValue\obj\Debug\CompareInputValue.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\CompareInputValue\obj\Debug\CompareInputValue.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\CompareInputValue\obj\Debug\CompareInputValue.pdb

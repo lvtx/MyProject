@@ -1,0 +1,4 @@
+F:\MyDLL\MyDLL2\bin\Debug\MyDLL2.dll
+F:\MyDLL\MyDLL2\bin\Debug\MyDLL2.pdb
+F:\MyDLL\MyDLL2\obj\Debug\MyDLL2.dll
+F:\MyDLL\MyDLL2\obj\Debug\MyDLL2.pdb

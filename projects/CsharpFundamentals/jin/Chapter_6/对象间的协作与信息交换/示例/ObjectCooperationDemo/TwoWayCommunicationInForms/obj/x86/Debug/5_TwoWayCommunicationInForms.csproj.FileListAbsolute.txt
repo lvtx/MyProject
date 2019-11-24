@@ -1,0 +1,12 @@
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\TwoWayCommunicationInForms\bin\Debug\TwoWayCommunicationInForms.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\TwoWayCommunicationInForms\obj\x86\Debug\TwoWayCommunicationInForms.exe
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\TwoWayCommunicationInForms\obj\x86\Debug\TwoWayCommunicationInForms.pdb
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\TwoWayCommunicationInForms\bin\Debug\TwoWayCommunicationInForms.exe
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\TwoWayCommunicationInForms\bin\Debug\TwoWayCommunicationInForms.pdb
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\TwoWayCommunicationInForms\obj\x86\Debug\TwoWayCommunicationInForms.frmMain.resources
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\TwoWayCommunicationInForms\obj\x86\Debug\TwoWayCommunicationInForms.frmOther.resources
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\TwoWayCommunicationInForms\obj\x86\Debug\TwoWayCommunicationInForms.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\TwoWayCommunicationInForms\obj\x86\Debug\5_TwoWayCommunicationInForms.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换（上）\ObjectCooperationDemo\TwoWayCommunicationInForms\bin\Debug\TwoWayCommunicationInForms.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换（上）\ObjectCooperationDemo\TwoWayCommunicationInForms\obj\x86\Debug\TwoWayCommunicationInForms.exe
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换（上）\ObjectCooperationDemo\TwoWayCommunicationInForms\obj\x86\Debug\TwoWayCommunicationInForms.pdb

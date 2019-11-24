@@ -1,0 +1,14 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\AbstractClassAndInterface\bin\Debug\AbstractClassAndInterface.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\AbstractClassAndInterface\bin\Debug\AbstractClassAndInterface.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\AbstractClassAndInterface\bin\Debug\AbstractClassAndInterface.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\AbstractClassAndInterface\obj\Debug\AbstractClass.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\AbstractClassAndInterface\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\AbstractClassAndInterface\obj\Debug\AbstractClassAndInterface.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\AbstractClassAndInterface\obj\Debug\AbstractClassAndInterface.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\AbstractClass\bin\Debug\AbstractClassAndInterface.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\AbstractClass\bin\Debug\AbstractClassAndInterface.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\AbstractClass\bin\Debug\AbstractClassAndInterface.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\AbstractClass\obj\Debug\AbstractClass.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\AbstractClass\obj\Debug\AbstractClassAndInterface.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\AbstractClass\obj\Debug\AbstractClassAndInterface.pdb

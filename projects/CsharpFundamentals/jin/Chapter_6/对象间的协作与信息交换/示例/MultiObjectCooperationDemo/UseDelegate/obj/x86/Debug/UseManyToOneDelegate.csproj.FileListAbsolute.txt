@@ -1,0 +1,10 @@
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseManyToOneDelegate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseManyToOneDelegate\obj\x86\Debug\UseManyToOneDelegate.frmMain.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseManyToOneDelegate\obj\x86\Debug\UseManyToOneDelegate.frmOther.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseManyToOneDelegate\obj\x86\Debug\UseManyToOneDelegate.Properties.Resources.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseManyToOneDelegate\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseManyToOneDelegate\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseManyToOneDelegate\bin\Debug\UseManyToOneDelegate.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseManyToOneDelegate\bin\Debug\UseManyToOneDelegate.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseManyToOneDelegate\obj\x86\Debug\UseManyToOneDelegate.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseManyToOneDelegate\obj\x86\Debug\UseManyToOneDelegate.pdb

@@ -1,0 +1,6 @@
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\ObjectCloneViaSerialization\bin\Debug\ObjectCloneViaSerialization.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\ObjectCloneViaSerialization\bin\Debug\ObjectCloneViaSerialization.exe
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\ObjectCloneViaSerialization\bin\Debug\ObjectCloneViaSerialization.pdb
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\ObjectCloneViaSerialization\obj\Debug\ObjectCloneViaSerialization.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\ObjectCloneViaSerialization\obj\Debug\ObjectCloneViaSerialization.exe
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\ObjectCloneViaSerialization\obj\Debug\ObjectCloneViaSerialization.pdb

@@ -1,0 +1,9 @@
+E:\GenericProgramDemos\CSMaxMinValueForGP1\bin\Debug\frmGPExample1.exe.config
+E:\GenericProgramDemos\CSMaxMinValueForGP1\obj\Debug\frmGPExample1.exe
+E:\GenericProgramDemos\CSMaxMinValueForGP1\obj\Debug\frmGPExample1.pdb
+E:\GenericProgramDemos\CSMaxMinValueForGP1\bin\Debug\frmGPExample1.exe
+E:\GenericProgramDemos\CSMaxMinValueForGP1\bin\Debug\frmGPExample1.pdb
+E:\GenericProgramDemos\CSMaxMinValueForGP1\obj\Debug\1_CSMaxMinValueForGP1.csprojResolveAssemblyReference.cache
+E:\GenericProgramDemos\CSMaxMinValueForGP1\obj\Debug\frmGPExample1.frmGPExample1.resources
+E:\GenericProgramDemos\CSMaxMinValueForGP1\obj\Debug\frmGPExample1.Properties.Resources.resources
+E:\GenericProgramDemos\CSMaxMinValueForGP1\obj\Debug\1_CSMaxMinValueForGP1.csproj.GenerateResource.Cache

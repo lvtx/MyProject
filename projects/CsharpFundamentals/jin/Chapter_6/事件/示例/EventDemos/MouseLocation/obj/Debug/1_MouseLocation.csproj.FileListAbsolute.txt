@@ -1,0 +1,33 @@
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\MouseLocation\bin\Debug\MouseLocation.exe.config
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\MouseLocation\obj\Debug\MouseLocation.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\MouseLocation\obj\Debug\MouseLocation.pdb
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\MouseLocation\bin\Debug\MouseLocation.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\MouseLocation\bin\Debug\MouseLocation.pdb
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\MouseLocation\obj\Debug\1_MouseLocation.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\MouseLocation\obj\Debug\MouseLocation.frmMain.resources
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\MouseLocation\obj\Debug\MouseLocation.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\MouseLocation\obj\Debug\1_MouseLocation.csproj.GenerateResource.Cache
+E:\EventDemos\MouseLocation\bin\Debug\MouseLocation.exe.config
+E:\EventDemos\MouseLocation\obj\Debug\MouseLocation.exe
+E:\EventDemos\MouseLocation\obj\Debug\MouseLocation.pdb
+C:\Mooc\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\8 事件\EventDemos\MouseLocation\bin\Debug\MouseLocation.exe.config
+C:\Mooc\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\8 事件\EventDemos\MouseLocation\obj\Debug\MouseLocation.exe
+C:\Mooc\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\8 事件\EventDemos\MouseLocation\obj\Debug\MouseLocation.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\6 事件\EventDemos\MouseLocation\bin\Debug\MouseLocation.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\6 事件\EventDemos\MouseLocation\obj\Debug\MouseLocation.exe
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\6 事件\EventDemos\MouseLocation\obj\Debug\MouseLocation.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\6 事件\EventDemos\MouseLocation\bin\Debug\MouseLocation.exe
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\6 事件\EventDemos\MouseLocation\bin\Debug\MouseLocation.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\6 事件\EventDemos\MouseLocation\obj\Debug\1_MouseLocation.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\6 事件\EventDemos\MouseLocation\obj\Debug\MouseLocation.frmMain.resources
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\6 事件\EventDemos\MouseLocation\obj\Debug\MouseLocation.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\6 事件\EventDemos\MouseLocation\obj\Debug\1_MouseLocation.csproj.GenerateResource.Cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\MouseLocation\bin\Debug\MouseLocation.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\MouseLocation\bin\Debug\MouseLocation.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\MouseLocation\bin\Debug\MouseLocation.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\MouseLocation\obj\Debug\1_MouseLocation.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\MouseLocation\obj\Debug\MouseLocation.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\MouseLocation\obj\Debug\MouseLocation.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\MouseLocation\obj\Debug\1_MouseLocation.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\MouseLocation\obj\Debug\MouseLocation.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\MouseLocation\obj\Debug\MouseLocation.pdb

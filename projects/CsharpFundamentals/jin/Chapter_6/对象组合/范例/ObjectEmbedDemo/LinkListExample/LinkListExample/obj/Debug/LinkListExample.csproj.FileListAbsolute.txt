@@ -1,0 +1,16 @@
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象的组合与数据结构\SourceCode\11.2\LinkListExample\LinkListExample\obj\Debug\LinkListExample.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象的组合与数据结构\SourceCode\11.2\LinkListExample\LinkListExample\obj\Debug\LinkListExample.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第12章 对象组合与数据结构的应用\SourceCode\12.2\LinkListExample\LinkListExample\obj\Debug\LinkListExample.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第12章 对象组合与数据结构的应用\SourceCode\12.2\LinkListExample\LinkListExample\obj\Debug\LinkListExample.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第12章 对象组合与数据结构的应用\SourceCode\12.2\LinkListExample\LinkListExample\bin\Debug\LinkListExample.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第12章 对象组合与数据结构的应用\SourceCode\12.2\LinkListExample\LinkListExample\bin\Debug\LinkListExample.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第12章 对象组合与数据结构的应用\SourceCode\12.2\LinkListExample\LinkListExample\obj\Debug\ResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\LinkListExample\LinkListExample\obj\Debug\LinkListExample.exe
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\LinkListExample\LinkListExample\obj\Debug\LinkListExample.pdb
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\LinkListExample\LinkListExample\bin\Debug\LinkListExample.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\LinkListExample\LinkListExample\bin\Debug\LinkListExample.exe
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\LinkListExample\LinkListExample\bin\Debug\LinkListExample.pdb
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\LinkListExample\LinkListExample\obj\Debug\LinkListExample.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合\ObjectEmbedDemo\LinkListExample\LinkListExample\bin\Debug\LinkListExample.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合\ObjectEmbedDemo\LinkListExample\LinkListExample\obj\Debug\LinkListExample.exe
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合\ObjectEmbedDemo\LinkListExample\LinkListExample\obj\Debug\LinkListExample.pdb

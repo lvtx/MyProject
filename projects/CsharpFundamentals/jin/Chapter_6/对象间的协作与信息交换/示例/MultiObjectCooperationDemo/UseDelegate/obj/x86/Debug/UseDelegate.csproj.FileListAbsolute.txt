@@ -1,0 +1,42 @@
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseManyToOneDelegate.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseManyToOneDelegate.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseDelegate\bin\Debug\UseManyToOneDelegate.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseDelegate\bin\Debug\UseManyToOneDelegate.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseDelegate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseDelegate.frmMain.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseDelegate.frmOther.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseDelegate.Properties.Resources.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseDelegate\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.2\BroadcastInformation\UseDelegate\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第13章 对象间的信息交换与相互协作\SourceCode\13.2\BroadcastInformation\UseDelegate\bin\Debug\UseManyToOneDelegate.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第13章 对象间的信息交换与相互协作\SourceCode\13.2\BroadcastInformation\UseDelegate\bin\Debug\UseManyToOneDelegate.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第13章 对象间的信息交换与相互协作\SourceCode\13.2\BroadcastInformation\UseDelegate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第13章 对象间的信息交换与相互协作\SourceCode\13.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseDelegate.frmMain.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第13章 对象间的信息交换与相互协作\SourceCode\13.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseDelegate.frmOther.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第13章 对象间的信息交换与相互协作\SourceCode\13.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseDelegate.Properties.Resources.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第13章 对象间的信息交换与相互协作\SourceCode\13.2\BroadcastInformation\UseDelegate\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第13章 对象间的信息交换与相互协作\SourceCode\13.2\BroadcastInformation\UseDelegate\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第13章 对象间的信息交换与相互协作\SourceCode\13.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseManyToOneDelegate.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第13章 对象间的信息交换与相互协作\SourceCode\13.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseManyToOneDelegate.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的相互访问与协作\SourceCode\14.2\BroadcastInformation\UseDelegate\bin\Debug\UseManyToOneDelegate.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的相互访问与协作\SourceCode\14.2\BroadcastInformation\UseDelegate\bin\Debug\UseManyToOneDelegate.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的相互访问与协作\SourceCode\14.2\BroadcastInformation\UseDelegate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的相互访问与协作\SourceCode\14.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseDelegate.frmMain.resources
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的相互访问与协作\SourceCode\14.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseDelegate.frmOther.resources
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的相互访问与协作\SourceCode\14.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseDelegate.Properties.Resources.resources
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的相互访问与协作\SourceCode\14.2\BroadcastInformation\UseDelegate\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的相互访问与协作\SourceCode\14.2\BroadcastInformation\UseDelegate\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的相互访问与协作\SourceCode\14.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseManyToOneDelegate.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的相互访问与协作\SourceCode\14.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseManyToOneDelegate.pdb
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的协作与信息交换\SourceCode\14.2\BroadcastInformation\UseDelegate\bin\Debug\UseManyToOneDelegate.exe
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的协作与信息交换\SourceCode\14.2\BroadcastInformation\UseDelegate\bin\Debug\UseManyToOneDelegate.pdb
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的协作与信息交换\SourceCode\14.2\BroadcastInformation\UseDelegate\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的协作与信息交换\SourceCode\14.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseDelegate.frmMain.resources
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的协作与信息交换\SourceCode\14.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseDelegate.frmOther.resources
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的协作与信息交换\SourceCode\14.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseDelegate.Properties.Resources.resources
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的协作与信息交换\SourceCode\14.2\BroadcastInformation\UseDelegate\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的协作与信息交换\SourceCode\14.2\BroadcastInformation\UseDelegate\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的协作与信息交换\SourceCode\14.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseManyToOneDelegate.exe
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的协作与信息交换\SourceCode\14.2\BroadcastInformation\UseDelegate\obj\x86\Debug\UseManyToOneDelegate.pdb
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseDelegate\obj\x86\Debug\UseManyToOneDelegate.exe
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseDelegate\obj\x86\Debug\UseManyToOneDelegate.pdb

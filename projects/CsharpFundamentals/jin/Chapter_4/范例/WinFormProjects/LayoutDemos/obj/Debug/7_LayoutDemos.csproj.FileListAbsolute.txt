@@ -1,0 +1,28 @@
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LayoutDemos\bin\Debug\LayoutDemos.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LayoutDemos\bin\Debug\LayoutDemos.exe
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LayoutDemos\bin\Debug\LayoutDemos.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LayoutDemos\obj\Debug\LayoutDemos.frmMain.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LayoutDemos\obj\Debug\LayoutDemos.frmSplitContainer.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LayoutDemos\obj\Debug\LayoutDemos.frmTableLayout.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LayoutDemos\obj\Debug\LayoutDemos.Properties.Resources.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LayoutDemos\obj\Debug\7_LayoutDemos.csproj.GenerateResource.Cache
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LayoutDemos\obj\Debug\LayoutDemos.exe
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LayoutDemos\obj\Debug\LayoutDemos.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LayoutDemos\obj\Debug\LayoutDemos.frmFlowLayout.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LayoutDemos\obj\Debug\7_LayoutDemos.csprojResolveAssemblyReference.cache
+C:\Mooc\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LayoutDemos\bin\Debug\LayoutDemos.exe.config
+C:\Mooc\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LayoutDemos\obj\Debug\LayoutDemos.exe
+C:\Mooc\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LayoutDemos\obj\Debug\LayoutDemos.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\LayoutDemos\bin\Debug\LayoutDemos.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\LayoutDemos\bin\Debug\LayoutDemos.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\LayoutDemos\bin\Debug\LayoutDemos.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\LayoutDemos\obj\Debug\7_LayoutDemos.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\LayoutDemos\obj\Debug\LayoutDemos.frmFlowLayout.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\LayoutDemos\obj\Debug\LayoutDemos.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\LayoutDemos\obj\Debug\LayoutDemos.frmSplitContainer.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\LayoutDemos\obj\Debug\LayoutDemos.frmTableLayout.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\LayoutDemos\obj\Debug\LayoutDemos.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\LayoutDemos\obj\Debug\7_LayoutDemos.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\LayoutDemos\obj\Debug\7_LayoutDemos.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\LayoutDemos\obj\Debug\LayoutDemos.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\LayoutDemos\obj\Debug\LayoutDemos.pdb

@@ -1,0 +1,18 @@
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\FirstDelegateExample\bin\Debug\FirstDelegateExample.exe.config
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\FirstDelegateExample\obj\Debug\FirstDelegateExample.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\FirstDelegateExample\obj\Debug\FirstDelegateExample.pdb
+E:\DelegateDemos\FirstDelegateExample\bin\Debug\FirstDelegateExample.exe.config
+E:\DelegateDemos\FirstDelegateExample\obj\Debug\FirstDelegateExample.exe
+E:\DelegateDemos\FirstDelegateExample\obj\Debug\FirstDelegateExample.pdb
+E:\DelegateDemos\FirstDelegateExample\bin\Debug\FirstDelegateExample.exe
+E:\DelegateDemos\FirstDelegateExample\bin\Debug\FirstDelegateExample.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\7 委托\DelegateDemos\FirstDelegateExample\bin\Debug\FirstDelegateExample.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\7 委托\DelegateDemos\FirstDelegateExample\obj\Debug\FirstDelegateExample.exe
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\7 委托\DelegateDemos\FirstDelegateExample\obj\Debug\FirstDelegateExample.pdb
+C:\Mooc\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\7 委托\DelegateDemos\FirstDelegateExample\bin\Debug\FirstDelegateExample.exe.config
+C:\Mooc\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\7 委托\DelegateDemos\FirstDelegateExample\obj\Debug\FirstDelegateExample.exe
+C:\Mooc\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\7 委托\DelegateDemos\FirstDelegateExample\obj\Debug\FirstDelegateExample.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\5 委托\DelegateDemos\FirstDelegateExample\bin\Debug\FirstDelegateExample.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\5 委托\DelegateDemos\FirstDelegateExample\obj\Debug\FirstDelegateExample.exe
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\5 委托\DelegateDemos\FirstDelegateExample\obj\Debug\FirstDelegateExample.pdb
+E:\DelegateDemos\FirstDelegateExample\obj\Debug\1_FirstDelegateExample.csprojResolveAssemblyReference.cache

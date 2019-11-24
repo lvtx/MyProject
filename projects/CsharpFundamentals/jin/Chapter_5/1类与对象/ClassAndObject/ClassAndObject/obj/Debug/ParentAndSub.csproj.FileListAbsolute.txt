@@ -1,0 +1,11 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\ClassAndObject\ClassAndObject\bin\Debug\ClassAndObject.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\ClassAndObject\ClassAndObject\bin\Debug\ClassAndObject.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\ClassAndObject\ClassAndObject\bin\Debug\ClassAndObject.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\ClassAndObject\ClassAndObject\obj\Debug\ParentAndSub.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.SubForm.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\ClassAndObject\ClassAndObject\obj\Debug\ParentAndSub.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\ClassAndObject\ClassAndObject\obj\Debug\ParentAndSub.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.ParentForm.resources

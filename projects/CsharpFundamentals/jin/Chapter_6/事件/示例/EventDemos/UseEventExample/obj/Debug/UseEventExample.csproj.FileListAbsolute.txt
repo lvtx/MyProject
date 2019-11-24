@@ -1,0 +1,17 @@
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\UseEventExample\obj\Debug\UseEventExample.exe
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\UseEventExample\obj\Debug\UseEventExample.pdb
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\UseEventExample\bin\Debug\UseEventExample.exe
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\UseEventExample\bin\Debug\UseEventExample.pdb
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\UseEventExample\obj\Debug\ResolveAssemblyReference.cache
+C:\第四讲 委托与事件\SourceCode\Lecture4\UseEventExample\obj\Debug\UseEventExample.exe
+C:\第四讲 委托与事件\SourceCode\Lecture4\UseEventExample\obj\Debug\UseEventExample.pdb
+C:\第四讲 委托与事件\SourceCode\Lecture4\UseEventExample\bin\Debug\UseEventExample.exe
+C:\第四讲 委托与事件\SourceCode\Lecture4\UseEventExample\bin\Debug\UseEventExample.pdb
+C:\第四讲 委托与事件\SourceCode\Lecture4\UseEventExample\obj\Debug\ResolveAssemblyReference.cache
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseEventExample\bin\Debug\UseEventExample.exe
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseEventExample\bin\Debug\UseEventExample.pdb
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseEventExample\obj\Debug\ResolveAssemblyReference.cache
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseEventExample\obj\Debug\UseEventExample.exe
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseEventExample\obj\Debug\UseEventExample.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\UseEventExample\obj\Debug\UseEventExample.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\UseEventExample\obj\Debug\UseEventExample.pdb

@@ -1,0 +1,7 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\Exception\Exception\bin\Debug\Exception.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\Exception\Exception\bin\Debug\Exception.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\Exception\Exception\bin\Debug\Exception.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\Exception\Exception\obj\Debug\Exception.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\Exception\Exception\obj\Debug\Exception.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\Exception\Exception\obj\Debug\Exception.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\Exception\Exception\obj\Debug\Exception.pdb

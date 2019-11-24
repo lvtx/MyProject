@@ -1,0 +1,8 @@
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\MathLibrary\bin\Debug\MathLibrary.dll
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\MathLibrary\bin\Debug\MathLibrary.pdb
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\MathLibrary\obj\Debug\MathLibrary.dll
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\MathLibrary\obj\Debug\MathLibrary.pdb
+F:\AddTwoNumberDemos\MathLibrary\bin\Debug\MathLibrary.dll
+F:\AddTwoNumberDemos\MathLibrary\bin\Debug\MathLibrary.pdb
+F:\AddTwoNumberDemos\MathLibrary\obj\Debug\MathLibrary.dll
+F:\AddTwoNumberDemos\MathLibrary\obj\Debug\MathLibrary.pdb

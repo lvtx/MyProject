@@ -1,0 +1,17 @@
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.3\SaveFormStatus\SaveFormStatus\bin\Debug\SaveFormStatus.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.3\SaveFormStatus\SaveFormStatus\bin\Debug\SaveFormStatus.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.3\SaveFormStatus\SaveFormStatus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.3\SaveFormStatus\SaveFormStatus\obj\x86\Debug\SaveFormStatus.frmMain.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.3\SaveFormStatus\SaveFormStatus\obj\x86\Debug\SaveFormStatus.Properties.Resources.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.3\SaveFormStatus\SaveFormStatus\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.3\SaveFormStatus\SaveFormStatus\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.3\SaveFormStatus\SaveFormStatus\obj\x86\Debug\SaveFormStatus.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.3\SaveFormStatus\SaveFormStatus\obj\x86\Debug\SaveFormStatus.pdb
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\SaveFormStatus\bin\Debug\SaveFormStatus.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\SaveFormStatus\bin\Debug\SaveFormStatus.exe
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\SaveFormStatus\bin\Debug\SaveFormStatus.pdb
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\SaveFormStatus\obj\x86\Debug\SaveFormStatus.frmMain.resources
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\SaveFormStatus\obj\x86\Debug\SaveFormStatus.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\SaveFormStatus\obj\x86\Debug\SaveFormStatus.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\SaveFormStatus\obj\x86\Debug\SaveFormStatus.exe
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\SaveFormStatus\obj\x86\Debug\SaveFormStatus.pdb

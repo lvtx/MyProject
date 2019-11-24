@@ -1,0 +1,9 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\ExploreWinFormEvent\bin\Debug\ExploreWinFormEvent.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\ExploreWinFormEvent\bin\Debug\ExploreWinFormEvent.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\ExploreWinFormEvent\bin\Debug\ExploreWinFormEvent.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\ExploreWinFormEvent\obj\Debug\4_ExploreWinFormEvent.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\ExploreWinFormEvent\obj\Debug\ExploreWinFormEvent.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\ExploreWinFormEvent\obj\Debug\ExploreWinFormEvent.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\ExploreWinFormEvent\obj\Debug\4_ExploreWinFormEvent.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\ExploreWinFormEvent\obj\Debug\ExploreWinFormEvent.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\ExploreWinFormEvent\obj\Debug\ExploreWinFormEvent.pdb

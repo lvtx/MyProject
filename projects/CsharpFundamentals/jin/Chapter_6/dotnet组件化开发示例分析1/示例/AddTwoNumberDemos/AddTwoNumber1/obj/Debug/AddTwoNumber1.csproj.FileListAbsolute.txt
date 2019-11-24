@@ -1,0 +1,24 @@
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber1\bin\Debug\AddTwoNumber1.exe.config
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber1\bin\Debug\AddTwoNumber1.exe
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber1\bin\Debug\AddTwoNumber1.pdb
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber1\obj\Debug\AddTwoNumber1.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber1\obj\Debug\AddTwoNumber1.frmAdd.resources
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber1\obj\Debug\AddTwoNumber1.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber1\obj\Debug\AddTwoNumber1.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber1\obj\Debug\AddTwoNumber1.exe
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber1\obj\Debug\AddTwoNumber1.pdb
+E:\MOOC\录课视频相关文件\Week3\2 从天下一统到借鸡生蛋\dotNETCBDDemos\AddTwoNumber1\bin\Debug\AddTwoNumber1.exe.config
+E:\MOOC\录课视频相关文件\Week3\2 从天下一统到借鸡生蛋\dotNETCBDDemos\AddTwoNumber1\obj\Debug\AddTwoNumber1.exe
+E:\MOOC\录课视频相关文件\Week3\2 从天下一统到借鸡生蛋\dotNETCBDDemos\AddTwoNumber1\obj\Debug\AddTwoNumber1.pdb
+E:\MOOC\录课视频相关文件\Week3\2 从天下一统到借鸡生蛋\AddTwoNumberDemos\AddTwoNumber1\bin\Debug\AddTwoNumber1.exe.config
+E:\MOOC\录课视频相关文件\Week3\2 从天下一统到借鸡生蛋\AddTwoNumberDemos\AddTwoNumber1\obj\Debug\AddTwoNumber1.exe
+E:\MOOC\录课视频相关文件\Week3\2 从天下一统到借鸡生蛋\AddTwoNumberDemos\AddTwoNumber1\obj\Debug\AddTwoNumber1.pdb
+F:\AddTwoNumberDemos\AddTwoNumber1\bin\Debug\AddTwoNumber1.exe.config
+F:\AddTwoNumberDemos\AddTwoNumber1\obj\Debug\AddTwoNumber1.exe
+F:\AddTwoNumberDemos\AddTwoNumber1\obj\Debug\AddTwoNumber1.pdb
+F:\AddTwoNumberDemos\AddTwoNumber1\bin\Debug\AddTwoNumber1.exe
+F:\AddTwoNumberDemos\AddTwoNumber1\bin\Debug\AddTwoNumber1.pdb
+F:\AddTwoNumberDemos\AddTwoNumber1\obj\Debug\AddTwoNumber1.csprojResolveAssemblyReference.cache
+F:\AddTwoNumberDemos\AddTwoNumber1\obj\Debug\AddTwoNumber1.frmAdd.resources
+F:\AddTwoNumberDemos\AddTwoNumber1\obj\Debug\AddTwoNumber1.Properties.Resources.resources
+F:\AddTwoNumberDemos\AddTwoNumber1\obj\Debug\AddTwoNumber1.csproj.GenerateResource.Cache

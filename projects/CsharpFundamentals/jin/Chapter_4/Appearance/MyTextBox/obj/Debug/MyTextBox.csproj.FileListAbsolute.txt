@@ -1,0 +1,9 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyTextBox\bin\Debug\MyTextBox.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyTextBox\bin\Debug\MyTextBox.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyTextBox\bin\Debug\MyTextBox.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyTextBox\obj\Debug\MyTextBox.Form1.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyTextBox\obj\Debug\MyTextBox.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyTextBox\obj\Debug\MyTextBox.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyTextBox\obj\Debug\MyTextBox.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyTextBox\obj\Debug\MyTextBox.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyTextBox\obj\Debug\MyTextBox.pdb

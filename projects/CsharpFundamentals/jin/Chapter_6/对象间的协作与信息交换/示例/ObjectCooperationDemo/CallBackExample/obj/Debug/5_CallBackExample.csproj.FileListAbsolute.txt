@@ -1,0 +1,6 @@
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\7 对象间的协作与信息交换（上）\ObjectCooperationDemo\CallBackExample\bin\Debug\CallBackExample.exe.config
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\7 对象间的协作与信息交换（上）\ObjectCooperationDemo\CallBackExample\bin\Debug\CallBackExample.exe
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\7 对象间的协作与信息交换（上）\ObjectCooperationDemo\CallBackExample\bin\Debug\CallBackExample.pdb
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\7 对象间的协作与信息交换（上）\ObjectCooperationDemo\CallBackExample\obj\Debug\CallBackExample.exe
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\7 对象间的协作与信息交换（上）\ObjectCooperationDemo\CallBackExample\obj\Debug\CallBackExample.pdb
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\7 对象间的协作与信息交换（上）\ObjectCooperationDemo\CallBackExample\obj\Debug\5_CallBackExample.csprojResolveAssemblyReference.cache

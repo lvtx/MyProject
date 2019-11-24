@@ -1,0 +1,37 @@
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\Recursion\Recursion\bin\Debug\Recursion.exe
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\Recursion\Recursion\bin\Debug\Recursion.pdb
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\Recursion\Recursion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\Recursion\Recursion\obj\x86\Debug\Recursion.Form1.resources
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\Recursion\Recursion\obj\x86\Debug\Recursion.Properties.Resources.resources
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\Recursion\Recursion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\Recursion\Recursion\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\Recursion\Recursion\obj\x86\Debug\Recursion.exe
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\Recursion\Recursion\obj\x86\Debug\Recursion.pdb
+D:\jxl\上课幻灯片\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\Recursion\Recursion\obj\x86\Debug\Recursion.exe
+D:\jxl\上课幻灯片\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\Recursion\Recursion\obj\x86\Debug\Recursion.pdb
+D:\jxl\上课幻灯片\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\Recursion\Recursion\bin\Debug\Recursion.exe
+D:\jxl\上课幻灯片\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\Recursion\Recursion\bin\Debug\Recursion.pdb
+D:\jxl\上课幻灯片\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\Recursion\Recursion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\jxl\上课幻灯片\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\Recursion\Recursion\obj\x86\Debug\Recursion.frmMain.resources
+D:\jxl\上课幻灯片\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\Recursion\Recursion\obj\x86\Debug\Recursion.Properties.Resources.resources
+D:\jxl\上课幻灯片\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\Recursion\Recursion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\jxl\上课幻灯片\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\Recursion\Recursion\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\RecursionDemos\Recursion\obj\x86\Debug\Recursion.exe
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\RecursionDemos\Recursion\obj\x86\Debug\Recursion.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\RecursionDemos\Recursion\bin\Debug\Recursion.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\RecursionDemos\Recursion\bin\Debug\Recursion.exe
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\RecursionDemos\Recursion\bin\Debug\Recursion.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\RecursionDemos\Recursion\obj\x86\Debug\Recursion.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\RecursionDemos\Recursion\obj\x86\Debug\Recursion.frmMain.resources
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\RecursionDemos\Recursion\obj\x86\Debug\Recursion.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\RecursionDemos\Recursion\obj\x86\Debug\Recursion.csproj.GenerateResource.Cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\RecursionDemos\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\RecursionDemos\Recursion\bin\Debug\Recursion.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\RecursionDemos\Recursion\bin\Debug\Recursion.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\RecursionDemos\Recursion\obj\x86\Debug\Recursion.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\RecursionDemos\Recursion\obj\x86\Debug\Recursion.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\RecursionDemos\Recursion\obj\x86\Debug\Recursion.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\RecursionDemos\Recursion\obj\x86\Debug\Recursion.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\RecursionDemos\Recursion\obj\x86\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\RecursionDemos\Recursion\obj\x86\Debug\Recursion.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\RecursionDemos\Recursion\obj\x86\Debug\Recursion.pdb

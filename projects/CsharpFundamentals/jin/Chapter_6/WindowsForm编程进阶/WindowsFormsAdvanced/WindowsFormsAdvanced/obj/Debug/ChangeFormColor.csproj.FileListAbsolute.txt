@@ -1,0 +1,9 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\WindowsFormsAdvanced\bin\Debug\WindowsFormsAdvanced.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\WindowsFormsAdvanced\bin\Debug\WindowsFormsAdvanced.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\WindowsFormsAdvanced\bin\Debug\WindowsFormsAdvanced.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\WindowsFormsAdvanced\obj\Debug\ChangeFormColor.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\WindowsFormsAdvanced\obj\Debug\WindowsFormsAdvanced.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\WindowsFormsAdvanced\obj\Debug\WindowsFormsAdvanced.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\WindowsFormsAdvanced\obj\Debug\ChangeFormColor.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\WindowsFormsAdvanced\obj\Debug\WindowsFormsAdvanced.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\WindowsFormsAdvanced\obj\Debug\WindowsFormsAdvanced.pdb

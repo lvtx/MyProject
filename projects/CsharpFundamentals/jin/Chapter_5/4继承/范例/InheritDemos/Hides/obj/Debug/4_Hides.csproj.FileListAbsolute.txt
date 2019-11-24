@@ -1,0 +1,22 @@
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\3 继承\InheritDemos\Hides\bin\Debug\Hides.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\3 继承\InheritDemos\Hides\obj\Debug\Hides.exe
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\3 继承\InheritDemos\Hides\obj\Debug\Hides.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\4 继承\InheritDemos\Hides\bin\Debug\Hides.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\4 继承\InheritDemos\Hides\obj\Debug\Hides.exe
+F:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\4 继承\InheritDemos\Hides\obj\Debug\Hides.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\4 继承\InheritDemos\Hides\bin\Debug\Hides.exe
+F:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\4 继承\InheritDemos\Hides\bin\Debug\Hides.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\4 继承\InheritDemos\Hides\obj\Debug\4_Hides.csprojResolveAssemblyReference.cache
+F:\InheritDemos\Hides\bin\Debug\Hides.exe.config
+F:\InheritDemos\Hides\obj\Debug\Hides.exe
+F:\InheritDemos\Hides\obj\Debug\Hides.pdb
+F:\InheritDemos\Hides\bin\Debug\Hides.exe
+F:\InheritDemos\Hides\bin\Debug\Hides.pdb
+F:\InheritDemos\Hides\obj\Debug\4_Hides.csprojResolveAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\3继承\范例\InheritDemos\Hides\bin\Debug\Hides.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\3继承\范例\InheritDemos\Hides\bin\Debug\Hides.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\3继承\范例\InheritDemos\Hides\bin\Debug\Hides.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\3继承\范例\InheritDemos\Hides\obj\Debug\4_Hides.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\3继承\范例\InheritDemos\Hides\obj\Debug\4_Hides.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\3继承\范例\InheritDemos\Hides\obj\Debug\Hides.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\3继承\范例\InheritDemos\Hides\obj\Debug\Hides.pdb

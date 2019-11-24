@@ -1,0 +1,10 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Cow calculator\Cow calculator\bin\Debug\Cow calculator.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Cow calculator\Cow calculator\bin\Debug\Cow calculator.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Cow calculator\Cow calculator\bin\Debug\Cow calculator.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Cow calculator\Cow calculator\obj\Debug\Cow calculator.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Cow calculator\Cow calculator\obj\Debug\Cow_calculator.Form1.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Cow calculator\Cow calculator\obj\Debug\Cow_calculator.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Cow calculator\Cow calculator\obj\Debug\Cow calculator.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Cow calculator\Cow calculator\obj\Debug\Cow calculator.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Cow calculator\Cow calculator\obj\Debug\Cow calculator.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Cow calculator\Cow calculator\obj\Debug\Cow calculator.pdb

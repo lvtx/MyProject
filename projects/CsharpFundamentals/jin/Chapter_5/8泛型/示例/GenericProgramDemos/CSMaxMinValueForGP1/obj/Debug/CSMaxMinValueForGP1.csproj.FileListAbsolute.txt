@@ -1,0 +1,19 @@
+D:\jxl\教案\铁科院培训\6 进一步学习面向对象基础技术\SourceCode\泛型编程\CSMaxMinValueForGP1\CSMaxMinValueForGP1\obj\Debug\frmGPExample1.exe
+D:\jxl\教案\铁科院培训\6 进一步学习面向对象基础技术\SourceCode\泛型编程\CSMaxMinValueForGP1\CSMaxMinValueForGP1\obj\Debug\frmGPExample1.pdb
+D:\jxl\教案\铁科院培训\6 进一步学习面向对象基础技术\SourceCode\泛型编程\CSMaxMinValueForGP1\CSMaxMinValueForGP1\bin\Debug\frmGPExample1.exe
+D:\jxl\教案\铁科院培训\6 进一步学习面向对象基础技术\SourceCode\泛型编程\CSMaxMinValueForGP1\CSMaxMinValueForGP1\bin\Debug\frmGPExample1.pdb
+D:\jxl\教案\铁科院培训\6 进一步学习面向对象基础技术\SourceCode\泛型编程\CSMaxMinValueForGP1\CSMaxMinValueForGP1\obj\Debug\ResolveAssemblyReference.cache
+D:\jxl\教案\铁科院培训\6 进一步学习面向对象基础技术\SourceCode\泛型编程\CSMaxMinValueForGP1\CSMaxMinValueForGP1\obj\Debug\frmGPExample1.frmGPExample1.resources
+D:\jxl\教案\铁科院培训\6 进一步学习面向对象基础技术\SourceCode\泛型编程\CSMaxMinValueForGP1\CSMaxMinValueForGP1\obj\Debug\frmGPExample1.Properties.Resources.resources
+D:\jxl\教案\铁科院培训\6 进一步学习面向对象基础技术\SourceCode\泛型编程\CSMaxMinValueForGP1\CSMaxMinValueForGP1\obj\Debug\CSMaxMinValueForGP1.csproj.GenerateResource.Cache
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\泛型编程\SourceCode\CSMaxMinValueForGP1\CSMaxMinValueForGP1\obj\Debug\frmGPExample1.exe
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\泛型编程\SourceCode\CSMaxMinValueForGP1\CSMaxMinValueForGP1\obj\Debug\frmGPExample1.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\8 泛型编程\GenericProgramDemos\CSMaxMinValueForGP1\obj\Debug\frmGPExample1.exe
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\8 泛型编程\GenericProgramDemos\CSMaxMinValueForGP1\obj\Debug\frmGPExample1.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\8 泛型编程\GenericProgramDemos\CSMaxMinValueForGP1\bin\Debug\frmGPExample1.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\8 泛型编程\GenericProgramDemos\CSMaxMinValueForGP1\bin\Debug\frmGPExample1.exe
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\8 泛型编程\GenericProgramDemos\CSMaxMinValueForGP1\bin\Debug\frmGPExample1.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\8 泛型编程\GenericProgramDemos\CSMaxMinValueForGP1\obj\Debug\CSMaxMinValueForGP1.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\8 泛型编程\GenericProgramDemos\CSMaxMinValueForGP1\obj\Debug\frmGPExample1.frmGPExample1.resources
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\8 泛型编程\GenericProgramDemos\CSMaxMinValueForGP1\obj\Debug\frmGPExample1.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\8 泛型编程\GenericProgramDemos\CSMaxMinValueForGP1\obj\Debug\CSMaxMinValueForGP1.csproj.GenerateResource.Cache

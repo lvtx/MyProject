@@ -1,0 +1,6 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象复制\ObjectClone\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象复制\ObjectClone\Exercise\bin\Debug\Exercise.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象复制\ObjectClone\Exercise\bin\Debug\Exercise.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象复制\ObjectClone\Exercise\obj\Debug\Exercise.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象复制\ObjectClone\Exercise\obj\Debug\Exercise.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象复制\ObjectClone\Exercise\obj\Debug\Exercise.pdb

@@ -1,0 +1,16 @@
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\ResponseToEvents\bin\Debug\ResponseToEvents.exe.config
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\ResponseToEvents\bin\Debug\ResponseToEvents.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\ResponseToEvents\bin\Debug\ResponseToEvents.pdb
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\ResponseToEvents\obj\Debug\ResponseToEvents.frmEnterToTab.resources
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\ResponseToEvents\obj\Debug\ResponseToEvents.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\ResponseToEvents\obj\Debug\7_ResponseToEvents.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\ResponseToEvents\obj\Debug\ResponseToEvents.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\ResponseToEvents\obj\Debug\ResponseToEvents.pdb
+E:\EventDemos\ResponseToEvents\bin\Debug\ResponseToEvents.exe.config
+E:\EventDemos\ResponseToEvents\obj\Debug\ResponseToEvents.exe
+E:\EventDemos\ResponseToEvents\obj\Debug\ResponseToEvents.pdb
+E:\EventDemos\ResponseToEvents\bin\Debug\ResponseToEvents.exe
+E:\EventDemos\ResponseToEvents\bin\Debug\ResponseToEvents.pdb
+E:\EventDemos\ResponseToEvents\obj\Debug\ResponseToEvents.frmEnterToTab.resources
+E:\EventDemos\ResponseToEvents\obj\Debug\ResponseToEvents.Properties.Resources.resources
+E:\EventDemos\ResponseToEvents\obj\Debug\7_ResponseToEvents.csproj.GenerateResource.Cache

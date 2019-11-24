@@ -1,0 +1,10 @@
+C:\jxl\MyBook\面向对象的艺术\第1篇 面向对象概念、方法与技术\第6章 异常处理\SourceCode\EmbedException\EmbedException\bin\Release\EmbedException.exe
+C:\jxl\MyBook\面向对象的艺术\第1篇 面向对象概念、方法与技术\第6章 异常处理\SourceCode\EmbedException\EmbedException\bin\Release\EmbedException.pdb
+C:\jxl\MyBook\面向对象的艺术\第1篇 面向对象概念、方法与技术\第6章 异常处理\SourceCode\EmbedException\EmbedException\obj\x86\Release\ResolveAssemblyReference.cache
+C:\jxl\MyBook\面向对象的艺术\第1篇 面向对象概念、方法与技术\第6章 异常处理\SourceCode\EmbedException\EmbedException\obj\x86\Release\EmbedException.exe
+C:\jxl\MyBook\面向对象的艺术\第1篇 面向对象概念、方法与技术\第6章 异常处理\SourceCode\EmbedException\EmbedException\obj\x86\Release\EmbedException.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第8章 异常捕获与处理\SourceCode\8.2\EmbedException\EmbedException\obj\x86\Release\EmbedException.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第8章 异常捕获与处理\SourceCode\8.2\EmbedException\EmbedException\obj\x86\Release\EmbedException.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第8章 异常捕获与处理\SourceCode\8.2\EmbedException\EmbedException\bin\Release\EmbedException.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第8章 异常捕获与处理\SourceCode\8.2\EmbedException\EmbedException\bin\Release\EmbedException.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第8章 异常捕获与处理\SourceCode\8.2\EmbedException\EmbedException\obj\x86\Release\ResolveAssemblyReference.cache

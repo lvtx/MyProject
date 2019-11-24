@@ -1,0 +1,10 @@
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\TwoWayCommunicationInForms\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\TwoWayCommunicationInForms\obj\x86\Release\TwoWayCommunicationInForms.frmMain.resources
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\TwoWayCommunicationInForms\obj\x86\Release\TwoWayCommunicationInForms.frmOther.resources
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\TwoWayCommunicationInForms\obj\x86\Release\TwoWayCommunicationInForms.Properties.Resources.resources
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\TwoWayCommunicationInForms\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\TwoWayCommunicationInForms\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\TwoWayCommunicationInForms\bin\Release\TwoWayCommunicationInForms.exe
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\TwoWayCommunicationInForms\bin\Release\TwoWayCommunicationInForms.pdb
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\TwoWayCommunicationInForms\obj\x86\Release\TwoWayCommunicationInForms.exe
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\TwoWayCommunicationInForms\obj\x86\Release\TwoWayCommunicationInForms.pdb

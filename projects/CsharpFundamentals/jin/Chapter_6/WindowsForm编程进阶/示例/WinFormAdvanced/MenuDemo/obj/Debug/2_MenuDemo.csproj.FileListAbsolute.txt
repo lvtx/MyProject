@@ -1,0 +1,12 @@
+E:\WinFormAdvanced\MenuDemo\bin\Debug\MenuDemo.exe.config
+E:\WinFormAdvanced\MenuDemo\obj\Debug\MenuDemo.exe
+E:\WinFormAdvanced\MenuDemo\obj\Debug\MenuDemo.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\MenuDemo\bin\Debug\MenuDemo.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\MenuDemo\bin\Debug\MenuDemo.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\MenuDemo\bin\Debug\MenuDemo.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\MenuDemo\obj\Debug\2_MenuDemo.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\MenuDemo\obj\Debug\MenuDemo.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\MenuDemo\obj\Debug\MenuDemo.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\MenuDemo\obj\Debug\2_MenuDemo.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\MenuDemo\obj\Debug\MenuDemo.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\MenuDemo\obj\Debug\MenuDemo.pdb

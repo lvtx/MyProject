@@ -1,0 +1,9 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\SaveFormStatus\bin\Debug\SaveFormStatus.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\SaveFormStatus\bin\Debug\SaveFormStatus.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\SaveFormStatus\bin\Debug\SaveFormStatus.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\SaveFormStatus\obj\Debug\4_SaveFormStatus.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\SaveFormStatus\obj\Debug\SaveFormStatus.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\SaveFormStatus\obj\Debug\SaveFormStatus.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\SaveFormStatus\obj\Debug\4_SaveFormStatus.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\SaveFormStatus\obj\Debug\SaveFormStatus.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\SaveFormStatus\obj\Debug\SaveFormStatus.pdb

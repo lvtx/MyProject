@@ -1,0 +1,9 @@
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ButtonDemo\bin\Debug\ButtonDemo.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ButtonDemo\bin\Debug\ButtonDemo.exe
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ButtonDemo\bin\Debug\ButtonDemo.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ButtonDemo\obj\Debug\ButtonDemo.csprojResolveAssemblyReference.cache
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ButtonDemo\obj\Debug\ButtonDemo.frmButton.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ButtonDemo\obj\Debug\ButtonDemo.Properties.Resources.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ButtonDemo\obj\Debug\ButtonDemo.csproj.GenerateResource.Cache
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ButtonDemo\obj\Debug\ButtonDemo.exe
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ButtonDemo\obj\Debug\ButtonDemo.pdb

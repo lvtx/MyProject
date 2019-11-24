@@ -1,0 +1,9 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\记事本项目\MyNotePad\MyNotePad\bin\Debug\MyNotePad.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\记事本项目\MyNotePad\MyNotePad\bin\Debug\MyNotePad.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\记事本项目\MyNotePad\MyNotePad\bin\Debug\MyNotePad.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\记事本项目\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\记事本项目\MyNotePad\MyNotePad\obj\Debug\MyNotePad.frmEditor.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\记事本项目\MyNotePad\MyNotePad\obj\Debug\MyNotePad.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\记事本项目\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\记事本项目\MyNotePad\MyNotePad\obj\Debug\MyNotePad.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\记事本项目\MyNotePad\MyNotePad\obj\Debug\MyNotePad.pdb

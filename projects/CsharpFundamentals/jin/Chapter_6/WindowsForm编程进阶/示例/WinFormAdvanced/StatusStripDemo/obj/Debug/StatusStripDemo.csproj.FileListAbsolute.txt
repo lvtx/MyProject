@@ -1,0 +1,9 @@
+D:\Test\StatusStripDemo\StatusStripDemo\bin\Debug\StatusStripDemo.exe.config
+D:\Test\StatusStripDemo\StatusStripDemo\bin\Debug\StatusStripDemo.exe
+D:\Test\StatusStripDemo\StatusStripDemo\bin\Debug\StatusStripDemo.pdb
+D:\Test\StatusStripDemo\StatusStripDemo\obj\Debug\StatusStripDemo.csprojResolveAssemblyReference.cache
+D:\Test\StatusStripDemo\StatusStripDemo\obj\Debug\StatusStripDemo.Properties.Resources.resources
+D:\Test\StatusStripDemo\StatusStripDemo\obj\Debug\StatusStripDemo.csproj.GenerateResource.Cache
+D:\Test\StatusStripDemo\StatusStripDemo\obj\Debug\StatusStripDemo.exe
+D:\Test\StatusStripDemo\StatusStripDemo\obj\Debug\StatusStripDemo.pdb
+D:\Test\StatusStripDemo\StatusStripDemo\obj\Debug\StatusStripDemo.frmStatusStrip.resources

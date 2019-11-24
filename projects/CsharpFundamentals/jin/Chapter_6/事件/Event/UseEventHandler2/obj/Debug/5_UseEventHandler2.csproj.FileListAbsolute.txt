@@ -1,0 +1,9 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\UseEventHandler2\bin\Debug\UseEventHandler2.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\UseEventHandler2\bin\Debug\UseEventHandler2.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\UseEventHandler2\bin\Debug\UseEventHandler2.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\UseEventHandler2\obj\Debug\5_UseEventHandler2.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\UseEventHandler2\obj\Debug\UseEventHandler2.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\UseEventHandler2\obj\Debug\UseEventHandler2.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\UseEventHandler2\obj\Debug\5_UseEventHandler2.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\UseEventHandler2\obj\Debug\UseEventHandler2.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\UseEventHandler2\obj\Debug\UseEventHandler2.pdb

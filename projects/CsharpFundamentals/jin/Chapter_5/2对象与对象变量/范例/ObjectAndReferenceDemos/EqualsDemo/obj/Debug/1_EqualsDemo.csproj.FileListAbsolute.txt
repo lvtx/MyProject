@@ -1,0 +1,6 @@
+E:\ObjectAndReferenceDemos\EqualsDemo\bin\Debug\EqualsDemo.exe.config
+E:\ObjectAndReferenceDemos\EqualsDemo\obj\Debug\EqualsDemo.exe
+E:\ObjectAndReferenceDemos\EqualsDemo\obj\Debug\EqualsDemo.pdb
+E:\ObjectAndReferenceDemos\EqualsDemo\bin\Debug\EqualsDemo.exe
+E:\ObjectAndReferenceDemos\EqualsDemo\bin\Debug\EqualsDemo.pdb
+E:\ObjectAndReferenceDemos\EqualsDemo\obj\Debug\1_EqualsDemo.csprojResolveAssemblyReference.cache

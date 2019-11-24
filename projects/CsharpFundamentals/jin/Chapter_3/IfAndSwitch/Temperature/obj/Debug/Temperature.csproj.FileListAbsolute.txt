@@ -1,0 +1,7 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\Temperature\bin\Debug\Temperature.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\Temperature\bin\Debug\Temperature.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\Temperature\bin\Debug\Temperature.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\Temperature\obj\Debug\Temperature.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\Temperature\obj\Debug\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\Temperature\obj\Debug\Temperature.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\Temperature\obj\Debug\Temperature.pdb

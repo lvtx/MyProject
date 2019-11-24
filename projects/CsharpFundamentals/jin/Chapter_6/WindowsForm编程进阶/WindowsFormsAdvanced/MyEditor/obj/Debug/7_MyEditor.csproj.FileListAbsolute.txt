@@ -1,0 +1,9 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\MyEditor\bin\Debug\MyEditor.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\MyEditor\bin\Debug\MyEditor.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\MyEditor\bin\Debug\MyEditor.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\MyEditor\obj\Debug\7_MyEditor.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\MyEditor\obj\Debug\MyEditor.Form1.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\MyEditor\obj\Debug\MyEditor.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\MyEditor\obj\Debug\7_MyEditor.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\MyEditor\obj\Debug\MyEditor.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\MyEditor\obj\Debug\MyEditor.pdb

@@ -1,0 +1,9 @@
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\5 委托\DelegateDemos\UseTimerCallback\bin\Debug\UseTimerCallback.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\5 委托\DelegateDemos\UseTimerCallback\obj\Debug\UseTimerCallback.exe
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\5 委托\DelegateDemos\UseTimerCallback\obj\Debug\UseTimerCallback.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\5 委托\DelegateDemos\UseTimerCallback\bin\Debug\UseTimerCallback.exe
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\5 委托\DelegateDemos\UseTimerCallback\bin\Debug\UseTimerCallback.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\5 委托\DelegateDemos\UseTimerCallback\obj\Debug\3_UseTimerCallback.csprojResolveAssemblyReference.cache
+E:\DelegateDemos\UseTimerCallback\bin\Debug\UseTimerCallback.exe.config
+E:\DelegateDemos\UseTimerCallback\obj\Debug\UseTimerCallback.exe
+E:\DelegateDemos\UseTimerCallback\obj\Debug\UseTimerCallback.pdb

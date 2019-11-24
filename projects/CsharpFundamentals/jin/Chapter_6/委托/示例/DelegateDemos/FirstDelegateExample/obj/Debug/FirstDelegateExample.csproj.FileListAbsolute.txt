@@ -1,0 +1,25 @@
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\FirstDelegateExample\obj\Debug\FirstDelegateExample.exe
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\FirstDelegateExample\obj\Debug\FirstDelegateExample.pdb
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\FirstDelegateExample\bin\Debug\FirstDelegateExample.exe
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\FirstDelegateExample\bin\Debug\FirstDelegateExample.pdb
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\FirstDelegateExample\obj\Debug\ResolveAssemblyReference.cache
+C:\第四讲 委托与事件\SourceCode\Lecture4\FirstDelegateExample\obj\Debug\FirstDelegateExample.exe
+C:\第四讲 委托与事件\SourceCode\Lecture4\FirstDelegateExample\obj\Debug\FirstDelegateExample.pdb
+C:\第四讲 委托与事件\SourceCode\Lecture4\FirstDelegateExample\bin\Debug\FirstDelegateExample.exe
+C:\第四讲 委托与事件\SourceCode\Lecture4\FirstDelegateExample\bin\Debug\FirstDelegateExample.pdb
+C:\第四讲 委托与事件\SourceCode\Lecture4\FirstDelegateExample\obj\Debug\ResolveAssemblyReference.cache
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\FirstDelegateExample\obj\Debug\FirstDelegateExample.exe
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\FirstDelegateExample\obj\Debug\FirstDelegateExample.pdb
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\FirstDelegateExample\bin\Debug\FirstDelegateExample.exe
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\FirstDelegateExample\bin\Debug\FirstDelegateExample.pdb
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\FirstDelegateExample\obj\Debug\ResolveAssemblyReference.cache
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\FirstDelegateExample\obj\Debug\FirstDelegateExample.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\FirstDelegateExample\obj\Debug\FirstDelegateExample.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\FirstDelegateExample\bin\Debug\FirstDelegateExample.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\FirstDelegateExample\bin\Debug\FirstDelegateExample.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\FirstDelegateExample\obj\Debug\ResolveAssemblyReference.cache
+D:\jxl\上课幻灯片\OOAD（研究生版-2011）\2 打好面向对象编程基础\5 委托与事件\SourceCode\委托\FirstDelegateExample\obj\Debug\FirstDelegateExample.exe
+D:\jxl\上课幻灯片\OOAD（研究生版-2011）\2 打好面向对象编程基础\5 委托与事件\SourceCode\委托\FirstDelegateExample\obj\Debug\FirstDelegateExample.pdb
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\FirstDelegateExample\obj\Debug\FirstDelegateExample.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\FirstDelegateExample\obj\Debug\FirstDelegateExample.pdb
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\FirstDelegateExample\bin\Debug\FirstDelegateExample.exe.config

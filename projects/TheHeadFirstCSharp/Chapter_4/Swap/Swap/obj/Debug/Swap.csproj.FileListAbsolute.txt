@@ -1,0 +1,10 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Swap\Swap\bin\Debug\Swap.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Swap\Swap\bin\Debug\Swap.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Swap\Swap\bin\Debug\Swap.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Swap\Swap\obj\Debug\Swap.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Swap\Swap\obj\Debug\Swap.Form1.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Swap\Swap\obj\Debug\Swap.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Swap\Swap\obj\Debug\Swap.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Swap\Swap\obj\Debug\Swap.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Swap\Swap\obj\Debug\Swap.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Swap\Swap\obj\Debug\Swap.pdb

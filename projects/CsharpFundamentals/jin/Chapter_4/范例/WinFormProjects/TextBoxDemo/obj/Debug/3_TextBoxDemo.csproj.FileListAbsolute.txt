@@ -1,0 +1,8 @@
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\TextBoxDemo\bin\Debug\TextBoxDemo.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\TextBoxDemo\bin\Debug\TextBoxDemo.exe
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\TextBoxDemo\bin\Debug\TextBoxDemo.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\TextBoxDemo\obj\Debug\TextBoxDemo.frmTextBox.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\TextBoxDemo\obj\Debug\TextBoxDemo.Properties.Resources.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\TextBoxDemo\obj\Debug\3_TextBoxDemo.csproj.GenerateResource.Cache
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\TextBoxDemo\obj\Debug\TextBoxDemo.exe
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\TextBoxDemo\obj\Debug\TextBoxDemo.pdb

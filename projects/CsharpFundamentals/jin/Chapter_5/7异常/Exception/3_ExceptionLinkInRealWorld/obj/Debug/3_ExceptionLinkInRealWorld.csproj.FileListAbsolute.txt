@@ -1,0 +1,7 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\Exception\3_ExceptionLinkInRealWorld\bin\Debug\3_ExceptionLinkInRealWorld.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\Exception\3_ExceptionLinkInRealWorld\bin\Debug\3_ExceptionLinkInRealWorld.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\Exception\3_ExceptionLinkInRealWorld\bin\Debug\3_ExceptionLinkInRealWorld.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\Exception\3_ExceptionLinkInRealWorld\obj\Debug\3_ExceptionLinkInRealWorld.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\Exception\3_ExceptionLinkInRealWorld\obj\Debug\3_ExceptionLinkInRealWorld.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\Exception\3_ExceptionLinkInRealWorld\obj\Debug\3_ExceptionLinkInRealWorld.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\Exception\3_ExceptionLinkInRealWorld\obj\Debug\3_ExceptionLinkInRealWorld.pdb

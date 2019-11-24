@@ -1,0 +1,6 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\委托\Delegate\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\委托\Delegate\Delegate\bin\Debug\Delegate.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\委托\Delegate\Delegate\bin\Debug\Delegate.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\委托\Delegate\Delegate\obj\Debug\1_FirstDelegateExample.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\委托\Delegate\Delegate\obj\Debug\Delegate.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\委托\Delegate\Delegate\obj\Debug\Delegate.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_ObjectCloneDemo", "ObjectCloneDemo\1_ObjectCloneDemo.csproj", "{9F40DBE2-C515-45D3-B298-C0A5FE92FA81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_DeepCopy", "DeepCopy\2_DeepCopy.csproj", "{F5AD3E71-333A-489B-9D06-2CA937D7886F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F40DBE2-C515-45D3-B298-C0A5FE92FA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F40DBE2-C515-45D3-B298-C0A5FE92FA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F40DBE2-C515-45D3-B298-C0A5FE92FA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F40DBE2-C515-45D3-B298-C0A5FE92FA81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5AD3E71-333A-489B-9D06-2CA937D7886F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5AD3E71-333A-489B-9D06-2CA937D7886F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AD3E71-333A-489B-9D06-2CA937D7886F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5AD3E71-333A-489B-9D06-2CA937D7886F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

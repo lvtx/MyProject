@@ -1,0 +1,7 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\Calculator\bin\Debug\Calculator.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\Calculator\bin\Debug\Calculator.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\Calculator\obj\Debug\Calculator.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\Calculator\obj\Debug\Calculator.pdb

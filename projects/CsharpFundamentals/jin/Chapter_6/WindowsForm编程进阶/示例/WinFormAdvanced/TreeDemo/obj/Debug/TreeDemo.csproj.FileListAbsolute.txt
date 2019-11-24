@@ -1,0 +1,9 @@
+F:\MOOC\录课视频相关文件\人大MOOC\7 WinForm进阶\TreeDemo\TreeDemo\bin\Debug\TreeDemo.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\7 WinForm进阶\TreeDemo\TreeDemo\bin\Debug\TreeDemo.exe
+F:\MOOC\录课视频相关文件\人大MOOC\7 WinForm进阶\TreeDemo\TreeDemo\bin\Debug\TreeDemo.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\7 WinForm进阶\TreeDemo\TreeDemo\obj\Debug\TreeDemo.csprojResolveAssemblyReference.cache
+F:\MOOC\录课视频相关文件\人大MOOC\7 WinForm进阶\TreeDemo\TreeDemo\obj\Debug\TreeDemo.frmMain.resources
+F:\MOOC\录课视频相关文件\人大MOOC\7 WinForm进阶\TreeDemo\TreeDemo\obj\Debug\TreeDemo.Properties.Resources.resources
+F:\MOOC\录课视频相关文件\人大MOOC\7 WinForm进阶\TreeDemo\TreeDemo\obj\Debug\TreeDemo.csproj.GenerateResource.Cache
+F:\MOOC\录课视频相关文件\人大MOOC\7 WinForm进阶\TreeDemo\TreeDemo\obj\Debug\TreeDemo.exe
+F:\MOOC\录课视频相关文件\人大MOOC\7 WinForm进阶\TreeDemo\TreeDemo\obj\Debug\TreeDemo.pdb

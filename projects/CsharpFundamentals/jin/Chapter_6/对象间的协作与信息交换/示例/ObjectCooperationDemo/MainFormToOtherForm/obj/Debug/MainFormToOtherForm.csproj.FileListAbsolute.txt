@@ -1,0 +1,12 @@
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.1\MainFormToOtherForm\obj\Debug\MultiFormProgram1.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.1\MainFormToOtherForm\obj\Debug\MultiFormProgram1.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.1\MainFormToOtherForm\bin\Debug\MultiFormProgram1.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.1\MainFormToOtherForm\bin\Debug\MultiFormProgram1.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.1\MainFormToOtherForm\obj\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.1\MainFormToOtherForm\obj\Debug\MultiFormProgram1.frmMain.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.1\MainFormToOtherForm\obj\Debug\MultiFormProgram1.frmOther.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.1\MainFormToOtherForm\obj\Debug\MultiFormProgram1.Properties.Resources.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.1\MainFormToOtherForm\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.1\MainFormToOtherForm\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\MultiFormProgram1.exe
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\MainFormToOtherForm\obj\Debug\MultiFormProgram1.pdb

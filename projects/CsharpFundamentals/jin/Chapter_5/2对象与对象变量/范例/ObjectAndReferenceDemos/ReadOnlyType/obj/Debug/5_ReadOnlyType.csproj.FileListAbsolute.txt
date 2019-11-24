@@ -1,0 +1,6 @@
+F:\ObjectAndReferenceDemos\ReadOnlyType\bin\Debug\ReadOnlyType.exe.config
+F:\ObjectAndReferenceDemos\ReadOnlyType\obj\Debug\ReadOnlyType.exe
+F:\ObjectAndReferenceDemos\ReadOnlyType\obj\Debug\ReadOnlyType.pdb
+F:\ObjectAndReferenceDemos\ReadOnlyType\bin\Debug\ReadOnlyType.exe
+F:\ObjectAndReferenceDemos\ReadOnlyType\bin\Debug\ReadOnlyType.pdb
+F:\ObjectAndReferenceDemos\ReadOnlyType\obj\Debug\5_ReadOnlyType.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+E:\ObjectAndReferenceDemos\StaticMember\bin\Debug\StaticMember.exe.config
+E:\ObjectAndReferenceDemos\StaticMember\obj\Debug\StaticMember.exe
+E:\ObjectAndReferenceDemos\StaticMember\obj\Debug\StaticMember.pdb
+E:\ObjectAndReferenceDemos\StaticMember\bin\Debug\StaticMember.exe
+E:\ObjectAndReferenceDemos\StaticMember\bin\Debug\StaticMember.pdb
+E:\ObjectAndReferenceDemos\StaticMember\obj\Debug\6_StaticMember.csprojResolveAssemblyReference.cache
+F:\ObjectAndReferenceDemos\StaticMember\bin\Debug\StaticMember.exe.config
+F:\ObjectAndReferenceDemos\StaticMember\obj\Debug\StaticMember.exe
+F:\ObjectAndReferenceDemos\StaticMember\obj\Debug\StaticMember.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\StaticMember\bin\Debug\StaticMember.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\StaticMember\obj\Debug\StaticMember.exe
+F:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\StaticMember\obj\Debug\StaticMember.pdb
+F:\ObjectAndReferenceDemos\StaticMember\bin\Debug\StaticMember.exe
+F:\ObjectAndReferenceDemos\StaticMember\bin\Debug\StaticMember.pdb
+F:\ObjectAndReferenceDemos\StaticMember\obj\Debug\6_StaticMember.csprojResolveAssemblyReference.cache

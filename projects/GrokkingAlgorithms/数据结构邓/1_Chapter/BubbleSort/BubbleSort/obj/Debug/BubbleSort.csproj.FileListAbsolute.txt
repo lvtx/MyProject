@@ -1,0 +1,7 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\数据结构邓\1_Chapter\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\数据结构邓\1_Chapter\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\数据结构邓\1_Chapter\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\数据结构邓\1_Chapter\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\数据结构邓\1_Chapter\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\数据结构邓\1_Chapter\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\数据结构邓\1_Chapter\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb

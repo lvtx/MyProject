@@ -1,0 +1,8 @@
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\DynamicEventsInvoke\bin\Debug\DynamicEventsInvoke.exe.config
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\DynamicEventsInvoke\bin\Debug\DynamicEventsInvoke.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\DynamicEventsInvoke\bin\Debug\DynamicEventsInvoke.pdb
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\DynamicEventsInvoke\obj\Debug\DynamicEventsInvoke.frmMain.resources
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\DynamicEventsInvoke\obj\Debug\DynamicEventsInvoke.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\DynamicEventsInvoke\obj\Debug\7_DynamicEventsInvoke.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\DynamicEventsInvoke\obj\Debug\DynamicEventsInvoke.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\DynamicEventsInvoke\obj\Debug\DynamicEventsInvoke.pdb

@@ -1,0 +1,6 @@
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\7 异常处理\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\7 异常处理\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.exe
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\7 异常处理\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\7 异常处理\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\7 异常处理\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.exe
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\7 异常处理\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.pdb

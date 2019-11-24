@@ -1,0 +1,10 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyLabel\bin\Debug\MyLabel.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyLabel\bin\Debug\MyLabel.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyLabel\bin\Debug\MyLabel.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyLabel\obj\Debug\MyLabel.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyLabel\obj\Debug\MyLabel.Form1.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyLabel\obj\Debug\MyLabel.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyLabel\obj\Debug\MyLabel.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyLabel\obj\Debug\MyLabel.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyLabel\obj\Debug\MyLabel.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyLabel\obj\Debug\MyLabel.pdb

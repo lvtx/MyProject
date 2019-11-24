@@ -1,0 +1,9 @@
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\ButtonCounterForMultiFormUseEvent\bin\Debug\ButtonCounterForMultiFormUseEvent.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\ButtonCounterForMultiFormUseEvent\bin\Debug\ButtonCounterForMultiFormUseEvent.exe
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\ButtonCounterForMultiFormUseEvent\bin\Debug\ButtonCounterForMultiFormUseEvent.pdb
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\ButtonCounterForMultiFormUseEvent\obj\Debug\ButtonCounterForMultiFormUseEvent.frmMain.resources
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\ButtonCounterForMultiFormUseEvent\obj\Debug\ButtonCounterForMultiFormUseEvent.frmOther.resources
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\ButtonCounterForMultiFormUseEvent\obj\Debug\ButtonCounterForMultiFormUseEvent.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\ButtonCounterForMultiFormUseEvent\obj\Debug\6_ButtonCounterForMultiFormUseEvent.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\ButtonCounterForMultiFormUseEvent\obj\Debug\ButtonCounterForMultiFormUseEvent.exe
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\ButtonCounterForMultiFormUseEvent\obj\Debug\ButtonCounterForMultiFormUseEvent.pdb

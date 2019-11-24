@@ -1,0 +1,7 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_2\CalculateDaysForSP\CalculateDaysForSP\bin\Debug\CalculateDateForSP.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_2\CalculateDaysForSP\CalculateDaysForSP\bin\Debug\CalculateDateForSP.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_2\CalculateDaysForSP\CalculateDaysForSP\bin\Debug\CalculateDateForSP.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_2\CalculateDaysForSP\CalculateDaysForSP\obj\Debug\CalculateDaysForSP.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_2\CalculateDaysForSP\CalculateDaysForSP\obj\Debug\CalculateDaysForSP.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_2\CalculateDaysForSP\CalculateDaysForSP\obj\Debug\CalculateDateForSP.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_2\CalculateDaysForSP\CalculateDaysForSP\obj\Debug\CalculateDateForSP.pdb

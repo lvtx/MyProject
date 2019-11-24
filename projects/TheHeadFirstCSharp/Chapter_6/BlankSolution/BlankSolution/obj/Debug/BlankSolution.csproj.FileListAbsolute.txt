@@ -1,0 +1,7 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\BlankSolution\BlankSolution\bin\Debug\BlankSolution.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\BlankSolution\BlankSolution\bin\Debug\BlankSolution.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\BlankSolution\BlankSolution\bin\Debug\BlankSolution.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\BlankSolution\BlankSolution\obj\Debug\BlankSolution.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\BlankSolution\BlankSolution\obj\Debug\BlankSolution.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\BlankSolution\BlankSolution\obj\Debug\BlankSolution.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\BlankSolution\BlankSolution\obj\Debug\BlankSolution.pdb

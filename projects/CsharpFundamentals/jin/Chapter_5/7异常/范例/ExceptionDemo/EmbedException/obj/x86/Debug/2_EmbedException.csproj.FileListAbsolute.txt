@@ -1,0 +1,2 @@
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\7 异常处理\ExceptionDemo\EmbedException\obj\x86\Debug\EmbedException.exe
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\7 异常处理\ExceptionDemo\EmbedException\obj\x86\Debug\EmbedException.pdb

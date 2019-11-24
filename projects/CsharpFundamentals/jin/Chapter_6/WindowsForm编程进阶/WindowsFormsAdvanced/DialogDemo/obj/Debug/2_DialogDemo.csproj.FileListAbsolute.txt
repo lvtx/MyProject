@@ -1,0 +1,9 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\DialogDemo\bin\Debug\DialogDemo.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\DialogDemo\bin\Debug\DialogDemo.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\DialogDemo\bin\Debug\DialogDemo.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\DialogDemo\obj\Debug\DialogDemo.MainForm.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\DialogDemo\obj\Debug\DialogDemo.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\DialogDemo\obj\Debug\2_DialogDemo.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\DialogDemo\obj\Debug\DialogDemo.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\DialogDemo\obj\Debug\DialogDemo.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\WindowsFormsAdvanced\DialogDemo\obj\Debug\2_DialogDemo.csprojAssemblyReference.cache

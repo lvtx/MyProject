@@ -1,0 +1,4 @@
+E:\ExceptionDemo\EmbedException\bin\Debug\EmbedException.exe
+E:\ExceptionDemo\EmbedException\bin\Debug\EmbedException.pdb
+E:\ExceptionDemo\EmbedException\obj\x86\Debug\EmbedException.exe
+E:\ExceptionDemo\EmbedException\obj\x86\Debug\EmbedException.pdb

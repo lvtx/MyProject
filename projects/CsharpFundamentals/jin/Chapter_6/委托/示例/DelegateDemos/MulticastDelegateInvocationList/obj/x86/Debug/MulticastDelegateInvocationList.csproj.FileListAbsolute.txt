@@ -1,0 +1,21 @@
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第2篇 委托构建的世界\第8章 神奇的委托\SourceCode\8.2\MulticastDelegateInvocationList\MulticastDelegateInvocationList\bin\Debug\MulticastDelegateInvocationList.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第2篇 委托构建的世界\第8章 神奇的委托\SourceCode\8.2\MulticastDelegateInvocationList\MulticastDelegateInvocationList\bin\Debug\MulticastDelegateInvocationList.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第2篇 委托构建的世界\第8章 神奇的委托\SourceCode\8.2\MulticastDelegateInvocationList\MulticastDelegateInvocationList\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第2篇 委托构建的世界\第8章 神奇的委托\SourceCode\8.2\MulticastDelegateInvocationList\MulticastDelegateInvocationList\obj\x86\Debug\MulticastDelegateInvocationList.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第2篇 委托构建的世界\第8章 神奇的委托\SourceCode\8.2\MulticastDelegateInvocationList\MulticastDelegateInvocationList\obj\x86\Debug\MulticastDelegateInvocationList.pdb
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第2篇 委托构建的世界\第8章 神奇的委托\SourceCode\8.2\MulticastDelegateInvocationList\MulticastDelegateInvocationList\obj\x86\Debug\MulticastDelegateInvocationList.exe
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第2篇 委托构建的世界\第8章 神奇的委托\SourceCode\8.2\MulticastDelegateInvocationList\MulticastDelegateInvocationList\obj\x86\Debug\MulticastDelegateInvocationList.pdb
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第2篇 委托构建的世界\第8章 神奇的委托\SourceCode\8.2\MulticastDelegateInvocationList\MulticastDelegateInvocationList\bin\Debug\MulticastDelegateInvocationList.exe
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第2篇 委托构建的世界\第8章 神奇的委托\SourceCode\8.2\MulticastDelegateInvocationList\MulticastDelegateInvocationList\bin\Debug\MulticastDelegateInvocationList.pdb
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第2篇 委托构建的世界\第8章 神奇的委托\SourceCode\8.2\MulticastDelegateInvocationList\MulticastDelegateInvocationList\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\MulticastDelegateInvocationList\MulticastDelegateInvocationList\obj\x86\Debug\MulticastDelegateInvocationList.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\MulticastDelegateInvocationList\MulticastDelegateInvocationList\obj\x86\Debug\MulticastDelegateInvocationList.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\MulticastDelegateInvocationList\MulticastDelegateInvocationList\bin\Debug\MulticastDelegateInvocationList.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\MulticastDelegateInvocationList\MulticastDelegateInvocationList\bin\Debug\MulticastDelegateInvocationList.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\MulticastDelegateInvocationList\MulticastDelegateInvocationList\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\MulticastDelegateInvocationList\obj\x86\Debug\MulticastDelegateInvocationList.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\MulticastDelegateInvocationList\obj\x86\Debug\MulticastDelegateInvocationList.pdb
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\MulticastDelegateInvocationList\bin\Debug\MulticastDelegateInvocationList.exe.config
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\MulticastDelegateInvocationList\bin\Debug\MulticastDelegateInvocationList.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\MulticastDelegateInvocationList\bin\Debug\MulticastDelegateInvocationList.pdb
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\MulticastDelegateInvocationList\obj\x86\Debug\MulticastDelegateInvocationList.csprojResolveAssemblyReference.cache

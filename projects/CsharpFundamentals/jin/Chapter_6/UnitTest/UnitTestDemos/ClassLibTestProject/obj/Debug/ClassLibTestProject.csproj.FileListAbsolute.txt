@@ -1,0 +1,27 @@
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\ClassLibTestProject\bin\Debug\ClassLibTestProject.dll
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\ClassLibTestProject\bin\Debug\ClassLibTestProject.pdb
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\ClassLibTestProject\bin\Debug\ClassLib.dll
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\ClassLibTestProject\bin\Debug\ClassLib.pdb
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\ClassLibTestProject\obj\Debug\ClassLibTestProject.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\ClassLibTestProject\obj\Debug\ClassLibTestProject.dll
+E:\MOOC\录课视频相关文件\Week3\3.3 单元测试\UnitTestDemos\ClassLibTestProject\obj\Debug\ClassLibTestProject.pdb
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\12 单元测试\UnitTestDemos\ClassLibTestProject\bin\Debug\ClassLibTestProject.dll
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\12 单元测试\UnitTestDemos\ClassLibTestProject\bin\Debug\ClassLibTestProject.pdb
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\12 单元测试\UnitTestDemos\ClassLibTestProject\bin\Debug\ClassLib.dll
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\12 单元测试\UnitTestDemos\ClassLibTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\12 单元测试\UnitTestDemos\ClassLibTestProject\bin\Debug\ClassLib.pdb
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\12 单元测试\UnitTestDemos\ClassLibTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\12 单元测试\UnitTestDemos\ClassLibTestProject\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\12 单元测试\UnitTestDemos\ClassLibTestProject\obj\Debug\ClassLibTestProject.csprojResolveAssemblyReference.cache
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\12 单元测试\UnitTestDemos\ClassLibTestProject\obj\Debug\ClassLibTestProject.dll
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\12 单元测试\UnitTestDemos\ClassLibTestProject\obj\Debug\ClassLibTestProject.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\ClassLibTestProject\bin\Debug\ClassLibTestProject.dll
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\ClassLibTestProject\bin\Debug\ClassLibTestProject.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\ClassLibTestProject\bin\Debug\ClassLib.dll
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\ClassLibTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\ClassLibTestProject\bin\Debug\ClassLib.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\ClassLibTestProject\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\ClassLibTestProject\obj\Debug\ClassLibTestProject.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\ClassLibTestProject\obj\Debug\ClassLibTestProject.csproj.CopyComplete
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\ClassLibTestProject\obj\Debug\ClassLibTestProject.dll
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\单元测试\示例\UnitTestDemos\ClassLibTestProject\obj\Debug\ClassLibTestProject.pdb

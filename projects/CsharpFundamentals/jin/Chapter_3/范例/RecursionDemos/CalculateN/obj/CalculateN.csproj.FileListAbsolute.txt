@@ -1,0 +1,8 @@
+D:\CalculateN\CalculateN\bin\Debug\CalculateN.exe
+D:\CalculateN\CalculateN\bin\Debug\CalculateN.pdb
+D:\CalculateN\CalculateN\obj\Debug\ResolveAssemblyReference.cache
+D:\CalculateN\CalculateN\obj\Debug\CalculateN.Properties.Resources.resources
+D:\CalculateN\CalculateN\obj\Debug\CalculateN.csproj.GenerateResource.Cache
+D:\CalculateN\CalculateN\obj\Debug\CalculateN.exe
+D:\CalculateN\CalculateN\obj\Debug\CalculateN.pdb
+D:\CalculateN\CalculateN\obj\Debug\CalculateN.frmCalculate.resources

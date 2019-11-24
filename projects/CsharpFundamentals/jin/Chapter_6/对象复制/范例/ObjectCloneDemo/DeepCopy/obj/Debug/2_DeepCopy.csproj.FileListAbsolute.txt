@@ -1,0 +1,5 @@
+E:\ObjectCloneDemo\DeepCopy\bin\Debug\DeepCopy.exe.config
+E:\ObjectCloneDemo\DeepCopy\bin\Debug\DeepCopy.exe
+E:\ObjectCloneDemo\DeepCopy\bin\Debug\DeepCopy.pdb
+E:\ObjectCloneDemo\DeepCopy\obj\Debug\DeepCopy.exe
+E:\ObjectCloneDemo\DeepCopy\obj\Debug\DeepCopy.pdb

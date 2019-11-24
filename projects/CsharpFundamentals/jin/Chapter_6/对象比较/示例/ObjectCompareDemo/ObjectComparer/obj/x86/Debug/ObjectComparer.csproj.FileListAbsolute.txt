@@ -1,0 +1,23 @@
+C:\jxl\MyBook\面向对象的艺术\第11章 对象的比较\SourceCode\ObjectComparer\ObjectComparer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\面向对象的艺术\第11章 对象的比较\SourceCode\ObjectComparer\ObjectComparer\bin\Debug\ObjectComparer.exe
+C:\jxl\MyBook\面向对象的艺术\第11章 对象的比较\SourceCode\ObjectComparer\ObjectComparer\bin\Debug\ObjectComparer.pdb
+C:\jxl\MyBook\面向对象的艺术\第11章 对象的比较\SourceCode\ObjectComparer\ObjectComparer\obj\x86\Debug\ObjectComparer.exe
+C:\jxl\MyBook\面向对象的艺术\第11章 对象的比较\SourceCode\ObjectComparer\ObjectComparer\obj\x86\Debug\ObjectComparer.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第11章 对象集合与LINQ\SourceCode\ObjectComparer\ObjectComparer\obj\x86\Debug\ObjectComparer.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第11章 对象集合与LINQ\SourceCode\ObjectComparer\ObjectComparer\obj\x86\Debug\ObjectComparer.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第11章 对象集合与LINQ\SourceCode\ObjectComparer\ObjectComparer\bin\Debug\ObjectComparer.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第11章 对象集合与LINQ\SourceCode\ObjectComparer\ObjectComparer\bin\Debug\ObjectComparer.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第11章 对象集合与LINQ\SourceCode\ObjectComparer\ObjectComparer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第11章 对象集合与LINQ\SourceCode\11.1\ObjectComparer\ObjectComparer\obj\x86\Debug\ObjectComparer.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第11章 对象集合与LINQ\SourceCode\11.1\ObjectComparer\ObjectComparer\obj\x86\Debug\ObjectComparer.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第11章 对象集合与LINQ\SourceCode\11.1\ObjectComparer\ObjectComparer\bin\Debug\ObjectComparer.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第11章 对象集合与LINQ\SourceCode\11.1\ObjectComparer\ObjectComparer\bin\Debug\ObjectComparer.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第11章 对象集合与LINQ\SourceCode\11.1\ObjectComparer\ObjectComparer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\jxl\上课幻灯片\OOAD（研究生版-2011）\2 打好面向对象编程基础\6 对象集合与对象组合\SourceCode\ObjectComparer\ObjectComparer\obj\x86\Debug\ObjectComparer.exe
+D:\jxl\上课幻灯片\OOAD（研究生版-2011）\2 打好面向对象编程基础\6 对象集合与对象组合\SourceCode\ObjectComparer\ObjectComparer\obj\x86\Debug\ObjectComparer.pdb
+E:\MOOC\录课视频相关文件\Week2\2.4 对象比较\ObjectCompareDemo\ObjectComparer\bin\Debug\ObjectComparer.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.4 对象比较\ObjectCompareDemo\ObjectComparer\bin\Debug\ObjectComparer.exe
+E:\MOOC\录课视频相关文件\Week2\2.4 对象比较\ObjectCompareDemo\ObjectComparer\bin\Debug\ObjectComparer.pdb
+E:\MOOC\录课视频相关文件\Week2\2.4 对象比较\ObjectCompareDemo\ObjectComparer\obj\x86\Debug\ObjectComparer.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week2\2.4 对象比较\ObjectCompareDemo\ObjectComparer\obj\x86\Debug\ObjectComparer.exe
+E:\MOOC\录课视频相关文件\Week2\2.4 对象比较\ObjectCompareDemo\ObjectComparer\obj\x86\Debug\ObjectComparer.pdb

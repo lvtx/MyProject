@@ -1,0 +1,8 @@
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber2\bin\Debug\AddTwoNumber2.exe.config
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber2\bin\Debug\AddTwoNumber2.exe
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber2\bin\Debug\AddTwoNumber2.pdb
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber2\obj\Debug\AddTwoNumber2.frmAdd.resources
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber2\obj\Debug\AddTwoNumber2.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber2\obj\Debug\AddTwoNumber2.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber2\obj\Debug\AddTwoNumber2.exe
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber2\obj\Debug\AddTwoNumber2.pdb

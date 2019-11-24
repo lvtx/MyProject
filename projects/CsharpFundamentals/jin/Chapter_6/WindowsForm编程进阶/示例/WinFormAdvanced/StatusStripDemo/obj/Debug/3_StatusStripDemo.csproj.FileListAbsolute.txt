@@ -1,0 +1,12 @@
+E:\WinFormAdvanced\StatusStripDemo\bin\Debug\StatusStripDemo.exe.config
+E:\WinFormAdvanced\StatusStripDemo\obj\Debug\StatusStripDemo.exe
+E:\WinFormAdvanced\StatusStripDemo\obj\Debug\StatusStripDemo.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\StatusStripDemo\obj\Debug\3_StatusStripDemo.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\StatusStripDemo\obj\Debug\StatusStripDemo.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\StatusStripDemo\obj\Debug\StatusStripDemo.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\StatusStripDemo\bin\Debug\StatusStripDemo.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\StatusStripDemo\bin\Debug\StatusStripDemo.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\StatusStripDemo\bin\Debug\StatusStripDemo.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\StatusStripDemo\obj\Debug\StatusStripDemo.frmStatusStrip.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\StatusStripDemo\obj\Debug\StatusStripDemo.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\WindowsForm编程进阶\示例\WinFormAdvanced\StatusStripDemo\obj\Debug\3_StatusStripDemo.csproj.GenerateResource.cache

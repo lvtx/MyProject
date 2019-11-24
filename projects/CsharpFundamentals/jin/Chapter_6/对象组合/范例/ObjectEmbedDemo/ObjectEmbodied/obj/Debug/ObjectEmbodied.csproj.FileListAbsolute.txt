@@ -1,0 +1,24 @@
+D:\Working\DotNET Web开发步步高系列在线课程\DotNET 编程语言与面向对象理论基础\第二讲 类与对象（2）\SourceCode\Lecture2\ObjectEmbodied\bin\Debug\ObjectEmbodied.exe
+D:\Working\DotNET Web开发步步高系列在线课程\DotNET 编程语言与面向对象理论基础\第二讲 类与对象（2）\SourceCode\Lecture2\ObjectEmbodied\bin\Debug\ObjectEmbodied.pdb
+D:\Working\DotNET Web开发步步高系列在线课程\DotNET 编程语言与面向对象理论基础\第二讲 类与对象（2）\SourceCode\Lecture2\ObjectEmbodied\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\DotNET Web开发步步高系列在线课程\DotNET 编程语言与面向对象理论基础\第二讲 类与对象（2）\SourceCode\Lecture2\ObjectEmbodied\obj\Debug\ObjectEmbodied.exe
+D:\Working\DotNET Web开发步步高系列在线课程\DotNET 编程语言与面向对象理论基础\第二讲 类与对象（2）\SourceCode\Lecture2\ObjectEmbodied\obj\Debug\ObjectEmbodied.pdb
+C:\第二讲 类与对象（2）\SourceCode\Lecture2\ObjectEmbodied\bin\Debug\ObjectEmbodied.exe
+C:\第二讲 类与对象（2）\SourceCode\Lecture2\ObjectEmbodied\bin\Debug\ObjectEmbodied.pdb
+C:\第二讲 类与对象（2）\SourceCode\Lecture2\ObjectEmbodied\obj\Debug\ResolveAssemblyReference.cache
+C:\第二讲 类与对象（2）\SourceCode\Lecture2\ObjectEmbodied\obj\Debug\ObjectEmbodied.exe
+C:\第二讲 类与对象（2）\SourceCode\Lecture2\ObjectEmbodied\obj\Debug\ObjectEmbodied.pdb
+C:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第二讲 类与对象（2）\SourceCode\ObjectEmbodied\bin\Debug\ObjectEmbodied.exe
+C:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第二讲 类与对象（2）\SourceCode\ObjectEmbodied\bin\Debug\ObjectEmbodied.pdb
+C:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第二讲 类与对象（2）\SourceCode\ObjectEmbodied\obj\Debug\ResolveAssemblyReference.cache
+C:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第二讲 类与对象（2）\SourceCode\ObjectEmbodied\obj\Debug\ObjectEmbodied.exe
+C:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第二讲 类与对象（2）\SourceCode\ObjectEmbodied\obj\Debug\ObjectEmbodied.pdb
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\ObjectEmbodied\obj\Debug\ObjectEmbodied.exe
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\ObjectEmbodied\obj\Debug\ObjectEmbodied.pdb
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\ObjectEmbodied\bin\Debug\ObjectEmbodied.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合\ObjectEmbedDemo\ObjectEmbodied\bin\Debug\ObjectEmbodied.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合\ObjectEmbedDemo\ObjectEmbodied\obj\Debug\ObjectEmbodied.exe
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合\ObjectEmbedDemo\ObjectEmbodied\obj\Debug\ObjectEmbodied.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\ObjectEmbodied\bin\Debug\ObjectEmbodied.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\ObjectEmbodied\obj\Debug\ObjectEmbodied.exe
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\ObjectEmbodied\obj\Debug\ObjectEmbodied.pdb

@@ -1,0 +1,24 @@
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ContainerDemo\bin\Debug\ContainerDemo.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ContainerDemo\bin\Debug\ContainerDemo.exe
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ContainerDemo\bin\Debug\ContainerDemo.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ContainerDemo\obj\Debug\ContainerDemo.frmMain.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ContainerDemo\obj\Debug\ContainerDemo.frmPanel.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ContainerDemo\obj\Debug\ContainerDemo.Properties.Resources.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ContainerDemo\obj\Debug\6_ContainerDemo.csproj.GenerateResource.Cache
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ContainerDemo\obj\Debug\ContainerDemo.exe
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ContainerDemo\obj\Debug\ContainerDemo.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ContainerDemo\obj\Debug\ContainerDemo.frmTabControl.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ContainerDemo\obj\Debug\ContainerDemo.frmGroupBox.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\ContainerDemo\bin\Debug\ContainerDemo.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\ContainerDemo\bin\Debug\ContainerDemo.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\ContainerDemo\bin\Debug\ContainerDemo.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\ContainerDemo\obj\Debug\6_ContainerDemo.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\ContainerDemo\obj\Debug\ContainerDemo.frmGroupBox.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\ContainerDemo\obj\Debug\ContainerDemo.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\ContainerDemo\obj\Debug\ContainerDemo.frmPanel.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\ContainerDemo\obj\Debug\ContainerDemo.frmTabControl.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\ContainerDemo\obj\Debug\ContainerDemo.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\ContainerDemo\obj\Debug\6_ContainerDemo.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\ContainerDemo\obj\Debug\6_ContainerDemo.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\ContainerDemo\obj\Debug\ContainerDemo.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\ContainerDemo\obj\Debug\ContainerDemo.pdb

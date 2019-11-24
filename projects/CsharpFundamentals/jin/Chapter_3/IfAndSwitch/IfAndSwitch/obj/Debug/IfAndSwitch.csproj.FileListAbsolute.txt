@@ -1,0 +1,7 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\IfAndSwitch\bin\Debug\IfAndSwitch.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\IfAndSwitch\bin\Debug\IfAndSwitch.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\IfAndSwitch\bin\Debug\IfAndSwitch.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\IfAndSwitch\obj\Debug\IfAndSwitch.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\IfAndSwitch\obj\Debug\IfAndSwitch.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\IfAndSwitch\obj\Debug\IfAndSwitch.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\IfAndSwitch\IfAndSwitch\obj\Debug\IfAndSwitch.pdb

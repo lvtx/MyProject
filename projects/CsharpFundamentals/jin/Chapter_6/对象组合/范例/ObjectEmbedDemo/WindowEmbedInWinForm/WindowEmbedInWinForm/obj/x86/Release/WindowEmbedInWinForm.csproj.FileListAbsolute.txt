@@ -1,0 +1,8 @@
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\WindowEmbedInWinForm\bin\Release\WindowEmbedInWinForm.exe
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\WindowEmbedInWinForm\bin\Release\WindowEmbedInWinForm.pdb
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\WindowEmbedInWinForm\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\WindowEmbedInWinForm\obj\x86\Release\WindowEmbedInWinForm.Properties.Resources.resources
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\WindowEmbedInWinForm\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\WindowEmbedInWinForm\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\WindowEmbedInWinForm\obj\x86\Release\WindowEmbedInWinForm.exe
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\WindowEmbedInWinForm\obj\x86\Release\WindowEmbedInWinForm.pdb

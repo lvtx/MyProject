@@ -1,0 +1,9 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象组合\范例\ObjectEmbedDemo\OneToManyWinForm\bin\Debug\OneToManyWinForm.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象组合\范例\ObjectEmbedDemo\OneToManyWinForm\bin\Debug\OneToManyWinForm.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象组合\范例\ObjectEmbedDemo\OneToManyWinForm\bin\Debug\OneToManyWinForm.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象组合\范例\ObjectEmbedDemo\OneToManyWinForm\obj\Debug\4_OneToManyWinForm.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象组合\范例\ObjectEmbedDemo\OneToManyWinForm\obj\Debug\OneToManyWinForm.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象组合\范例\ObjectEmbedDemo\OneToManyWinForm\obj\Debug\OneToManyWinForm.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象组合\范例\ObjectEmbedDemo\OneToManyWinForm\obj\Debug\4_OneToManyWinForm.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象组合\范例\ObjectEmbedDemo\OneToManyWinForm\obj\Debug\OneToManyWinForm.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象组合\范例\ObjectEmbedDemo\OneToManyWinForm\obj\Debug\OneToManyWinForm.pdb

@@ -1,0 +1,9 @@
+D:\Test\MenuDemo\MenuDemo\bin\Debug\MenuDemo.exe.config
+D:\Test\MenuDemo\MenuDemo\bin\Debug\MenuDemo.exe
+D:\Test\MenuDemo\MenuDemo\bin\Debug\MenuDemo.pdb
+D:\Test\MenuDemo\MenuDemo\obj\Debug\MenuDemo.csprojResolveAssemblyReference.cache
+D:\Test\MenuDemo\MenuDemo\obj\Debug\MenuDemo.frmMain.resources
+D:\Test\MenuDemo\MenuDemo\obj\Debug\MenuDemo.Properties.Resources.resources
+D:\Test\MenuDemo\MenuDemo\obj\Debug\MenuDemo.csproj.GenerateResource.Cache
+D:\Test\MenuDemo\MenuDemo\obj\Debug\MenuDemo.exe
+D:\Test\MenuDemo\MenuDemo\obj\Debug\MenuDemo.pdb

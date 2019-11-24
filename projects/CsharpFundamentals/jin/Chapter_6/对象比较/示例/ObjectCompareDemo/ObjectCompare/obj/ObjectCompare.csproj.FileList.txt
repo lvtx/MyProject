@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\ObjectCompare.exe
+bin\Debug\ObjectCompare.pdb
+obj\Debug\ObjectCompare.exe
+obj\Debug\ObjectCompare.pdb

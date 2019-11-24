@@ -1,0 +1,8 @@
+obj\Debug\SingleObjectSerialization.exe
+obj\Debug\SingleObjectSerialization.pdb
+bin\Debug\SingleObjectSerialization.exe
+bin\Debug\SingleObjectSerialization.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SingleObjectSerialization.frmMain.resources
+obj\Debug\SingleObjectSerialization.Properties.Resources.resources
+obj\Debug\SingleObjectSerialization1.csproj.GenerateResource.Cache

@@ -1,0 +1,22 @@
+C:\jxl\MyBook\面向对象的艺术\第1篇 面向对象概念、方法与技术\第6章 异常处理\SourceCode\EmbedException\EmbedException\bin\Debug\EmbedException.exe
+C:\jxl\MyBook\面向对象的艺术\第1篇 面向对象概念、方法与技术\第6章 异常处理\SourceCode\EmbedException\EmbedException\bin\Debug\EmbedException.pdb
+C:\jxl\MyBook\面向对象的艺术\第1篇 面向对象概念、方法与技术\第6章 异常处理\SourceCode\EmbedException\EmbedException\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\面向对象的艺术\第1篇 面向对象概念、方法与技术\第6章 异常处理\SourceCode\EmbedException\EmbedException\obj\x86\Debug\EmbedException.exe
+C:\jxl\MyBook\面向对象的艺术\第1篇 面向对象概念、方法与技术\第6章 异常处理\SourceCode\EmbedException\EmbedException\obj\x86\Debug\EmbedException.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第8章 异常捕获与处理\SourceCode\8.2\EmbedException\EmbedException\bin\Debug\EmbedException.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第8章 异常捕获与处理\SourceCode\8.2\EmbedException\EmbedException\bin\Debug\EmbedException.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第8章 异常捕获与处理\SourceCode\8.2\EmbedException\EmbedException\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第8章 异常捕获与处理\SourceCode\8.2\EmbedException\EmbedException\obj\x86\Debug\EmbedException.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第8章 异常捕获与处理\SourceCode\8.2\EmbedException\EmbedException\obj\x86\Debug\EmbedException.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第1篇 面向对象技术的.NET视角\第6章 异常捕获与处理\SourceCode\6.2\EmbedException\EmbedException\obj\x86\Debug\EmbedException.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第1篇 面向对象技术的.NET视角\第6章 异常捕获与处理\SourceCode\6.2\EmbedException\EmbedException\obj\x86\Debug\EmbedException.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第1篇 面向对象技术的.NET视角\第6章 异常捕获与处理\SourceCode\6.2\EmbedException\EmbedException\bin\Debug\EmbedException.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第1篇 面向对象技术的.NET视角\第6章 异常捕获与处理\SourceCode\6.2\EmbedException\EmbedException\bin\Debug\EmbedException.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第1篇 面向对象技术的.NET视角\第6章 异常捕获与处理\SourceCode\6.2\EmbedException\EmbedException\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第1篇 面向对象技术的.NET视角\第6章 异常捕获与处理\SourceCode\6.2\EmbedException\EmbedException\obj\x86\Debug\EmbedException.exe
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第1篇 面向对象技术的.NET视角\第6章 异常捕获与处理\SourceCode\6.2\EmbedException\EmbedException\obj\x86\Debug\EmbedException.pdb
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第1篇 面向对象技术的.NET视角\第6章 异常捕获与处理\SourceCode\6.2\EmbedException\EmbedException\bin\Debug\EmbedException.exe
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第1篇 面向对象技术的.NET视角\第6章 异常捕获与处理\SourceCode\6.2\EmbedException\EmbedException\bin\Debug\EmbedException.pdb
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第1篇 面向对象技术的.NET视角\第6章 异常捕获与处理\SourceCode\6.2\EmbedException\EmbedException\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Mooc\人大MOOC\4 C#面向对象编程入门\7 异常处理\EmbedException\EmbedException\obj\x86\Debug\EmbedException.exe
+C:\Mooc\人大MOOC\4 C#面向对象编程入门\7 异常处理\EmbedException\EmbedException\obj\x86\Debug\EmbedException.pdb

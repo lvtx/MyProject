@@ -1,0 +1,11 @@
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseMultiDelegateExample\bin\Debug\UseMultiDelegateExample.exe.config
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseMultiDelegateExample\bin\Debug\UseMultiDelegateExample.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseMultiDelegateExample\bin\Debug\UseMultiDelegateExample.pdb
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseMultiDelegateExample\obj\Debug\UseMultiDelegateExample.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseMultiDelegateExample\obj\Debug\UseMultiDelegateExample.pdb
+E:\EventDemos\UseMultiDelegateExample\bin\Debug\UseMultiDelegateExample.exe.config
+E:\EventDemos\UseMultiDelegateExample\bin\Debug\UseMultiDelegateExample.exe
+E:\EventDemos\UseMultiDelegateExample\bin\Debug\UseMultiDelegateExample.pdb
+E:\EventDemos\UseMultiDelegateExample\obj\Debug\2_UseMultiDelegateExample.csprojResolveAssemblyReference.cache
+E:\EventDemos\UseMultiDelegateExample\obj\Debug\UseMultiDelegateExample.exe
+E:\EventDemos\UseMultiDelegateExample\obj\Debug\UseMultiDelegateExample.pdb

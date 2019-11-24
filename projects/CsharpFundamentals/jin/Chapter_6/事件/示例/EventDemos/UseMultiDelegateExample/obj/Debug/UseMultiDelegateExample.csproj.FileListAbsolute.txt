@@ -1,0 +1,21 @@
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\UseMultiDelegateExample\obj\Debug\UseMultiDelegateExample.exe
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\UseMultiDelegateExample\obj\Debug\UseMultiDelegateExample.pdb
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\UseMultiDelegateExample\obj\Debug\ResolveAssemblyReference.cache
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\UseMultiDelegateExample\bin\Debug\UseMultiDelegateExample.exe
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\UseMultiDelegateExample\bin\Debug\UseMultiDelegateExample.pdb
+C:\第四讲 委托与事件\SourceCode\Lecture4\UseMultiDelegateExample\obj\Debug\UseMultiDelegateExample.exe
+C:\第四讲 委托与事件\SourceCode\Lecture4\UseMultiDelegateExample\obj\Debug\UseMultiDelegateExample.pdb
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseMultiDelegateExample\bin\Debug\UseMultiDelegateExample.exe
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseMultiDelegateExample\bin\Debug\UseMultiDelegateExample.pdb
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseMultiDelegateExample\obj\Debug\ResolveAssemblyReference.cache
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseMultiDelegateExample\obj\Debug\UseMultiDelegateExample.exe
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseMultiDelegateExample\obj\Debug\UseMultiDelegateExample.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\UseMultiDelegateExample\obj\Debug\UseMultiDelegateExample.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\UseMultiDelegateExample\obj\Debug\UseMultiDelegateExample.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\UseMultiDelegateExample\obj\Debug\UseMultiDelegateExample.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\UseMultiDelegateExample\obj\Debug\UseMultiDelegateExample.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\UseMultiDelegateExample\bin\Debug\UseMultiDelegateExample.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\UseMultiDelegateExample\bin\Debug\UseMultiDelegateExample.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\UseMultiDelegateExample\obj\Debug\ResolveAssemblyReference.cache
+D:\jxl\上课幻灯片\OOAD（研究生版-2011）\2 打好面向对象编程基础\5 委托与事件\SourceCode\事件\UseMultiDelegateExample\obj\Debug\UseMultiDelegateExample.exe
+D:\jxl\上课幻灯片\OOAD（研究生版-2011）\2 打好面向对象编程基础\5 委托与事件\SourceCode\事件\UseMultiDelegateExample\obj\Debug\UseMultiDelegateExample.pdb

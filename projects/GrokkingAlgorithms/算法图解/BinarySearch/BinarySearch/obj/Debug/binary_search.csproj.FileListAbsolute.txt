@@ -1,0 +1,14 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\binary_search\binary_search\bin\Debug\binary_search.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\binary_search\binary_search\bin\Debug\binary_search.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\binary_search\binary_search\bin\Debug\binary_search.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\binary_search\binary_search\obj\Debug\binary_search.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\binary_search\binary_search\obj\Debug\binary_search.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\binary_search\binary_search\obj\Debug\binary_search.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\binary_search\binary_search\obj\Debug\binary_search.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\binary_search\binary_search\bin\Debug\binary_search.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\binary_search\binary_search\bin\Debug\binary_search.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\binary_search\binary_search\bin\Debug\binary_search.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\binary_search\binary_search\obj\Debug\binary_search.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\binary_search\binary_search\obj\Debug\binary_search.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\binary_search\binary_search\obj\Debug\binary_search.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\binary_search\binary_search\obj\Debug\binary_search.pdb

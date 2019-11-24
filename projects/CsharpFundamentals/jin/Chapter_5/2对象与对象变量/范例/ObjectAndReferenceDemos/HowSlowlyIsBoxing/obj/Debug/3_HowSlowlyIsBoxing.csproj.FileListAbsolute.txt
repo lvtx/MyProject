@@ -1,0 +1,16 @@
+E:\ObjectAndReferenceDemos\HowSlowlyIsBoxing\bin\Debug\HowSlowlyIsBoxing.exe.config
+E:\ObjectAndReferenceDemos\HowSlowlyIsBoxing\obj\Debug\HowSlowlyIsBoxing.exe
+E:\ObjectAndReferenceDemos\HowSlowlyIsBoxing\obj\Debug\HowSlowlyIsBoxing.pdb
+E:\ObjectAndReferenceDemos\HowSlowlyIsBoxing\bin\Debug\HowSlowlyIsBoxing.exe
+E:\ObjectAndReferenceDemos\HowSlowlyIsBoxing\bin\Debug\HowSlowlyIsBoxing.pdb
+E:\ObjectAndReferenceDemos\HowSlowlyIsBoxing\obj\Debug\3_HowSlowlyIsBoxing.csprojResolveAssemblyReference.cache
+F:\ObjectAndReferenceDemos\HowSlowlyIsBoxing\bin\Debug\HowSlowlyIsBoxing.exe.config
+F:\ObjectAndReferenceDemos\HowSlowlyIsBoxing\obj\Debug\HowSlowlyIsBoxing.exe
+F:\ObjectAndReferenceDemos\HowSlowlyIsBoxing\obj\Debug\HowSlowlyIsBoxing.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\范例\ObjectAndReferenceDemos\HowSlowlyIsBoxing\bin\Debug\HowSlowlyIsBoxing.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\范例\ObjectAndReferenceDemos\HowSlowlyIsBoxing\bin\Debug\HowSlowlyIsBoxing.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\范例\ObjectAndReferenceDemos\HowSlowlyIsBoxing\bin\Debug\HowSlowlyIsBoxing.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\范例\ObjectAndReferenceDemos\HowSlowlyIsBoxing\obj\Debug\3_HowSlowlyIsBoxing.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\范例\ObjectAndReferenceDemos\HowSlowlyIsBoxing\obj\Debug\3_HowSlowlyIsBoxing.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\范例\ObjectAndReferenceDemos\HowSlowlyIsBoxing\obj\Debug\HowSlowlyIsBoxing.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\范例\ObjectAndReferenceDemos\HowSlowlyIsBoxing\obj\Debug\HowSlowlyIsBoxing.pdb

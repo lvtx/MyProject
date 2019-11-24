@@ -1,0 +1,5 @@
+bin\Debug\LinkListExample.exe
+bin\Debug\LinkListExample.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LinkListExample.exe
+obj\Debug\LinkListExample.pdb

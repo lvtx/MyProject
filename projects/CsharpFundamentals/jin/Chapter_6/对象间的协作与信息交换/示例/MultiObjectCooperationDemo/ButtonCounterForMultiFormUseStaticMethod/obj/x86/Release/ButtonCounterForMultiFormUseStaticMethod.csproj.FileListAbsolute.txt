@@ -1,0 +1,2 @@
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的协作与信息交换\SourceCode\14.2\ButtonCounterForMultiForm\ButtonCounterForMultiFormUseStaticMethod\obj\x86\Release\ButtonCounterForMultiFormUseStaticMethod.exe
+D:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第14章 对象间的协作与信息交换\SourceCode\14.2\ButtonCounterForMultiForm\ButtonCounterForMultiFormUseStaticMethod\obj\x86\Release\ButtonCounterForMultiFormUseStaticMethod.pdb

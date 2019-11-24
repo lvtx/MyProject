@@ -1,0 +1,12 @@
+E:\MOOC\录课视频相关文件\Week2\2.2 对象复制\ObjectCloneDemo\ObjectCloneDemo\bin\Debug\ObjectCloneDemo.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.2 对象复制\ObjectCloneDemo\ObjectCloneDemo\bin\Debug\ObjectCloneDemo.exe
+E:\MOOC\录课视频相关文件\Week2\2.2 对象复制\ObjectCloneDemo\ObjectCloneDemo\bin\Debug\ObjectCloneDemo.pdb
+E:\MOOC\录课视频相关文件\Week2\2.2 对象复制\ObjectCloneDemo\ObjectCloneDemo\obj\Debug\ObjectCloneDemo.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week2\2.2 对象复制\ObjectCloneDemo\ObjectCloneDemo\obj\Debug\ObjectCloneDemo.exe
+E:\MOOC\录课视频相关文件\Week2\2.2 对象复制\ObjectCloneDemo\ObjectCloneDemo\obj\Debug\ObjectCloneDemo.pdb
+E:\ObjectCloneDemo\ObjectCloneDemo\bin\Debug\ObjectCloneDemo.exe.config
+E:\ObjectCloneDemo\ObjectCloneDemo\obj\Debug\ObjectCloneDemo.exe
+E:\ObjectCloneDemo\ObjectCloneDemo\obj\Debug\ObjectCloneDemo.pdb
+E:\ObjectCloneDemo\ObjectCloneDemo\bin\Debug\ObjectCloneDemo.exe
+E:\ObjectCloneDemo\ObjectCloneDemo\bin\Debug\ObjectCloneDemo.pdb
+E:\ObjectCloneDemo\ObjectCloneDemo\obj\Debug\ObjectCloneDemo.csprojResolveAssemblyReference.cache

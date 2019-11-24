@@ -1,0 +1,26 @@
+D:\Test\ShowPicInForm\ShowPicInForm\bin\Debug\ShowPicInForm.exe
+D:\Test\ShowPicInForm\ShowPicInForm\bin\Debug\ShowPicInForm.pdb
+D:\Test\ShowPicInForm\ShowPicInForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Test\ShowPicInForm\ShowPicInForm\obj\x86\Debug\ShowPicInForm.frmMain.resources
+D:\Test\ShowPicInForm\ShowPicInForm\obj\x86\Debug\ShowPicInForm.Properties.Resources.resources
+D:\Test\ShowPicInForm\ShowPicInForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Test\ShowPicInForm\ShowPicInForm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Test\ShowPicInForm\ShowPicInForm\obj\x86\Debug\ShowPicInForm.exe
+D:\Test\ShowPicInForm\ShowPicInForm\obj\x86\Debug\ShowPicInForm.pdb
+D:\jxl\教学模块\dotNET编程语言及基类库\2 C#基础语法\SourceCode\ShowPicInForm\ShowPicInForm\obj\x86\Debug\ShowPicInForm.exe
+D:\jxl\教学模块\dotNET编程语言及基类库\2 C#基础语法\SourceCode\ShowPicInForm\ShowPicInForm\obj\x86\Debug\ShowPicInForm.pdb
+D:\jxl\教学模块\dotNET编程语言及基类库\2 C#基础语法\SourceCode\ShowPicInForm\ShowPicInForm\bin\Debug\ShowPicInForm.exe
+D:\jxl\教学模块\dotNET编程语言及基类库\2 C#基础语法\SourceCode\ShowPicInForm\ShowPicInForm\bin\Debug\ShowPicInForm.pdb
+D:\jxl\教学模块\dotNET编程语言及基类库\2 C#基础语法\SourceCode\ShowPicInForm\ShowPicInForm\obj\x86\Debug\ShowPicInForm.csprojResolveAssemblyReference.cache
+D:\jxl\教学模块\dotNET编程语言及基类库\2 C#基础语法\SourceCode\ShowPicInForm\ShowPicInForm\obj\x86\Debug\ShowPicInForm.frmMain.resources
+D:\jxl\教学模块\dotNET编程语言及基类库\2 C#基础语法\SourceCode\ShowPicInForm\ShowPicInForm\obj\x86\Debug\ShowPicInForm.Properties.Resources.resources
+D:\jxl\教学模块\dotNET编程语言及基类库\2 C#基础语法\SourceCode\ShowPicInForm\ShowPicInForm\obj\x86\Debug\ShowPicInForm.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\ShowPicInForm\bin\Debug\ShowPicInForm.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\ShowPicInForm\bin\Debug\ShowPicInForm.exe
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\ShowPicInForm\bin\Debug\ShowPicInForm.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\ShowPicInForm\obj\x86\Debug\ShowPicInForm.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\ShowPicInForm\obj\x86\Debug\ShowPicInForm.frmMain.resources
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\ShowPicInForm\obj\x86\Debug\ShowPicInForm.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\ShowPicInForm\obj\x86\Debug\ShowPicInForm.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\ShowPicInForm\obj\x86\Debug\ShowPicInForm.exe
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\ShowPicInForm\obj\x86\Debug\ShowPicInForm.pdb

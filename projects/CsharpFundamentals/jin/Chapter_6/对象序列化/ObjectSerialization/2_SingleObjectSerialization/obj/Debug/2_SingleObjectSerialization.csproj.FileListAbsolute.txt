@@ -1,0 +1,9 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\2_SingleObjectSerialization\bin\Debug\2_SingleObjectSerialization.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\2_SingleObjectSerialization\bin\Debug\2_SingleObjectSerialization.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\2_SingleObjectSerialization\bin\Debug\2_SingleObjectSerialization.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\2_SingleObjectSerialization\obj\Debug\2_SingleObjectSerialization.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\2_SingleObjectSerialization\obj\Debug\_2_SingleObjectSerialization.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\2_SingleObjectSerialization\obj\Debug\_2_SingleObjectSerialization.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\2_SingleObjectSerialization\obj\Debug\2_SingleObjectSerialization.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\2_SingleObjectSerialization\obj\Debug\2_SingleObjectSerialization.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\2_SingleObjectSerialization\obj\Debug\2_SingleObjectSerialization.pdb

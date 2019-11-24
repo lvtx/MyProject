@@ -1,0 +1,10 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\ShowPicInForm\bin\Debug\ShowPicInForm.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\ShowPicInForm\bin\Debug\ShowPicInForm.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\ShowPicInForm\bin\Debug\ShowPicInForm.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\ShowPicInForm\obj\Debug\ShowPicInForm.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\ShowPicInForm\obj\Debug\ShowPicInForm.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\ShowPicInForm\obj\Debug\ShowPicInForm.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\ShowPicInForm\obj\Debug\ShowPicInForm.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\ShowPicInForm\obj\Debug\ShowPicInForm.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\ShowPicInForm\obj\Debug\ShowPicInForm.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Method\ShowPicInForm\obj\Debug\ShowPicInForm.pdb

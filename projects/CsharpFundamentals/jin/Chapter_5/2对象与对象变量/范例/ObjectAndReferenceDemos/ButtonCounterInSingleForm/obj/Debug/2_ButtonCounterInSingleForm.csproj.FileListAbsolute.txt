@@ -1,0 +1,9 @@
+E:\ObjectAndReferenceDemos\ButtonCounterInSingleForm\bin\Debug\ButtonCounterInSingleForm.exe.config
+E:\ObjectAndReferenceDemos\ButtonCounterInSingleForm\bin\Debug\ButtonCounterInSingleForm.exe
+E:\ObjectAndReferenceDemos\ButtonCounterInSingleForm\bin\Debug\ButtonCounterInSingleForm.pdb
+E:\ObjectAndReferenceDemos\ButtonCounterInSingleForm\obj\Debug\2_ButtonCounterInSingleForm.csprojResolveAssemblyReference.cache
+E:\ObjectAndReferenceDemos\ButtonCounterInSingleForm\obj\Debug\ButtonCounterInSingleForm.frmMain.resources
+E:\ObjectAndReferenceDemos\ButtonCounterInSingleForm\obj\Debug\ButtonCounterInSingleForm.Properties.Resources.resources
+E:\ObjectAndReferenceDemos\ButtonCounterInSingleForm\obj\Debug\2_ButtonCounterInSingleForm.csproj.GenerateResource.Cache
+E:\ObjectAndReferenceDemos\ButtonCounterInSingleForm\obj\Debug\ButtonCounterInSingleForm.exe
+E:\ObjectAndReferenceDemos\ButtonCounterInSingleForm\obj\Debug\ButtonCounterInSingleForm.pdb

@@ -1,0 +1,6 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\ObjectCompare\ObjectCompare\bin\Debug\ObjectCompare.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\ObjectCompare\ObjectCompare\bin\Debug\ObjectCompare.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\ObjectCompare\ObjectCompare\bin\Debug\ObjectCompare.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\ObjectCompare\ObjectCompare\obj\Debug\ObjectCompare.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\ObjectCompare\ObjectCompare\obj\Debug\ObjectCompare.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\ObjectCompare\ObjectCompare\obj\Debug\ObjectCompare.pdb

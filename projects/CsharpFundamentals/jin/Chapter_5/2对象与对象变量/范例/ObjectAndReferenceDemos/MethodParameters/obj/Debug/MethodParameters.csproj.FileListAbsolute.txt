@@ -1,0 +1,6 @@
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\MethodParameters\bin\Debug\MethodParameters.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\MethodParameters\bin\Debug\MethodParameters.exe
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\MethodParameters\bin\Debug\MethodParameters.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\MethodParameters\obj\Debug\MethodParameters.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\MethodParameters\obj\Debug\MethodParameters.exe
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\MethodParameters\obj\Debug\MethodParameters.pdb

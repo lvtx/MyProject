@@ -1,0 +1,14 @@
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第一讲 类和对象（1）\SourceCode\ObjectCounter\bin\Debug\ObjectCounter.exe
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第一讲 类和对象（1）\SourceCode\ObjectCounter\bin\Debug\ObjectCounter.pdb
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第一讲 类和对象（1）\SourceCode\ObjectCounter\obj\Debug\ResolveAssemblyReference.cache
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第一讲 类和对象（1）\SourceCode\ObjectCounter\obj\Debug\ObjectCounter.exe
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第一讲 类和对象（1）\SourceCode\ObjectCounter\obj\Debug\ObjectCounter.pdb
+C:\Mooc\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\ObjectCounter\bin\Debug\ObjectCounter.exe.config
+C:\Mooc\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\ObjectCounter\obj\Debug\ObjectCounter.exe
+C:\Mooc\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\ObjectCounter\obj\Debug\ObjectCounter.pdb
+C:\Mooc\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\ObjectCounter\bin\Debug\ObjectCounter.exe
+C:\Mooc\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\ObjectCounter\bin\Debug\ObjectCounter.pdb
+C:\Mooc\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\ObjectCounter\obj\Debug\ObjectCounter.csprojResolveAssemblyReference.cache
+E:\ObjectAndReferenceDemos\ObjectCounter\bin\Debug\ObjectCounter.exe.config
+E:\ObjectAndReferenceDemos\ObjectCounter\obj\Debug\ObjectCounter.exe
+E:\ObjectAndReferenceDemos\ObjectCounter\obj\Debug\ObjectCounter.pdb

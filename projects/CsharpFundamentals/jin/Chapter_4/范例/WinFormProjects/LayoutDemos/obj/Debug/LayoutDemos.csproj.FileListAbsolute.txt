@@ -1,0 +1,2 @@
+C:\Mooc\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LayoutDemos\bin\Debug\LayoutDemos.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LayoutDemos\bin\Debug\LayoutDemos.exe.config

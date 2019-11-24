@@ -1,0 +1,9 @@
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\SingleObjectSerialization\obj\Debug\SingleObjectSerialization.exe
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\SingleObjectSerialization\obj\Debug\SingleObjectSerialization.pdb
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\SingleObjectSerialization\bin\Debug\SingleObjectSerialization.exe
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\SingleObjectSerialization\bin\Debug\SingleObjectSerialization.pdb
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\SingleObjectSerialization\obj\Debug\SingleObjectSerialization.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\SingleObjectSerialization\obj\Debug\SingleObjectSerialization.frmMain.resources
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\SingleObjectSerialization\obj\Debug\SingleObjectSerialization.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\SingleObjectSerialization\obj\Debug\SingleObjectSerialization.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\SingleObjectSerialization\bin\Debug\SingleObjectSerialization.exe.config

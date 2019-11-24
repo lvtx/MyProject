@@ -1,0 +1,7 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\4_EmbedException2\bin\Debug\4_EmbedException2.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\4_EmbedException2\bin\Debug\4_EmbedException2.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\4_EmbedException2\bin\Debug\4_EmbedException2.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\4_EmbedException2\obj\Debug\4_EmbedException2.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\4_EmbedException2\obj\Debug\4_EmbedException2.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\4_EmbedException2\obj\Debug\4_EmbedException2.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\4_EmbedException2\obj\Debug\4_EmbedException2.pdb

@@ -1,0 +1,9 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyLinkLabel\bin\Debug\MyLinkLabel.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyLinkLabel\bin\Debug\MyLinkLabel.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyLinkLabel\bin\Debug\MyLinkLabel.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyLinkLabel\obj\Debug\MyLinkLabel.Form1.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyLinkLabel\obj\Debug\MyLinkLabel.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyLinkLabel\obj\Debug\MyLinkLabel.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyLinkLabel\obj\Debug\MyLinkLabel.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyLinkLabel\obj\Debug\MyLinkLabel.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\MyLinkLabel\obj\Debug\MyLinkLabel.pdb

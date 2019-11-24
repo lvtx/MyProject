@@ -1,0 +1,10 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\TwoWayCommunicationInForms\bin\Debug\TwoWayCommunicationInForms.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\TwoWayCommunicationInForms\bin\Debug\TwoWayCommunicationInForms.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\TwoWayCommunicationInForms\bin\Debug\TwoWayCommunicationInForms.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\TwoWayCommunicationInForms\obj\Debug\TwoWayCommunicationInForms.frmSub.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\TwoWayCommunicationInForms\obj\Debug\TwoWayCommunicationInForms.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\TwoWayCommunicationInForms\obj\Debug\TwoWayCommunicationInForms.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\TwoWayCommunicationInForms\obj\Debug\6_TwoWayCommunicationInForms.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\TwoWayCommunicationInForms\obj\Debug\TwoWayCommunicationInForms.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\TwoWayCommunicationInForms\obj\Debug\TwoWayCommunicationInForms.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\TwoWayCommunicationInForms\obj\Debug\6_TwoWayCommunicationInForms.csprojAssemblyReference.cache

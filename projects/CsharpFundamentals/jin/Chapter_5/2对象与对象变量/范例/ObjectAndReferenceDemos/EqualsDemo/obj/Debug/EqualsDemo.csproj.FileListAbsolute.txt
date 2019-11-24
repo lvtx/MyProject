@@ -1,0 +1,12 @@
+E:\MOOC\录课视频相关文件\Week1\1.3 温故而知新——重新认识面向对象\1.3.2 对象和对象变量\EqualsDemo\EqualsDemo\bin\Debug\EqualsDemo.exe.config
+E:\MOOC\录课视频相关文件\Week1\1.3 温故而知新——重新认识面向对象\1.3.2 对象和对象变量\EqualsDemo\EqualsDemo\bin\Debug\EqualsDemo.exe
+E:\MOOC\录课视频相关文件\Week1\1.3 温故而知新——重新认识面向对象\1.3.2 对象和对象变量\EqualsDemo\EqualsDemo\bin\Debug\EqualsDemo.pdb
+E:\MOOC\录课视频相关文件\Week1\1.3 温故而知新——重新认识面向对象\1.3.2 对象和对象变量\EqualsDemo\EqualsDemo\obj\Debug\EqualsDemo.exe
+E:\MOOC\录课视频相关文件\Week1\1.3 温故而知新——重新认识面向对象\1.3.2 对象和对象变量\EqualsDemo\EqualsDemo\obj\Debug\EqualsDemo.pdb
+E:\MOOC\录课视频相关文件\Week1\1.3 温故而知新——重新认识面向对象\1.3.2 对象和对象变量\EqualsDemo\EqualsDemo\obj\Debug\EqualsDemo.csprojResolveAssemblyReference.cache
+C:\Mooc\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\EqualsDemo\EqualsDemo\bin\Debug\EqualsDemo.exe.config
+C:\Mooc\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\EqualsDemo\EqualsDemo\obj\Debug\EqualsDemo.exe
+C:\Mooc\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\EqualsDemo\EqualsDemo\obj\Debug\EqualsDemo.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\EqualsDemo\bin\Debug\EqualsDemo.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\EqualsDemo\obj\Debug\EqualsDemo.exe
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\EqualsDemo\obj\Debug\EqualsDemo.pdb

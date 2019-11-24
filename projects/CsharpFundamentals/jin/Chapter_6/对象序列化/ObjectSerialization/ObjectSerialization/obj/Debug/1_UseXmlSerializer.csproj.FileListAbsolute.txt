@@ -1,0 +1,9 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\ObjectSerialization\bin\Debug\ObjectSerialization.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\ObjectSerialization\bin\Debug\ObjectSerialization.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\ObjectSerialization\bin\Debug\ObjectSerialization.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\ObjectSerialization\bin\Debug\NuGet.Frameworks.dll
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\ObjectSerialization\bin\Debug\NuGet.Frameworks.xml
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\ObjectSerialization\obj\Debug\1_UseXmlSerializer.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\ObjectSerialization\obj\Debug\1_UseXmlSerializer.csproj.CopyComplete
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\ObjectSerialization\obj\Debug\ObjectSerialization.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\ObjectSerialization\obj\Debug\ObjectSerialization.pdb

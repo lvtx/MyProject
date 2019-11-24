@@ -1,0 +1,6 @@
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\LoopDemos\LoopDemos\bin\Debug\LoopDemos.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\LoopDemos\LoopDemos\bin\Debug\LoopDemos.exe
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\LoopDemos\LoopDemos\bin\Debug\LoopDemos.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\LoopDemos\LoopDemos\obj\Debug\LoopDemos.exe
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\LoopDemos\LoopDemos\obj\Debug\LoopDemos.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\LoopDemos\LoopDemos\obj\Debug\LoopDemos.csprojResolveAssemblyReference.cache

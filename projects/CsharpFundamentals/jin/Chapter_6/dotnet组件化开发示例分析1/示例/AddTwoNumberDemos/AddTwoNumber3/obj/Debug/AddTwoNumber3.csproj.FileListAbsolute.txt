@@ -1,0 +1,9 @@
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber3\bin\Debug\AddTwoNumber3.exe.config
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber3\bin\Debug\AddTwoNumber3.exe
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber3\bin\Debug\AddTwoNumber3.pdb
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber3\obj\Debug\AddTwoNumber3.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber3\obj\Debug\AddTwoNumber3.frmAdd.resources
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber3\obj\Debug\AddTwoNumber3.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber3\obj\Debug\AddTwoNumber3.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber3\obj\Debug\AddTwoNumber3.exe
+E:\MOOC\录课视频相关文件\Week3\2 .NET组件化开发技术\dotNETCBDDemos\AddTwoNumber3\obj\Debug\AddTwoNumber3.pdb

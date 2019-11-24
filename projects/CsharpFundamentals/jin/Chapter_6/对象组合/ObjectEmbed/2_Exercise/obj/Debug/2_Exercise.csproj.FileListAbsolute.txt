@@ -1,0 +1,6 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象组合\ObjectEmbed\2_Exercise\bin\Debug\2_Exercise.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象组合\ObjectEmbed\2_Exercise\bin\Debug\2_Exercise.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象组合\ObjectEmbed\2_Exercise\bin\Debug\2_Exercise.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象组合\ObjectEmbed\2_Exercise\obj\Debug\2_Exercise.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象组合\ObjectEmbed\2_Exercise\obj\Debug\2_Exercise.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象组合\ObjectEmbed\2_Exercise\obj\Debug\2_Exercise.pdb

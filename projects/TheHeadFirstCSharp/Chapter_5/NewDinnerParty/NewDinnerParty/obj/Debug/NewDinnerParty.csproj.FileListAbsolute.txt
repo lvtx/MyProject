@@ -1,0 +1,10 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\NewDinnerParty\NewDinnerParty\bin\Debug\NewDinnerParty.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\NewDinnerParty\NewDinnerParty\bin\Debug\NewDinnerParty.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\NewDinnerParty\NewDinnerParty\bin\Debug\NewDinnerParty.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\NewDinnerParty\NewDinnerParty\obj\Debug\NewDinnerParty.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\NewDinnerParty\NewDinnerParty\obj\Debug\NewDinnerParty.Form1.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\NewDinnerParty\NewDinnerParty\obj\Debug\NewDinnerParty.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\NewDinnerParty\NewDinnerParty\obj\Debug\NewDinnerParty.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\NewDinnerParty\NewDinnerParty\obj\Debug\NewDinnerParty.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\NewDinnerParty\NewDinnerParty\obj\Debug\NewDinnerParty.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\NewDinnerParty\NewDinnerParty\obj\Debug\NewDinnerParty.pdb

@@ -1,0 +1,17 @@
+E:\MOOC\录课视频相关文件\Week2\2.4 对象比较\ObjectCompareDemo\ObjectSort\bin\Debug\ObjectSort.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.4 对象比较\ObjectCompareDemo\ObjectSort\bin\Debug\ObjectSort.exe
+E:\MOOC\录课视频相关文件\Week2\2.4 对象比较\ObjectCompareDemo\ObjectSort\bin\Debug\ObjectSort.pdb
+E:\MOOC\录课视频相关文件\Week2\2.4 对象比较\ObjectCompareDemo\ObjectSort\obj\Debug\ObjectSort.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week2\2.4 对象比较\ObjectCompareDemo\ObjectSort\obj\Debug\ObjectSort.exe
+E:\MOOC\录课视频相关文件\Week2\2.4 对象比较\ObjectCompareDemo\ObjectSort\obj\Debug\ObjectSort.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectSort\bin\Debug\ObjectSort.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectSort\bin\Debug\ObjectSort.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectSort\bin\Debug\ObjectSort.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectSort\bin\Debug\EntityFramework.dll
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectSort\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectSort\bin\Debug\EntityFramework.xml
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectSort\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectSort\obj\Debug\ObjectSort.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectSort\obj\Debug\ObjectSort.csproj.CopyComplete
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectSort\obj\Debug\ObjectSort.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象比较\示例\ObjectCompareDemo\ObjectSort\obj\Debug\ObjectSort.pdb

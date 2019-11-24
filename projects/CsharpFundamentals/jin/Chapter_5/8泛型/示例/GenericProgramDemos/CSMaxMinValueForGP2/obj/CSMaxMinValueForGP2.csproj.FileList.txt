@@ -1,0 +1,8 @@
+bin\Debug\MaxMinValueForGP2.exe
+bin\Debug\MaxMinValueForGP2.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MaxMinValueForGP2.frmGPExample2.resources
+obj\Debug\MaxMinValueForGP2.Properties.Resources.resources
+obj\Debug\CSMaxMinValueForGP2.csproj.GenerateResource.Cache
+obj\Debug\MaxMinValueForGP2.exe
+obj\Debug\MaxMinValueForGP2.pdb

@@ -1,0 +1,9 @@
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.2\SingleObjectSerialization1\SingleObjectSerialization\obj\Debug\SingleObjectSerialization.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.2\SingleObjectSerialization1\SingleObjectSerialization\obj\Debug\SingleObjectSerialization.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.2\SingleObjectSerialization1\SingleObjectSerialization\bin\Debug\SingleObjectSerialization.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.2\SingleObjectSerialization1\SingleObjectSerialization\bin\Debug\SingleObjectSerialization.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.2\SingleObjectSerialization1\SingleObjectSerialization\obj\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.2\SingleObjectSerialization1\SingleObjectSerialization\obj\Debug\SingleObjectSerialization.frmMain.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.2\SingleObjectSerialization1\SingleObjectSerialization\obj\Debug\SingleObjectSerialization.Properties.Resources.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.2\SingleObjectSerialization1\SingleObjectSerialization\obj\Debug\GenerateResource.read.1.tlog
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.2\SingleObjectSerialization1\SingleObjectSerialization\obj\Debug\GenerateResource.write.1.tlog

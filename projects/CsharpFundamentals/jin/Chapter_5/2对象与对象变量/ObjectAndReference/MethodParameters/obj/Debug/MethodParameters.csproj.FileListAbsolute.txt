@@ -1,0 +1,6 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\MethodParameters\bin\Debug\MethodParameters.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\MethodParameters\bin\Debug\MethodParameters.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\MethodParameters\bin\Debug\MethodParameters.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\MethodParameters\obj\Debug\MethodParameters.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\MethodParameters\obj\Debug\MethodParameters.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\MethodParameters\obj\Debug\MethodParameters.pdb

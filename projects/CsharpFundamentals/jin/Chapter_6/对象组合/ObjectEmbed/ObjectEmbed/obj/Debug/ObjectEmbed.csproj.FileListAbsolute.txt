@@ -1,0 +1,6 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\ObjectEmbed\bin\Debug\ObjectEmbed.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\ObjectEmbed\bin\Debug\ObjectEmbed.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\ObjectEmbed\bin\Debug\ObjectEmbed.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\ObjectEmbed\obj\Debug\ObjectEmbed.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\ObjectEmbed\obj\Debug\ObjectEmbed.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\ObjectEmbed\obj\Debug\ObjectEmbed.pdb

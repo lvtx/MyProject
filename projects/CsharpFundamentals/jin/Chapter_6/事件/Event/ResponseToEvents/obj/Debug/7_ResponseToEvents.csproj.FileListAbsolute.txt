@@ -1,0 +1,9 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\ResponseToEvents\bin\Debug\ResponseToEvents.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\ResponseToEvents\bin\Debug\ResponseToEvents.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\ResponseToEvents\bin\Debug\ResponseToEvents.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\ResponseToEvents\obj\Debug\7_ResponseToEvents.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\ResponseToEvents\obj\Debug\ResponseToEvents.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\ResponseToEvents\obj\Debug\ResponseToEvents.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\ResponseToEvents\obj\Debug\7_ResponseToEvents.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\ResponseToEvents\obj\Debug\ResponseToEvents.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\Event\ResponseToEvents\obj\Debug\ResponseToEvents.pdb

@@ -1,0 +1,3 @@
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\LinkListExample\LinkListExample\bin\Debug\LinkListExample.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\LinkListExample\LinkListExample\obj\Debug\LinkListExample.exe
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\LinkListExample\LinkListExample\obj\Debug\LinkListExample.pdb

@@ -1,0 +1,10 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\OtherFormToMainForm2\bin\Debug\OtherFormToMainForm2.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\OtherFormToMainForm2\bin\Debug\OtherFormToMainForm2.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\OtherFormToMainForm2\bin\Debug\OtherFormToMainForm2.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\OtherFormToMainForm2\obj\Debug\4_OtherFormToMainForm2.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\OtherFormToMainForm2\obj\Debug\OtherFormToMainForm2.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\OtherFormToMainForm2\obj\Debug\OtherFormToMainForm2.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\OtherFormToMainForm2\obj\Debug\OtherFormToMainForm2.frmSub.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\OtherFormToMainForm2\obj\Debug\4_OtherFormToMainForm2.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\OtherFormToMainForm2\obj\Debug\OtherFormToMainForm2.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\ObjectCooperation\OtherFormToMainForm2\obj\Debug\OtherFormToMainForm2.pdb

@@ -1,0 +1,9 @@
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第一讲 类和对象（1）\SourceCode\MultiFormProgram2\bin\Release\MultiFormProgram2.exe
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第一讲 类和对象（1）\SourceCode\MultiFormProgram2\bin\Release\MultiFormProgram2.pdb
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第一讲 类和对象（1）\SourceCode\MultiFormProgram2\obj\Release\ResolveAssemblyReference.cache
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第一讲 类和对象（1）\SourceCode\MultiFormProgram2\obj\Release\MultiFormProgram2.frmMain.resources
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第一讲 类和对象（1）\SourceCode\MultiFormProgram2\obj\Release\MultiFormProgram2.frmOther.resources
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第一讲 类和对象（1）\SourceCode\MultiFormProgram2\obj\Release\MultiFormProgram2.Properties.Resources.resources
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第一讲 类和对象（1）\SourceCode\MultiFormProgram2\obj\Release\MultiFormProgram2.csproj.GenerateResource.Cache
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第一讲 类和对象（1）\SourceCode\MultiFormProgram2\obj\Release\MultiFormProgram2.exe
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第一讲 类和对象（1）\SourceCode\MultiFormProgram2\obj\Release\MultiFormProgram2.pdb

@@ -1,0 +1,6 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\Exercise\MyMathLibrary\bin\Debug\MyMathLibrary.dll
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\Exercise\MyMathLibrary\bin\Debug\MyMathLibrary.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\Exercise\MyMathLibrary\obj\Debug\MyMathLibrary.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\Exercise\MyMathLibrary\obj\Debug\MyMathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\Exercise\MyMathLibrary\obj\Debug\MyMathLibrary.dll
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\Exercise\MyMathLibrary\obj\Debug\MyMathLibrary.pdb

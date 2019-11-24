@@ -1,0 +1,7 @@
+F:\MyDLL\MyDLL\bin\Debug\MyDLL.dll
+F:\MyDLL\MyDLL\bin\Debug\MyDLL.pdb
+F:\MyDLL\MyDLL\bin\Debug\MyDLL2.dll
+F:\MyDLL\MyDLL\bin\Debug\MyDLL2.pdb
+F:\MyDLL\MyDLL\obj\Debug\MyDLL.csprojResolveAssemblyReference.cache
+F:\MyDLL\MyDLL\obj\Debug\MyDLL.dll
+F:\MyDLL\MyDLL\obj\Debug\MyDLL.pdb

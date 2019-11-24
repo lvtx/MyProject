@@ -1,0 +1,9 @@
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ProgressBarAndTimer\bin\Debug\ProgressBarAndTimer.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ProgressBarAndTimer\bin\Debug\ProgressBarAndTimer.exe
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ProgressBarAndTimer\bin\Debug\ProgressBarAndTimer.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ProgressBarAndTimer\obj\Debug\4_ProgressBarAndTimer.csprojResolveAssemblyReference.cache
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ProgressBarAndTimer\obj\Debug\ProgressBarAndTimer.frmMain.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ProgressBarAndTimer\obj\Debug\ProgressBarAndTimer.Properties.Resources.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ProgressBarAndTimer\obj\Debug\4_ProgressBarAndTimer.csproj.GenerateResource.Cache
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ProgressBarAndTimer\obj\Debug\ProgressBarAndTimer.exe
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\ProgressBarAndTimer\obj\Debug\ProgressBarAndTimer.pdb

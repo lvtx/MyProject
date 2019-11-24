@@ -1,0 +1,12 @@
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LabelDemo\bin\Debug\LabelDemo.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LabelDemo\bin\Debug\LabelDemo.exe
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LabelDemo\bin\Debug\LabelDemo.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LabelDemo\obj\Debug\2_LabelDemo.csprojResolveAssemblyReference.cache
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LabelDemo\obj\Debug\LabelDemo.frmLabel.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LabelDemo\obj\Debug\LabelDemo.Properties.Resources.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LabelDemo\obj\Debug\2_LabelDemo.csproj.GenerateResource.Cache
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LabelDemo\obj\Debug\LabelDemo.exe
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LabelDemo\obj\Debug\LabelDemo.pdb
+C:\Mooc\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LabelDemo\bin\Debug\LabelDemo.exe.config
+C:\Mooc\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LabelDemo\obj\Debug\LabelDemo.exe
+C:\Mooc\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\LabelDemo\obj\Debug\LabelDemo.pdb

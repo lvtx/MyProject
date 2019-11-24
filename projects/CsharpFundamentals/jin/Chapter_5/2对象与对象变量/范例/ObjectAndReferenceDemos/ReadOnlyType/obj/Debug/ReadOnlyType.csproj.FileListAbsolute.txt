@@ -1,0 +1,11 @@
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\ReadOnlyType\bin\Debug\ReadOnlyType.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\ReadOnlyType\bin\Debug\ReadOnlyType.exe
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\ReadOnlyType\bin\Debug\ReadOnlyType.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\ReadOnlyType\obj\Debug\ReadOnlyType.exe
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\ReadOnlyType\obj\Debug\ReadOnlyType.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\ReadOnlyType\bin\Debug\ReadOnlyType.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\ReadOnlyType\obj\Debug\ReadOnlyType.exe
+F:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\ReadOnlyType\obj\Debug\ReadOnlyType.pdb
+E:\ObjectAndReferenceDemos\ReadOnlyType\bin\Debug\ReadOnlyType.exe.config
+E:\ObjectAndReferenceDemos\ReadOnlyType\obj\Debug\ReadOnlyType.exe
+E:\ObjectAndReferenceDemos\ReadOnlyType\obj\Debug\ReadOnlyType.pdb

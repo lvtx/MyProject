@@ -1,0 +1,8 @@
+D:\jxl\教案\铁科院培训\6 进一步学习面向对象基础技术\SourceCode\泛型编程\UseGenericExampleForCS\UseGenericExampleForCS\obj\Debug\UseGenericExampleForCS.exe
+D:\jxl\教案\铁科院培训\6 进一步学习面向对象基础技术\SourceCode\泛型编程\UseGenericExampleForCS\UseGenericExampleForCS\obj\Debug\UseGenericExampleForCS.pdb
+D:\jxl\教案\铁科院培训\6 进一步学习面向对象基础技术\SourceCode\泛型编程\UseGenericExampleForCS\UseGenericExampleForCS\bin\Debug\UseGenericExampleForCS.exe
+D:\jxl\教案\铁科院培训\6 进一步学习面向对象基础技术\SourceCode\泛型编程\UseGenericExampleForCS\UseGenericExampleForCS\bin\Debug\UseGenericExampleForCS.pdb
+D:\jxl\教案\铁科院培训\6 进一步学习面向对象基础技术\SourceCode\泛型编程\UseGenericExampleForCS\UseGenericExampleForCS\obj\Debug\ResolveAssemblyReference.cache
+D:\jxl\教案\铁科院培训\6 进一步学习面向对象基础技术\SourceCode\泛型编程\UseGenericExampleForCS\UseGenericExampleForCS\obj\Debug\UseGenericExampleForCS.frmMain.resources
+D:\jxl\教案\铁科院培训\6 进一步学习面向对象基础技术\SourceCode\泛型编程\UseGenericExampleForCS\UseGenericExampleForCS\obj\Debug\UseGenericExampleForCS.Properties.Resources.resources
+D:\jxl\教案\铁科院培训\6 进一步学习面向对象基础技术\SourceCode\泛型编程\UseGenericExampleForCS\UseGenericExampleForCS\obj\Debug\UseGenericExampleForCS.csproj.GenerateResource.Cache

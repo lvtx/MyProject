@@ -1,0 +1,10 @@
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\OtherFormToMainForm2\bin\Debug\OtherFormToMainForm2.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\OtherFormToMainForm2\bin\Debug\OtherFormToMainForm2.exe
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\OtherFormToMainForm2\bin\Debug\OtherFormToMainForm2.pdb
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\OtherFormToMainForm2\obj\Debug\OtherFormToMainForm2.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\OtherFormToMainForm2\obj\Debug\OtherFormToMainForm2.frmMain.resources
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\OtherFormToMainForm2\obj\Debug\OtherFormToMainForm2.frmOther.resources
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\OtherFormToMainForm2\obj\Debug\OtherFormToMainForm2.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\OtherFormToMainForm2\obj\Debug\OtherFormToMainForm2.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\OtherFormToMainForm2\obj\Debug\OtherFormToMainForm2.exe
+E:\MOOC\录课视频相关文件\Week2\2.5 对象间的协作与信息交换\ObjectCooperationDemo\OtherFormToMainForm2\obj\Debug\OtherFormToMainForm2.pdb

@@ -1,0 +1,7 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\ConsoleTips\ConsoleTips\bin\Debug\ConsoleTips.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\ConsoleTips\ConsoleTips\bin\Debug\ConsoleTips.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\ConsoleTips\ConsoleTips\bin\Debug\ConsoleTips.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\ConsoleTips\ConsoleTips\obj\Debug\ConsoleTips.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\ConsoleTips\ConsoleTips\obj\Debug\ConsoleTips.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\ConsoleTips\ConsoleTips\obj\Debug\ConsoleTips.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\ConsoleTips\ConsoleTips\obj\Debug\ConsoleTips.pdb

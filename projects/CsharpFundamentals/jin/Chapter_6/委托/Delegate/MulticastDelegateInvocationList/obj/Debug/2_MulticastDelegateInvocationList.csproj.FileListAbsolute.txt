@@ -1,0 +1,6 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\委托\Delegate\MulticastDelegateInvocationList\bin\Debug\MulticastDelegateInvocationList.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\委托\Delegate\MulticastDelegateInvocationList\bin\Debug\MulticastDelegateInvocationList.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\委托\Delegate\MulticastDelegateInvocationList\bin\Debug\MulticastDelegateInvocationList.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\委托\Delegate\MulticastDelegateInvocationList\obj\Debug\2_MulticastDelegateInvocationList.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\委托\Delegate\MulticastDelegateInvocationList\obj\Debug\MulticastDelegateInvocationList.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\委托\Delegate\MulticastDelegateInvocationList\obj\Debug\MulticastDelegateInvocationList.pdb

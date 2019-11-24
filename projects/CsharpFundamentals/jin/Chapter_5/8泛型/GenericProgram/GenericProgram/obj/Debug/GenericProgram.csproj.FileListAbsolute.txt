@@ -1,0 +1,6 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\8泛型\GenericProgram\GenericProgram\bin\Debug\GenericProgram.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\8泛型\GenericProgram\GenericProgram\bin\Debug\GenericProgram.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\8泛型\GenericProgram\GenericProgram\bin\Debug\GenericProgram.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\8泛型\GenericProgram\GenericProgram\obj\Debug\GenericProgram.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\8泛型\GenericProgram\GenericProgram\obj\Debug\GenericProgram.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\8泛型\GenericProgram\GenericProgram\obj\Debug\GenericProgram.pdb

@@ -1,0 +1,30 @@
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\bin\Debug\UseObjectCollection.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\UseObjectCollection.exe
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\UseObjectCollection.pdb
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\bin\Debug\UseObjectCollection.exe
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\bin\Debug\UseObjectCollection.pdb
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\1_UseObjectCollection.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\UseObjectCollection.frmMain.resources
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\UseObjectCollection.frmOther.resources
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\UseObjectCollection.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week2\2.6 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\1_UseObjectCollection.csproj.GenerateResource.Cache
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\9 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\bin\Debug\UseObjectCollection.exe.config
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\9 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\UseObjectCollection.exe
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\9 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\UseObjectCollection.pdb
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\9 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\bin\Debug\UseObjectCollection.exe
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\9 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\bin\Debug\UseObjectCollection.pdb
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\9 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\1_UseObjectCollection.csprojResolveAssemblyReference.cache
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\9 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\UseObjectCollection.frmMain.resources
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\9 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\UseObjectCollection.frmOther.resources
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\9 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\UseObjectCollection.Properties.Resources.resources
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\9 对象间的协作与信息交换（下）\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\1_UseObjectCollection.csproj.GenerateResource.Cache
+F:\MultiObjectCooperationDemo\UseObjectCollection\bin\Debug\UseObjectCollection.exe.config
+F:\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\UseObjectCollection.exe
+F:\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\UseObjectCollection.pdb
+F:\MultiObjectCooperationDemo\UseObjectCollection\bin\Debug\UseObjectCollection.exe
+F:\MultiObjectCooperationDemo\UseObjectCollection\bin\Debug\UseObjectCollection.pdb
+F:\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\1_UseObjectCollection.csprojResolveAssemblyReference.cache
+F:\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\UseObjectCollection.frmMain.resources
+F:\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\UseObjectCollection.frmOther.resources
+F:\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\UseObjectCollection.Properties.Resources.resources
+F:\MultiObjectCooperationDemo\UseObjectCollection\obj\x86\Debug\1_UseObjectCollection.csproj.GenerateResource.Cache

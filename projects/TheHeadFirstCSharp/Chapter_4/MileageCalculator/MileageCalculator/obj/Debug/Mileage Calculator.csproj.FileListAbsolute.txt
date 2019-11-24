@@ -1,0 +1,10 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Mileage Calculator\Mileage Calculator\bin\Debug\Mileage Calculator.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Mileage Calculator\Mileage Calculator\bin\Debug\Mileage Calculator.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Mileage Calculator\Mileage Calculator\bin\Debug\Mileage Calculator.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage_Calculator.Form1.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage_Calculator.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.pdb

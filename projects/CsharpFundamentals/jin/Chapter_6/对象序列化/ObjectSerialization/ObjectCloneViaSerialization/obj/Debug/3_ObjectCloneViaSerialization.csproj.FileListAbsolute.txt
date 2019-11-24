@@ -1,0 +1,5 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\ObjectCloneViaSerialization\bin\Debug\ObjectCloneViaSerialization.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\ObjectCloneViaSerialization\bin\Debug\ObjectCloneViaSerialization.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\ObjectCloneViaSerialization\bin\Debug\ObjectCloneViaSerialization.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\ObjectCloneViaSerialization\obj\Debug\ObjectCloneViaSerialization.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\ObjectSerialization\ObjectCloneViaSerialization\obj\Debug\ObjectCloneViaSerialization.pdb

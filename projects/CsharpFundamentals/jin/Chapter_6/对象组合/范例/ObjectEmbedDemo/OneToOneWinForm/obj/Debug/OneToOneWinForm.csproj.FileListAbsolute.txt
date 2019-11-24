@@ -1,0 +1,21 @@
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合\OneToOneDemo\OneToOneWinForm\bin\Debug\OneToOneWinForm.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合\OneToOneDemo\OneToOneWinForm\bin\Debug\OneToOneWinForm.exe
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合\OneToOneDemo\OneToOneWinForm\bin\Debug\OneToOneWinForm.pdb
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合\OneToOneDemo\OneToOneWinForm\obj\Debug\OneToOneWinForm.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合\OneToOneDemo\OneToOneWinForm\obj\Debug\OneToOneWinForm.frmMain.resources
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合\OneToOneDemo\OneToOneWinForm\obj\Debug\OneToOneWinForm.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合\OneToOneDemo\OneToOneWinForm\obj\Debug\OneToOneWinForm.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合\OneToOneDemo\OneToOneWinForm\obj\Debug\OneToOneWinForm.exe
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合\OneToOneDemo\OneToOneWinForm\obj\Debug\OneToOneWinForm.pdb
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合\ObjectEmbedDemo\OneToOneWinForm\bin\Debug\OneToOneWinForm.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合\ObjectEmbedDemo\OneToOneWinForm\obj\Debug\OneToOneWinForm.exe
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合\ObjectEmbedDemo\OneToOneWinForm\obj\Debug\OneToOneWinForm.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\OneToOneWinForm\bin\Debug\OneToOneWinForm.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\OneToOneWinForm\obj\Debug\OneToOneWinForm.exe
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\OneToOneWinForm\obj\Debug\OneToOneWinForm.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\OneToOneWinForm\bin\Debug\OneToOneWinForm.exe
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\OneToOneWinForm\bin\Debug\OneToOneWinForm.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\OneToOneWinForm\obj\Debug\OneToOneWinForm.csprojResolveAssemblyReference.cache
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\OneToOneWinForm\obj\Debug\OneToOneWinForm.frmMain.resources
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\OneToOneWinForm\obj\Debug\OneToOneWinForm.Properties.Resources.resources
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\OneToOneWinForm\obj\Debug\OneToOneWinForm.csproj.GenerateResource.Cache

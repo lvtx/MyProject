@@ -1,0 +1,6 @@
+E:\ObjectSerializationDemo\UseXmlSerializer\bin\Debug\UseXmlSerializer.exe.config
+E:\ObjectSerializationDemo\UseXmlSerializer\bin\Debug\UseXmlSerializer.exe
+E:\ObjectSerializationDemo\UseXmlSerializer\bin\Debug\UseXmlSerializer.pdb
+E:\ObjectSerializationDemo\UseXmlSerializer\obj\Debug\1_UseXmlSerializer.csprojResolveAssemblyReference.cache
+E:\ObjectSerializationDemo\UseXmlSerializer\obj\Debug\UseXmlSerializer.exe
+E:\ObjectSerializationDemo\UseXmlSerializer\obj\Debug\UseXmlSerializer.pdb

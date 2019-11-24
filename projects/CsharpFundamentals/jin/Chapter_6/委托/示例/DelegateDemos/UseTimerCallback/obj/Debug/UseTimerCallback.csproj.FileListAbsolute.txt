@@ -1,0 +1,29 @@
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\UseTimerCallback\obj\Debug\UseTimerCallback.exe
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\UseTimerCallback\obj\Debug\UseTimerCallback.pdb
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\UseTimerCallback\bin\Debug\UseTimerCallback.exe
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\UseTimerCallback\bin\Debug\UseTimerCallback.pdb
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\UseTimerCallback\obj\Debug\ResolveAssemblyReference.cache
+C:\第四讲 委托与事件\SourceCode\Lecture4\UseTimerCallback\obj\Debug\UseTimerCallback.exe
+C:\第四讲 委托与事件\SourceCode\Lecture4\UseTimerCallback\obj\Debug\UseTimerCallback.pdb
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\UseTimerCallback\bin\Debug\UseTimerCallback.exe
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\UseTimerCallback\bin\Debug\UseTimerCallback.pdb
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\UseTimerCallback\obj\Debug\ResolveAssemblyReference.cache
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\UseTimerCallback\obj\Debug\UseTimerCallback.exe
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\UseTimerCallback\obj\Debug\UseTimerCallback.pdb
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseTimerCallback\bin\Debug\UseTimerCallback.exe
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseTimerCallback\bin\Debug\UseTimerCallback.pdb
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseTimerCallback\obj\Debug\ResolveAssemblyReference.cache
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseTimerCallback\obj\Debug\UseTimerCallback.exe
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseTimerCallback\obj\Debug\UseTimerCallback.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\UseTimerCallback\obj\Debug\UseTimerCallback.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\UseTimerCallback\obj\Debug\UseTimerCallback.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\UseTimerCallback\bin\Debug\UseTimerCallback.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\UseTimerCallback\bin\Debug\UseTimerCallback.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\UseTimerCallback\obj\Debug\ResolveAssemblyReference.cache
+D:\jxl\上课幻灯片\OOAD（研究生版-2011）\2 打好面向对象编程基础\5 委托与事件\SourceCode\委托\UseTimerCallback\obj\Debug\UseTimerCallback.exe
+D:\jxl\上课幻灯片\OOAD（研究生版-2011）\2 打好面向对象编程基础\5 委托与事件\SourceCode\委托\UseTimerCallback\obj\Debug\UseTimerCallback.pdb
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\UseTimerCallback\obj\Debug\UseTimerCallback.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\UseTimerCallback\obj\Debug\UseTimerCallback.pdb
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\UseTimerCallback\bin\Debug\UseTimerCallback.exe.config
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\UseTimerCallback\bin\Debug\UseTimerCallback.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\UseTimerCallback\bin\Debug\UseTimerCallback.pdb

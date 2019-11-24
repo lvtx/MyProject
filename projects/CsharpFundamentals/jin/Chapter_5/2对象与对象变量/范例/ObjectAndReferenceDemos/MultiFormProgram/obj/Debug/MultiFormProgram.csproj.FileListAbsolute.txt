@@ -1,0 +1,10 @@
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\MultiFormProgram\MultiFormProgram\bin\Debug\MultiFormProgram.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\MultiFormProgram\MultiFormProgram\bin\Debug\MultiFormProgram.exe
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\MultiFormProgram\MultiFormProgram\bin\Debug\MultiFormProgram.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\MultiFormProgram\MultiFormProgram\obj\Debug\MultiFormProgram.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\MultiFormProgram\MultiFormProgram\obj\Debug\MultiFormProgram.Form1.resources
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\MultiFormProgram\MultiFormProgram\obj\Debug\MultiFormProgram.Form2.resources
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\MultiFormProgram\MultiFormProgram\obj\Debug\MultiFormProgram.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\MultiFormProgram\MultiFormProgram\obj\Debug\MultiFormProgram.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\MultiFormProgram\MultiFormProgram\obj\Debug\MultiFormProgram.exe
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\MultiFormProgram\MultiFormProgram\obj\Debug\MultiFormProgram.pdb

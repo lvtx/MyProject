@@ -1,0 +1,27 @@
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\FormCtrlProperty\bin\Debug\FormCtrlProperty.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\FormCtrlProperty\bin\Debug\FormCtrlProperty.exe
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\FormCtrlProperty\bin\Debug\FormCtrlProperty.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\FormCtrlProperty\obj\Debug\5_FormCtrlProperty.csprojResolveAssemblyReference.cache
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\FormCtrlProperty\obj\Debug\FormCtrlProperty.frmEnable.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\FormCtrlProperty\obj\Debug\FormCtrlProperty.Properties.Resources.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\FormCtrlProperty\obj\Debug\5_FormCtrlProperty.csproj.GenerateResource.Cache
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\FormCtrlProperty\obj\Debug\FormCtrlProperty.exe
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\FormCtrlProperty\obj\Debug\FormCtrlProperty.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\FormCtrlProperty\obj\Debug\FormCtrlProperty.frmVisiable.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\FormCtrlProperty\obj\Debug\FormCtrlProperty.frmDock.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\FormCtrlProperty\obj\Debug\FormCtrlProperty.frmAnchor.resources
+F:\MOOC\录课视频相关文件\人大MOOC\3 Windows Forms软件开发技术基础\WinFormProjects\FormCtrlProperty\obj\Debug\FormCtrlProperty.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\FormCtrlProperty\bin\Debug\FormCtrlProperty.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\FormCtrlProperty\bin\Debug\FormCtrlProperty.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\FormCtrlProperty\bin\Debug\FormCtrlProperty.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\FormCtrlProperty\obj\Debug\5_FormCtrlProperty.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\FormCtrlProperty\obj\Debug\FormCtrlProperty.frmAnchor.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\FormCtrlProperty\obj\Debug\FormCtrlProperty.frmDock.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\FormCtrlProperty\obj\Debug\FormCtrlProperty.frmEnable.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\FormCtrlProperty\obj\Debug\FormCtrlProperty.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\FormCtrlProperty\obj\Debug\FormCtrlProperty.frmVisiable.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\FormCtrlProperty\obj\Debug\FormCtrlProperty.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\FormCtrlProperty\obj\Debug\5_FormCtrlProperty.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\FormCtrlProperty\obj\Debug\5_FormCtrlProperty.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\FormCtrlProperty\obj\Debug\FormCtrlProperty.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\范例\WinFormProjects\FormCtrlProperty\obj\Debug\FormCtrlProperty.pdb

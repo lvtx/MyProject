@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\UseEventExample.exe
+bin\Debug\UseEventExample.pdb
+obj\Debug\UseEventExample.exe
+obj\Debug\UseEventExample.pdb

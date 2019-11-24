@@ -1,0 +1,7 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\InterfaceClass\bin\Debug\InterfaceClass.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\InterfaceClass\bin\Debug\InterfaceClass.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\InterfaceClass\bin\Debug\InterfaceClass.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\InterfaceClass\obj\Debug\InterfaceClass.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\InterfaceClass\obj\Debug\InterfaceClass.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\InterfaceClass\obj\Debug\InterfaceClass.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\抽象类与接口\AbstractClassAndInterface\InterfaceClass\obj\Debug\InterfaceClass.pdb

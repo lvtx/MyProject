@@ -1,0 +1,14 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_1\1\InputAndOutput\InputAndOutput\bin\Debug\InputAndOutput.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_1\1\InputAndOutput\InputAndOutput\bin\Debug\InputAndOutput.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_1\1\InputAndOutput\InputAndOutput\bin\Debug\InputAndOutput.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_1\1\InputAndOutput\InputAndOutput\obj\Debug\InputAndOutput.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_1\1\InputAndOutput\InputAndOutput\obj\Debug\InputAndOutput.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_1\1\InputAndOutput\InputAndOutput\obj\Debug\InputAndOutput.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_1\1\InputAndOutput\InputAndOutput\obj\Debug\InputAndOutput.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_1\SayHello\InputAndOutput\bin\Debug\InputAndOutput.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_1\SayHello\InputAndOutput\bin\Debug\InputAndOutput.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_1\SayHello\InputAndOutput\bin\Debug\InputAndOutput.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_1\SayHello\InputAndOutput\obj\Debug\InputAndOutput.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_1\SayHello\InputAndOutput\obj\Debug\InputAndOutput.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_1\SayHello\InputAndOutput\obj\Debug\InputAndOutput.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_1\SayHello\InputAndOutput\obj\Debug\InputAndOutput.pdb

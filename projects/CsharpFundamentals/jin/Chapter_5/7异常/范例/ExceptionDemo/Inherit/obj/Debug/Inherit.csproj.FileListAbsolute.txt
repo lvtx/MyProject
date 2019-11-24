@@ -1,0 +1,7 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\Inherit\bin\Debug\Inherit.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\Inherit\bin\Debug\Inherit.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\Inherit\bin\Debug\Inherit.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\Inherit\obj\Debug\Inherit.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\Inherit\obj\Debug\Inherit.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\Inherit\obj\Debug\Inherit.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\Inherit\obj\Debug\Inherit.pdb

@@ -1,0 +1,10 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Hit the kys!\Hit the kys!\bin\Debug\Hit the kys!.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Hit the kys!\Hit the kys!\bin\Debug\Hit the kys!.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Hit the kys!\Hit the kys!\bin\Debug\Hit the kys!.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Hit the kys!\Hit the kys!\obj\Debug\Hit the kys!.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Hit the kys!\Hit the kys!\obj\Debug\Hit_the_kys_.Form1.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Hit the kys!\Hit the kys!\obj\Debug\Hit_the_kys_.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Hit the kys!\Hit the kys!\obj\Debug\Hit the kys!.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Hit the kys!\Hit the kys!\obj\Debug\Hit the kys!.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Hit the kys!\Hit the kys!\obj\Debug\Hit the kys!.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Hit the kys!\Hit the kys!\obj\Debug\Hit the kys!.pdb

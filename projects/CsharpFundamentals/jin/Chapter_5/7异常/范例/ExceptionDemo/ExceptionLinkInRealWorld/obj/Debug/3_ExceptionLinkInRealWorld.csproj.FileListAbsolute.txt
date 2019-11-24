@@ -1,0 +1,19 @@
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\7 异常处理\ExceptionDemo\ExceptionLinkInRealWorld\bin\Debug\ExceptionLinkInRealWorld.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\7 异常处理\ExceptionDemo\ExceptionLinkInRealWorld\obj\Debug\ExceptionLinkInRealWorld.exe
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\7 异常处理\ExceptionDemo\ExceptionLinkInRealWorld\obj\Debug\ExceptionLinkInRealWorld.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\7 异常处理\ExceptionDemo\ExceptionLinkInRealWorld\bin\Debug\ExceptionLinkInRealWorld.exe
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\7 异常处理\ExceptionDemo\ExceptionLinkInRealWorld\bin\Debug\ExceptionLinkInRealWorld.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\7 异常处理\ExceptionDemo\ExceptionLinkInRealWorld\obj\Debug\3_ExceptionLinkInRealWorld.csprojResolveAssemblyReference.cache
+E:\ExceptionDemo\ExceptionLinkInRealWorld\bin\Debug\ExceptionLinkInRealWorld.exe.config
+E:\ExceptionDemo\ExceptionLinkInRealWorld\bin\Debug\ExceptionLinkInRealWorld.exe
+E:\ExceptionDemo\ExceptionLinkInRealWorld\bin\Debug\ExceptionLinkInRealWorld.pdb
+E:\ExceptionDemo\ExceptionLinkInRealWorld\obj\Debug\3_ExceptionLinkInRealWorld.csprojResolveAssemblyReference.cache
+E:\ExceptionDemo\ExceptionLinkInRealWorld\obj\Debug\ExceptionLinkInRealWorld.exe
+E:\ExceptionDemo\ExceptionLinkInRealWorld\obj\Debug\ExceptionLinkInRealWorld.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\ExceptionLinkInRealWorld\bin\Debug\ExceptionLinkInRealWorld.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\ExceptionLinkInRealWorld\bin\Debug\ExceptionLinkInRealWorld.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\ExceptionLinkInRealWorld\bin\Debug\ExceptionLinkInRealWorld.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\ExceptionLinkInRealWorld\obj\Debug\3_ExceptionLinkInRealWorld.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\ExceptionLinkInRealWorld\obj\Debug\3_ExceptionLinkInRealWorld.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\ExceptionLinkInRealWorld\obj\Debug\ExceptionLinkInRealWorld.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\7异常\范例\ExceptionDemo\ExceptionLinkInRealWorld\obj\Debug\ExceptionLinkInRealWorld.pdb

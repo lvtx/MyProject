@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fruit", "Polymorphism\Fruit.csproj", "{58AF5368-5B4A-4263-83C8-38D8546FAB98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo", "Zoo\Zoo.csproj", "{89756B0B-7AF0-4D56-B76F-5ED24E4BC37D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58AF5368-5B4A-4263-83C8-38D8546FAB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58AF5368-5B4A-4263-83C8-38D8546FAB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58AF5368-5B4A-4263-83C8-38D8546FAB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58AF5368-5B4A-4263-83C8-38D8546FAB98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89756B0B-7AF0-4D56-B76F-5ED24E4BC37D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89756B0B-7AF0-4D56-B76F-5ED24E4BC37D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89756B0B-7AF0-4D56-B76F-5ED24E4BC37D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89756B0B-7AF0-4D56-B76F-5ED24E4BC37D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {324D7614-757A-4A1F-AE11-29022707DC71}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ReceiveInfoFromCenter\obj\Debug\ReceiveInfoFromCenter.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ReceiveInfoFromCenter\obj\Debug\ReceiveInfoFromCenter.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ReceiveInfoFromCenter\obj\Debug\ReceiveInfoFromCenter.frmSub.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ReceiveInfoFromCenter\obj\Debug\ReceiveInfoFromCenter.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ReceiveInfoFromCenter\obj\Debug\ReceiveInfoFromCenter.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ReceiveInfoFromCenter\bin\Debug\ReceiveInfoFromCenter.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ReceiveInfoFromCenter\bin\Debug\ReceiveInfoFromCenter.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ReceiveInfoFromCenter\bin\Debug\ReceiveInfoFromCenter.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ReceiveInfoFromCenter\obj\Debug\ReceiveInfoFromCenter.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\MultiObjectCooperation\ReceiveInfoFromCenter\obj\Debug\ReceiveInfoFromCenter.pdb

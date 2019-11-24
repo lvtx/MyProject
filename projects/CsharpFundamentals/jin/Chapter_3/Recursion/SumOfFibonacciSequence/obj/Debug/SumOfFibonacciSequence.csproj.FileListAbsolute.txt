@@ -1,0 +1,10 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Recursion\SumOfFibonacciSequence\bin\Debug\SumOfFibonacciSequence.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Recursion\SumOfFibonacciSequence\bin\Debug\SumOfFibonacciSequence.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Recursion\SumOfFibonacciSequence\bin\Debug\SumOfFibonacciSequence.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Recursion\SumOfFibonacciSequence\obj\Debug\SumOfFibonacciSequence.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Recursion\SumOfFibonacciSequence\obj\Debug\SumOfFibonacciSequence.Form1.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Recursion\SumOfFibonacciSequence\obj\Debug\SumOfFibonacciSequence.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Recursion\SumOfFibonacciSequence\obj\Debug\SumOfFibonacciSequence.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Recursion\SumOfFibonacciSequence\obj\Debug\SumOfFibonacciSequence.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Recursion\SumOfFibonacciSequence\obj\Debug\SumOfFibonacciSequence.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\Recursion\SumOfFibonacciSequence\obj\Debug\SumOfFibonacciSequence.pdb

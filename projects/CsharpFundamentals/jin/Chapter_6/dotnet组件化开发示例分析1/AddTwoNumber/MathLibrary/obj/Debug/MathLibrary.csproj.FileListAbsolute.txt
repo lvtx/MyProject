@@ -1,0 +1,5 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\dotnet组件化开发示例分析\AddTwoNumber1\MathLibrary\bin\Debug\MathLibrary.dll
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\dotnet组件化开发示例分析\AddTwoNumber1\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\dotnet组件化开发示例分析\AddTwoNumber1\MathLibrary\obj\Debug\MathLibrary.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\dotnet组件化开发示例分析\AddTwoNumber1\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\dotnet组件化开发示例分析\AddTwoNumber1\MathLibrary\obj\Debug\MathLibrary.pdb

@@ -1,0 +1,36 @@
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\ResponseToEvents\obj\Debug\ResponseToEvents.exe
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\ResponseToEvents\obj\Debug\ResponseToEvents.pdb
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\ResponseToEvents\bin\Debug\ResponseToEvents.exe
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\ResponseToEvents\bin\Debug\ResponseToEvents.pdb
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\ResponseToEvents\obj\Debug\ResolveAssemblyReference.cache
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\ResponseToEvents\obj\Debug\ResponseToEvents.frmEnterToTab.resources
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\ResponseToEvents\obj\Debug\ResponseToEvents.Properties.Resources.resources
+D:\doing\DotNET 编程语言与面向对象理论基础\第四讲 委托与事件\SourceCode\Lecture4\ResponseToEvents\obj\Debug\ResponseToEvents.csproj.GenerateResource.Cache
+C:\第四讲 委托与事件\SourceCode\Lecture4\ResponseToEvents\obj\Debug\ResponseToEvents.exe
+C:\第四讲 委托与事件\SourceCode\Lecture4\ResponseToEvents\obj\Debug\ResponseToEvents.pdb
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\ResponseToEvents\bin\Debug\ResponseToEvents.exe
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\ResponseToEvents\bin\Debug\ResponseToEvents.pdb
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\ResponseToEvents\obj\Debug\ResolveAssemblyReference.cache
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\ResponseToEvents\obj\Debug\ResponseToEvents.frmEnterToTab.resources
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\ResponseToEvents\obj\Debug\ResponseToEvents.Properties.Resources.resources
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\ResponseToEvents\obj\Debug\ResponseToEvents.csproj.GenerateResource.Cache
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\ResponseToEvents\obj\Debug\ResponseToEvents.exe
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第四讲 委托与事件\SourceCode\ResponseToEvents\obj\Debug\ResponseToEvents.pdb
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\ResponseToEvents\bin\Debug\ResponseToEvents.exe
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\ResponseToEvents\bin\Debug\ResponseToEvents.pdb
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\ResponseToEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\ResponseToEvents\obj\Debug\ResponseToEvents.frmEnterToTab.resources
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\ResponseToEvents\obj\Debug\ResponseToEvents.Properties.Resources.resources
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\ResponseToEvents\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\ResponseToEvents\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\ResponseToEvents\obj\Debug\ResponseToEvents.exe
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\ResponseToEvents\obj\Debug\ResponseToEvents.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\ResponseToEvents\obj\Debug\ResponseToEvents.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\ResponseToEvents\obj\Debug\ResponseToEvents.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\ResponseToEvents\bin\Debug\ResponseToEvents.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\ResponseToEvents\bin\Debug\ResponseToEvents.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\ResponseToEvents\obj\Debug\ResolveAssemblyReference.cache
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\ResponseToEvents\obj\Debug\ResponseToEvents.frmEnterToTab.resources
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\ResponseToEvents\obj\Debug\ResponseToEvents.Properties.Resources.resources
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\ResponseToEvents\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\ResponseToEvents\obj\Debug\GenerateResource-ResGen.write.1.tlog

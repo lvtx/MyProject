@@ -1,0 +1,24 @@
+C:\jxl\MyBook\面向对象的艺术\第1篇 面向对象概念、方法与技术\第3章 类与对象\SourceCode\MyDLL\UseDLL\obj\Debug\UseDLL.exe
+C:\jxl\MyBook\面向对象的艺术\第1篇 面向对象概念、方法与技术\第3章 类与对象\SourceCode\MyDLL\UseDLL\obj\Debug\UseDLL.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第10章 命名空间与程序集\SourceCode\10.3\MyDLL\UseDLL\obj\Debug\UseDLL.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第10章 命名空间与程序集\SourceCode\10.3\MyDLL\UseDLL\obj\Debug\UseDLL.pdb
+E:\MyDLL\UseDLL\bin\Debug\UseDLL.exe.config
+E:\MyDLL\UseDLL\bin\Debug\UseDLL.exe
+E:\MyDLL\UseDLL\bin\Debug\UseDLL.pdb
+E:\MyDLL\UseDLL\bin\Debug\MyDLL.dll
+E:\MyDLL\UseDLL\bin\Debug\MyDLL2.dll
+E:\MyDLL\UseDLL\bin\Debug\MyDLL.pdb
+E:\MyDLL\UseDLL\bin\Debug\MyDLL2.pdb
+E:\MyDLL\UseDLL\obj\Debug\UseDLL.csprojResolveAssemblyReference.cache
+E:\MyDLL\UseDLL\obj\Debug\UseDLL.exe
+E:\MyDLL\UseDLL\obj\Debug\UseDLL.pdb
+F:\MyDLL\UseDLL\bin\Debug\UseDLL.exe.config
+F:\MyDLL\UseDLL\bin\Debug\UseDLL.exe
+F:\MyDLL\UseDLL\bin\Debug\UseDLL.pdb
+F:\MyDLL\UseDLL\bin\Debug\MyDLL.dll
+F:\MyDLL\UseDLL\bin\Debug\MyDLL2.dll
+F:\MyDLL\UseDLL\bin\Debug\MyDLL.pdb
+F:\MyDLL\UseDLL\bin\Debug\MyDLL2.pdb
+F:\MyDLL\UseDLL\obj\Debug\UseDLL.csprojResolveAssemblyReference.cache
+F:\MyDLL\UseDLL\obj\Debug\UseDLL.exe
+F:\MyDLL\UseDLL\obj\Debug\UseDLL.pdb

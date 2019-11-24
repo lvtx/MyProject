@@ -1,0 +1,9 @@
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第3章 数据类型趣谈\SourceCode\3.1\GetFibonacciNumber\GetFibonacciNumber\obj\x86\Release\ResolveAssemblyReference.cache
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第3章 数据类型趣谈\SourceCode\3.1\GetFibonacciNumber\GetFibonacciNumber\obj\x86\Release\GetFibonacciNumber.frmMain.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第3章 数据类型趣谈\SourceCode\3.1\GetFibonacciNumber\GetFibonacciNumber\obj\x86\Release\GetFibonacciNumber.Properties.Resources.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第3章 数据类型趣谈\SourceCode\3.1\GetFibonacciNumber\GetFibonacciNumber\obj\x86\Release\GenerateResource.read.1.tlog
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第3章 数据类型趣谈\SourceCode\3.1\GetFibonacciNumber\GetFibonacciNumber\obj\x86\Release\GenerateResource.write.1.tlog
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第3章 数据类型趣谈\SourceCode\3.1\GetFibonacciNumber\GetFibonacciNumber\bin\Release\GetFibonacciNumber.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第3章 数据类型趣谈\SourceCode\3.1\GetFibonacciNumber\GetFibonacciNumber\bin\Release\GetFibonacciNumber.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第3章 数据类型趣谈\SourceCode\3.1\GetFibonacciNumber\GetFibonacciNumber\obj\x86\Release\GetFibonacciNumber.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第3章 数据类型趣谈\SourceCode\3.1\GetFibonacciNumber\GetFibonacciNumber\obj\x86\Release\GetFibonacciNumber.pdb

@@ -1,0 +1,13 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\WindowEmbedInWinForm\bin\Debug\WindowEmbedInWinForm.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\WindowEmbedInWinForm\bin\Debug\WindowEmbedInWinForm.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\WindowEmbedInWinForm\bin\Debug\WindowEmbedInWinForm.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\WindowEmbedInWinForm\obj\Debug\WindowEmbedInWinForm.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\WindowEmbedInWinForm\obj\Debug\WindowEmbedInWinForm.frmBottom.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\WindowEmbedInWinForm\obj\Debug\WindowEmbedInWinForm.frmCenter.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\WindowEmbedInWinForm\obj\Debug\WindowEmbedInWinForm.frmLeft.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\WindowEmbedInWinForm\obj\Debug\WindowEmbedInWinForm.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\WindowEmbedInWinForm\obj\Debug\WindowEmbedInWinForm.frmRight.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\WindowEmbedInWinForm\obj\Debug\WindowEmbedInWinForm.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\WindowEmbedInWinForm\obj\Debug\WindowEmbedInWinForm.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\WindowEmbedInWinForm\obj\Debug\WindowEmbedInWinForm.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\WindowEmbedInWinForm\obj\Debug\WindowEmbedInWinForm.pdb

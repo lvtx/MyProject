@@ -1,0 +1,19 @@
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\3 继承\InheritDemos\VariableScope\bin\Debug\VariableScope.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\3 继承\InheritDemos\VariableScope\obj\Debug\VariableScope.exe
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\3 继承\InheritDemos\VariableScope\obj\Debug\VariableScope.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\3 继承\InheritDemos\VariableScope\bin\Debug\VariableScope.exe
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\3 继承\InheritDemos\VariableScope\bin\Debug\VariableScope.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\3 继承\InheritDemos\VariableScope\obj\Debug\2_VariableScope.csprojResolveAssemblyReference.cache
+F:\InheritDemos\VariableScope\bin\Debug\VariableScope.exe.config
+F:\InheritDemos\VariableScope\obj\Debug\VariableScope.exe
+F:\InheritDemos\VariableScope\obj\Debug\VariableScope.pdb
+F:\InheritDemos\VariableScope\bin\Debug\VariableScope.exe
+F:\InheritDemos\VariableScope\bin\Debug\VariableScope.pdb
+F:\InheritDemos\VariableScope\obj\Debug\2_VariableScope.csprojResolveAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\3继承\范例\InheritDemos\VariableScope\bin\Debug\VariableScope.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\3继承\范例\InheritDemos\VariableScope\bin\Debug\VariableScope.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\3继承\范例\InheritDemos\VariableScope\bin\Debug\VariableScope.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\3继承\范例\InheritDemos\VariableScope\obj\Debug\2_VariableScope.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\3继承\范例\InheritDemos\VariableScope\obj\Debug\2_VariableScope.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\3继承\范例\InheritDemos\VariableScope\obj\Debug\VariableScope.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\3继承\范例\InheritDemos\VariableScope\obj\Debug\VariableScope.pdb

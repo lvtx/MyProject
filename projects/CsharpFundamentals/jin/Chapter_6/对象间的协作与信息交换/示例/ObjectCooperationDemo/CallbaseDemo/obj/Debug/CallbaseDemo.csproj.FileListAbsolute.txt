@@ -1,0 +1,6 @@
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\7 对象间的协作与信息交换（上）\ObjectCooperationDemo\CallbaseDemo\bin\Debug\CallbaseDemo.exe.config
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\7 对象间的协作与信息交换（上）\ObjectCooperationDemo\CallbaseDemo\bin\Debug\CallbaseDemo.exe
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\7 对象间的协作与信息交换（上）\ObjectCooperationDemo\CallbaseDemo\bin\Debug\CallbaseDemo.pdb
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\7 对象间的协作与信息交换（上）\ObjectCooperationDemo\CallbaseDemo\obj\Debug\CallbaseDemo.csprojResolveAssemblyReference.cache
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\7 对象间的协作与信息交换（上）\ObjectCooperationDemo\CallbaseDemo\obj\Debug\CallbaseDemo.exe
+C:\Mooc\人大MOOC\5 C#面向对象编程进阶\7 对象间的协作与信息交换（上）\ObjectCooperationDemo\CallbaseDemo\obj\Debug\CallbaseDemo.pdb

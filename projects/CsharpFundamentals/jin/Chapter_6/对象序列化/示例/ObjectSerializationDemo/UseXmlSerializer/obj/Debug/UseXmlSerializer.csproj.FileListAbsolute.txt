@@ -1,0 +1,34 @@
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UseXmlSerializer\bin\Debug\UseXmlSerializer.exe
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UseXmlSerializer\bin\Debug\UseXmlSerializer.pdb
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UseXmlSerializer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UseXmlSerializer\obj\Debug\UseXmlSerializer.exe
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UseXmlSerializer\obj\Debug\UseXmlSerializer.pdb
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\8 对象序列化\SourceCode\UseXmlSerializer\UseXmlSerializer\obj\Debug\UseXmlSerializer.exe
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\8 对象序列化\SourceCode\UseXmlSerializer\UseXmlSerializer\obj\Debug\UseXmlSerializer.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.2\UseXmlSerializer\UseXmlSerializer\obj\Debug\UseXmlSerializer.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.2\UseXmlSerializer\UseXmlSerializer\obj\Debug\UseXmlSerializer.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.2\UseXmlSerializer\UseXmlSerializer\bin\Debug\UseXmlSerializer.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.2\UseXmlSerializer\UseXmlSerializer\bin\Debug\UseXmlSerializer.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第12章 对象的克隆、复制与传输\SourceCode\12.2\UseXmlSerializer\UseXmlSerializer\obj\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第13章 对象的复制与序列化\SourceCode\13.2\UseXmlSerializer\UseXmlSerializer\obj\Debug\UseXmlSerializer.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第13章 对象的复制与序列化\SourceCode\13.2\UseXmlSerializer\UseXmlSerializer\obj\Debug\UseXmlSerializer.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第13章 对象的复制与序列化\SourceCode\13.2\UseXmlSerializer\UseXmlSerializer\bin\Debug\UseXmlSerializer.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第13章 对象的复制与序列化\SourceCode\13.2\UseXmlSerializer\UseXmlSerializer\bin\Debug\UseXmlSerializer.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第13章 对象的复制与序列化\SourceCode\13.2\UseXmlSerializer\UseXmlSerializer\obj\Debug\ResolveAssemblyReference.cache
+J:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第13章 对象的复制与序列化\SourceCode\13.2\UseXmlSerializer\UseXmlSerializer\obj\Debug\UseXmlSerializer.exe
+J:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第3篇 对象的精彩演出\第13章 对象的复制与序列化\SourceCode\13.2\UseXmlSerializer\UseXmlSerializer\obj\Debug\UseXmlSerializer.pdb
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\UseXmlSerializer\UseXmlSerializer\obj\Debug\UseXmlSerializer.exe
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\UseXmlSerializer\UseXmlSerializer\obj\Debug\UseXmlSerializer.pdb
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\UseXmlSerializer\UseXmlSerializer\bin\Debug\UseXmlSerializer.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\UseXmlSerializer\UseXmlSerializer\bin\Debug\UseXmlSerializer.exe
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\UseXmlSerializer\UseXmlSerializer\bin\Debug\UseXmlSerializer.pdb
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\UseXmlSerializer\UseXmlSerializer\obj\Debug\UseXmlSerializer.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\UseXmlSerializer\bin\Debug\UseXmlSerializer.exe.config
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\UseXmlSerializer\obj\Debug\UseXmlSerializer.exe
+E:\MOOC\录课视频相关文件\Week2\2.3 对象序列化\ObjectSerializationDemo\UseXmlSerializer\obj\Debug\UseXmlSerializer.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\3 对象序列化\ObjectSerializationDemo\UseXmlSerializer\bin\Debug\UseXmlSerializer.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\3 对象序列化\ObjectSerializationDemo\UseXmlSerializer\obj\Debug\UseXmlSerializer.exe
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\3 对象序列化\ObjectSerializationDemo\UseXmlSerializer\obj\Debug\UseXmlSerializer.pdb
+E:\ObjectSerializationDemo\UseXmlSerializer\bin\Debug\UseXmlSerializer.exe.config
+E:\ObjectSerializationDemo\UseXmlSerializer\obj\Debug\UseXmlSerializer.exe
+E:\ObjectSerializationDemo\UseXmlSerializer\obj\Debug\UseXmlSerializer.pdb

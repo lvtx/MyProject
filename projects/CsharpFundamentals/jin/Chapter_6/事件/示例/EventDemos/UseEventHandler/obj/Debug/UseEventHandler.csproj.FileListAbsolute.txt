@@ -1,0 +1,19 @@
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UseEventHandler\bin\Debug\UseEventHandler.exe
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UseEventHandler\bin\Debug\UseEventHandler.pdb
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UseEventHandler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UseEventHandler\obj\Debug\UseEventHandler.Form1.resources
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UseEventHandler\obj\Debug\UseEventHandler.Properties.Resources.resources
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UseEventHandler\obj\Debug\UseEventHandler.csproj.GenerateResource.Cache
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UseEventHandler\obj\Debug\UseEventHandler.exe
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UseEventHandler\obj\Debug\UseEventHandler.pdb
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\委托与Lambda表达式\SourceCode\UseEventHandler\UseEventHandler\obj\Debug\UseEventHandler.exe
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\委托与Lambda表达式\SourceCode\UseEventHandler\UseEventHandler\obj\Debug\UseEventHandler.pdb
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseEventHandler\UseEventHandler\bin\Debug\UseEventHandler.exe
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseEventHandler\UseEventHandler\bin\Debug\UseEventHandler.pdb
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseEventHandler\UseEventHandler\obj\Debug\ResolveAssemblyReference.cache
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseEventHandler\UseEventHandler\obj\Debug\UseEventHandler.Form1.resources
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseEventHandler\UseEventHandler\obj\Debug\UseEventHandler.Properties.Resources.resources
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseEventHandler\UseEventHandler\obj\Debug\GenerateResource.read.1.tlog
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseEventHandler\UseEventHandler\obj\Debug\GenerateResource.write.1.tlog
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseEventHandler\UseEventHandler\obj\Debug\UseEventHandler.exe
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseEventHandler\UseEventHandler\obj\Debug\UseEventHandler.pdb

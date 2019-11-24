@@ -1,0 +1,5 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\委托\Delegate\UseTimerCallback\bin\Debug\UseTimerCallback.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\委托\Delegate\UseTimerCallback\bin\Debug\UseTimerCallback.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\委托\Delegate\UseTimerCallback\bin\Debug\UseTimerCallback.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\委托\Delegate\UseTimerCallback\obj\Debug\UseTimerCallback.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\委托\Delegate\UseTimerCallback\obj\Debug\UseTimerCallback.pdb

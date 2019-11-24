@@ -1,0 +1,12 @@
+E:\ObjectSerializationDemo\ObjectCloneViaSerialization\bin\Debug\ObjectCloneViaSerialization.exe.config
+E:\ObjectSerializationDemo\ObjectCloneViaSerialization\bin\Debug\ObjectCloneViaSerialization.exe
+E:\ObjectSerializationDemo\ObjectCloneViaSerialization\bin\Debug\ObjectCloneViaSerialization.pdb
+E:\ObjectSerializationDemo\ObjectCloneViaSerialization\obj\Debug\3_ObjectCloneViaSerialization.csprojResolveAssemblyReference.cache
+E:\ObjectSerializationDemo\ObjectCloneViaSerialization\obj\Debug\ObjectCloneViaSerialization.exe
+E:\ObjectSerializationDemo\ObjectCloneViaSerialization\obj\Debug\ObjectCloneViaSerialization.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\示例\ObjectSerializationDemo\ObjectCloneViaSerialization\bin\Debug\ObjectCloneViaSerialization.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\示例\ObjectSerializationDemo\ObjectCloneViaSerialization\bin\Debug\ObjectCloneViaSerialization.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\示例\ObjectSerializationDemo\ObjectCloneViaSerialization\bin\Debug\ObjectCloneViaSerialization.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\示例\ObjectSerializationDemo\ObjectCloneViaSerialization\obj\Debug\3_ObjectCloneViaSerialization.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\示例\ObjectSerializationDemo\ObjectCloneViaSerialization\obj\Debug\ObjectCloneViaSerialization.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象序列化\示例\ObjectSerializationDemo\ObjectCloneViaSerialization\obj\Debug\ObjectCloneViaSerialization.pdb

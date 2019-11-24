@@ -1,0 +1,10 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\TwoWayCommunicationInForms\bin\Debug\TwoWayCommunicationInForms.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\TwoWayCommunicationInForms\bin\Debug\TwoWayCommunicationInForms.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\TwoWayCommunicationInForms\bin\Debug\TwoWayCommunicationInForms.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\TwoWayCommunicationInForms\obj\x86\Debug\6_TwoWayCommunicationInForms.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\TwoWayCommunicationInForms\obj\x86\Debug\TwoWayCommunicationInForms.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\TwoWayCommunicationInForms\obj\x86\Debug\TwoWayCommunicationInForms.frmOther.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\TwoWayCommunicationInForms\obj\x86\Debug\TwoWayCommunicationInForms.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\TwoWayCommunicationInForms\obj\x86\Debug\6_TwoWayCommunicationInForms.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\TwoWayCommunicationInForms\obj\x86\Debug\TwoWayCommunicationInForms.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\对象间的协作与信息交换\示例\ObjectCooperationDemo\TwoWayCommunicationInForms\obj\x86\Debug\TwoWayCommunicationInForms.pdb

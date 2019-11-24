@@ -1,0 +1,10 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\_this\bin\Debug\_this.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\_this\bin\Debug\_this.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\_this\bin\Debug\_this.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\_this\obj\Debug\_this.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\_this\obj\Debug\_this.Form1.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\_this\obj\Debug\_this.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\_this\obj\Debug\_this.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\_this\obj\Debug\_this.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\_this\obj\Debug\_this.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\_this\obj\Debug\_this.pdb

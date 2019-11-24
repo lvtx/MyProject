@@ -1,0 +1,28 @@
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\Pseudorandom\Pseudorandom\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\Pseudorandom\Pseudorandom\obj\x86\Debug\Pseudorandom.Form1.resources
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\Pseudorandom\Pseudorandom\obj\x86\Debug\Pseudorandom.Properties.Resources.resources
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\Pseudorandom\Pseudorandom\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\Pseudorandom\Pseudorandom\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\Pseudorandom\Pseudorandom\bin\Debug\Pseudorandom.exe
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\Pseudorandom\Pseudorandom\bin\Debug\Pseudorandom.pdb
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\Pseudorandom\Pseudorandom\obj\x86\Debug\Pseudorandom.exe
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\Pseudorandom\Pseudorandom\obj\x86\Debug\Pseudorandom.pdb
+D:\jxl\教学模块\dotNET编程语言及基类库\2 C#基础语法\SourceCode\Pseudorandom\Pseudorandom\obj\x86\Debug\Pseudorandom.exe
+D:\jxl\教学模块\dotNET编程语言及基类库\2 C#基础语法\SourceCode\Pseudorandom\Pseudorandom\obj\x86\Debug\Pseudorandom.pdb
+D:\jxl\教学模块\dotNET编程语言及基类库\2 C#基础语法\SourceCode\Pseudorandom\Pseudorandom\bin\Debug\Pseudorandom.exe
+D:\jxl\教学模块\dotNET编程语言及基类库\2 C#基础语法\SourceCode\Pseudorandom\Pseudorandom\bin\Debug\Pseudorandom.pdb
+D:\jxl\教学模块\dotNET编程语言及基类库\2 C#基础语法\SourceCode\Pseudorandom\Pseudorandom\obj\x86\Debug\Pseudorandom.frmMain.resources
+D:\jxl\教学模块\dotNET编程语言及基类库\2 C#基础语法\SourceCode\Pseudorandom\Pseudorandom\obj\x86\Debug\Pseudorandom.Properties.Resources.resources
+D:\jxl\教学模块\dotNET编程语言及基类库\2 C#基础语法\SourceCode\Pseudorandom\Pseudorandom\obj\x86\Debug\Pseudorandom.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\Pseudorandom\obj\x86\Debug\Pseudorandom.exe
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\Pseudorandom\obj\x86\Debug\Pseudorandom.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\Pseudorandom\bin\Debug\Pseudorandom.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\MethodDemos\Pseudorandom\bin\Debug\Pseudorandom.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\MethodDemos\Pseudorandom\bin\Debug\Pseudorandom.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\MethodDemos\Pseudorandom\bin\Debug\Pseudorandom.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\MethodDemos\Pseudorandom\obj\x86\Debug\Pseudorandom.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\MethodDemos\Pseudorandom\obj\x86\Debug\Pseudorandom.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\MethodDemos\Pseudorandom\obj\x86\Debug\Pseudorandom.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\MethodDemos\Pseudorandom\obj\x86\Debug\Pseudorandom.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\MethodDemos\Pseudorandom\obj\x86\Debug\Pseudorandom.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\MethodDemos\Pseudorandom\obj\x86\Debug\Pseudorandom.pdb

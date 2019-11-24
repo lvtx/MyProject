@@ -1,0 +1,7 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\MyReadOnlyClass\bin\Debug\MyReadOnlyClass.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\MyReadOnlyClass\bin\Debug\MyReadOnlyClass.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\MyReadOnlyClass\bin\Debug\MyReadOnlyClass.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\MyReadOnlyClass\obj\Debug\ReadOnlyType.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\MyReadOnlyClass\obj\Debug\ReadOnlyType.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\MyReadOnlyClass\obj\Debug\MyReadOnlyClass.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_5\2对象与对象变量\ObjectAndReference\MyReadOnlyClass\obj\Debug\MyReadOnlyClass.pdb

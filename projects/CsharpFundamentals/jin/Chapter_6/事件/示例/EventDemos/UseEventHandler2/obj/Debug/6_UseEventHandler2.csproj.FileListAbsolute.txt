@@ -1,0 +1,25 @@
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventHandler2\bin\Debug\UseEventHandler2.exe.config
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventHandler2\bin\Debug\UseEventHandler2.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventHandler2\bin\Debug\UseEventHandler2.pdb
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventHandler2\obj\Debug\UseEventHandler2.frmMain.resources
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventHandler2\obj\Debug\UseEventHandler2.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventHandler2\obj\Debug\6_UseEventHandler2.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventHandler2\obj\Debug\UseEventHandler2.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventHandler2\obj\Debug\UseEventHandler2.pdb
+E:\EventDemos\UseEventHandler2\bin\Debug\UseEventHandler2.exe.config
+E:\EventDemos\UseEventHandler2\bin\Debug\UseEventHandler2.exe
+E:\EventDemos\UseEventHandler2\bin\Debug\UseEventHandler2.pdb
+E:\EventDemos\UseEventHandler2\obj\Debug\UseEventHandler2.frmMain.resources
+E:\EventDemos\UseEventHandler2\obj\Debug\UseEventHandler2.Properties.Resources.resources
+E:\EventDemos\UseEventHandler2\obj\Debug\6_UseEventHandler2.csproj.GenerateResource.Cache
+E:\EventDemos\UseEventHandler2\obj\Debug\UseEventHandler2.exe
+E:\EventDemos\UseEventHandler2\obj\Debug\UseEventHandler2.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\UseEventHandler2\bin\Debug\UseEventHandler2.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\UseEventHandler2\bin\Debug\UseEventHandler2.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\UseEventHandler2\bin\Debug\UseEventHandler2.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\UseEventHandler2\obj\Debug\6_UseEventHandler2.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\UseEventHandler2\obj\Debug\UseEventHandler2.frmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\UseEventHandler2\obj\Debug\UseEventHandler2.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\UseEventHandler2\obj\Debug\6_UseEventHandler2.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\UseEventHandler2\obj\Debug\UseEventHandler2.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\事件\示例\EventDemos\UseEventHandler2\obj\Debug\UseEventHandler2.pdb

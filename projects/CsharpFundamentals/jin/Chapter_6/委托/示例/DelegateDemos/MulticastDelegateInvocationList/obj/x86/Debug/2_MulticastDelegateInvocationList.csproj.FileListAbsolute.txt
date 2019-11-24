@@ -1,0 +1,15 @@
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\MulticastDelegateInvocationList\bin\Debug\MulticastDelegateInvocationList.exe.config
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\MulticastDelegateInvocationList\obj\x86\Debug\MulticastDelegateInvocationList.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\MulticastDelegateInvocationList\obj\x86\Debug\MulticastDelegateInvocationList.pdb
+E:\DelegateDemos\MulticastDelegateInvocationList\bin\Debug\MulticastDelegateInvocationList.exe.config
+E:\DelegateDemos\MulticastDelegateInvocationList\bin\Debug\MulticastDelegateInvocationList.exe
+E:\DelegateDemos\MulticastDelegateInvocationList\bin\Debug\MulticastDelegateInvocationList.pdb
+E:\DelegateDemos\MulticastDelegateInvocationList\obj\x86\Debug\2_MulticastDelegateInvocationList.csprojResolveAssemblyReference.cache
+E:\DelegateDemos\MulticastDelegateInvocationList\obj\x86\Debug\MulticastDelegateInvocationList.exe
+E:\DelegateDemos\MulticastDelegateInvocationList\obj\x86\Debug\MulticastDelegateInvocationList.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\5 委托\DelegateDemos\MulticastDelegateInvocationList\bin\Debug\MulticastDelegateInvocationList.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\5 委托\DelegateDemos\MulticastDelegateInvocationList\obj\x86\Debug\MulticastDelegateInvocationList.exe
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\5 委托\DelegateDemos\MulticastDelegateInvocationList\obj\x86\Debug\MulticastDelegateInvocationList.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\5 委托\DelegateDemos\MulticastDelegateInvocationList\bin\Debug\MulticastDelegateInvocationList.exe
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\5 委托\DelegateDemos\MulticastDelegateInvocationList\bin\Debug\MulticastDelegateInvocationList.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\5 委托\DelegateDemos\MulticastDelegateInvocationList\obj\x86\Debug\2_MulticastDelegateInvocationList.csprojResolveAssemblyReference.cache

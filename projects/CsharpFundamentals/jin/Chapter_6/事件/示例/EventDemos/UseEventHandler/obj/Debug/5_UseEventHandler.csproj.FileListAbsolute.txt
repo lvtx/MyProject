@@ -1,0 +1,20 @@
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventHandler\bin\Debug\UseEventHandler.exe.config
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventHandler\bin\Debug\UseEventHandler.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventHandler\bin\Debug\UseEventHandler.pdb
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventHandler\obj\Debug\UseEventHandler.frmMain.resources
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventHandler\obj\Debug\UseEventHandler.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventHandler\obj\Debug\5_UseEventHandler.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventHandler\obj\Debug\UseEventHandler.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseEventHandler\obj\Debug\UseEventHandler.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\6 事件\EventDemos\UseEventHandler\bin\Debug\UseEventHandler.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\6 事件\EventDemos\UseEventHandler\obj\Debug\UseEventHandler.exe
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\6 事件\EventDemos\UseEventHandler\obj\Debug\UseEventHandler.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\6 事件\EventDemos\UseEventHandler\bin\Debug\UseEventHandler.exe
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\6 事件\EventDemos\UseEventHandler\bin\Debug\UseEventHandler.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\6 事件\EventDemos\UseEventHandler\obj\Debug\5_UseEventHandler.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\6 事件\EventDemos\UseEventHandler\obj\Debug\UseEventHandler.frmMain.resources
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\6 事件\EventDemos\UseEventHandler\obj\Debug\UseEventHandler.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\人大MOOC\5 C#面向对象编程进阶\6 事件\EventDemos\UseEventHandler\obj\Debug\5_UseEventHandler.csproj.GenerateResource.Cache
+E:\EventDemos\UseEventHandler\bin\Debug\UseEventHandler.exe.config
+E:\EventDemos\UseEventHandler\obj\Debug\UseEventHandler.exe
+E:\EventDemos\UseEventHandler\obj\Debug\UseEventHandler.pdb

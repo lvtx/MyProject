@@ -1,0 +1,9 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\OneToManyWinForm\bin\Debug\OneToManyWinForm.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\OneToManyWinForm\bin\Debug\OneToManyWinForm.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\OneToManyWinForm\bin\Debug\OneToManyWinForm.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\OneToManyWinForm\obj\Debug\OneToManyWinForm.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\OneToManyWinForm\obj\Debug\OneToManyWinForm.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\OneToManyWinForm\obj\Debug\OneToManyWinForm.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\OneToManyWinForm\obj\Debug\OneToManyWinForm.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\OneToManyWinForm\obj\Debug\OneToManyWinForm.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\ObjectEmbed\OneToManyWinForm\obj\Debug\OneToManyWinForm.frmMain.resources

@@ -1,0 +1,13 @@
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\MethodDemos\bin\Debug\MethodDemos.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\MethodDemos\bin\Debug\MethodDemos.exe
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\MethodDemos\bin\Debug\MethodDemos.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\MethodDemos\obj\Debug\MethodDemos.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\MethodDemos\obj\Debug\MethodDemos.exe
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\MethodDemos\obj\Debug\MethodDemos.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\MethodDemos\MethodDemos\bin\Debug\MethodDemos.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\MethodDemos\MethodDemos\bin\Debug\MethodDemos.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\MethodDemos\MethodDemos\bin\Debug\MethodDemos.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\MethodDemos\MethodDemos\obj\Debug\MethodDemos.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\MethodDemos\MethodDemos\obj\Debug\MethodDemos.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\MethodDemos\MethodDemos\obj\Debug\MethodDemos.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_3\范例\MethodDemos\MethodDemos\obj\Debug\MethodDemos.pdb

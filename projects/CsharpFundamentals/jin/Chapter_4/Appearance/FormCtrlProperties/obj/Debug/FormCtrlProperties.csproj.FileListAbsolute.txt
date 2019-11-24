@@ -1,0 +1,14 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\FormCtrlProperties\bin\Debug\FormCtrlProperties.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\FormCtrlProperties\bin\Debug\FormCtrlProperties.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\FormCtrlProperties\bin\Debug\FormCtrlProperties.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\FormCtrlProperties\obj\Debug\FormCtrlProperties.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\FormCtrlProperties\obj\Debug\FormCtrlProperties.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\FormCtrlProperties\obj\Debug\FormCtrlProperties.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\FormCtrlProperties\obj\Debug\FormCtrlProperties.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\FormCtrlProperties\obj\Debug\FormCtrlProperties.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\FormCtrlProperties\obj\Debug\FormCtrlProperties.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\FormCtrlProperties\obj\Debug\FormCtrlProperties.EnglishLearning.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\FormCtrlProperties\obj\Debug\FormCtrlProperties.FrmEnable.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\FormCtrlProperties\obj\Debug\FormCtrlProperties.FrmMain.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\FormCtrlProperties\obj\Debug\FormCtrlProperties.FrmVisiable.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\FormCtrlProperties\obj\Debug\FormCtrlProperties.FrmDock.resources

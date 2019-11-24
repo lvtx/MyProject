@@ -1,0 +1,7 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_2\CalculateDaysForOO\CalculateDaysForOO\bin\Debug\CalculateDaysForOO.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_2\CalculateDaysForOO\CalculateDaysForOO\bin\Debug\CalculateDaysForOO.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_2\CalculateDaysForOO\CalculateDaysForOO\bin\Debug\CalculateDaysForOO.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_2\CalculateDaysForOO\CalculateDaysForOO\obj\Debug\CalculateDaysForOO.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_2\CalculateDaysForOO\CalculateDaysForOO\obj\Debug\CalculateDaysForOO.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_2\CalculateDaysForOO\CalculateDaysForOO\obj\Debug\CalculateDaysForOO.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_2\CalculateDaysForOO\CalculateDaysForOO\obj\Debug\CalculateDaysForOO.pdb

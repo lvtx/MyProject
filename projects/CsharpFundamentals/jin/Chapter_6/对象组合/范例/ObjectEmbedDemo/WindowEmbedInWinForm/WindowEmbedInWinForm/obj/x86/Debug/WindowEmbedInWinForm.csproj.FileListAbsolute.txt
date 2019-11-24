@@ -1,0 +1,48 @@
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\WindowEmbedInWinForm\bin\Debug\WindowEmbedInWinForm.exe
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\WindowEmbedInWinForm\bin\Debug\WindowEmbedInWinForm.pdb
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\WindowEmbedInWinForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.Properties.Resources.resources
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\WindowEmbedInWinForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\WindowEmbedInWinForm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.exe
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.pdb
+D:\Users\JinXuLiang\AppData\Local\Temporary Projects\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.Form1.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象的组合与数据结构\SourceCode\11.3\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象的组合与数据结构\SourceCode\11.3\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象的组合与数据结构\SourceCode\11.3\WindowEmbedInWinForm\WindowEmbedInWinForm\bin\Debug\WindowEmbedInWinForm.exe
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象的组合与数据结构\SourceCode\11.3\WindowEmbedInWinForm\WindowEmbedInWinForm\bin\Debug\WindowEmbedInWinForm.pdb
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象的组合与数据结构\SourceCode\11.3\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象的组合与数据结构\SourceCode\11.3\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.frmBottom.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象的组合与数据结构\SourceCode\11.3\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.frmCenter.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象的组合与数据结构\SourceCode\11.3\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.frmLeft.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象的组合与数据结构\SourceCode\11.3\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.frmMain.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象的组合与数据结构\SourceCode\11.3\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.frmRight.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象的组合与数据结构\SourceCode\11.3\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.Properties.Resources.resources
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象的组合与数据结构\SourceCode\11.3\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象的组合与数据结构\SourceCode\11.3\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.exe
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.pdb
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\WindowEmbedInWinForm\WindowEmbedInWinForm\bin\Debug\WindowEmbedInWinForm.exe
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\WindowEmbedInWinForm\WindowEmbedInWinForm\bin\Debug\WindowEmbedInWinForm.pdb
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.frmBottom.resources
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.frmCenter.resources
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.frmLeft.resources
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.frmMain.resources
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.frmRight.resources
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\Week2\2.1 对象组合与复制\WindowEmbedInWinForm\WindowEmbedInWinForm\bin\Debug\WindowEmbedInWinForm.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\WindowEmbedInWinForm\WindowEmbedInWinForm\bin\Debug\WindowEmbedInWinForm.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.exe
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\WindowEmbedInWinForm\WindowEmbedInWinForm\bin\Debug\WindowEmbedInWinForm.exe
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\WindowEmbedInWinForm\WindowEmbedInWinForm\bin\Debug\WindowEmbedInWinForm.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.csprojResolveAssemblyReference.cache
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.frmBottom.resources
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.frmCenter.resources
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.frmLeft.resources
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.frmMain.resources
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.frmRight.resources
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.Properties.Resources.resources
+F:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\1 对象组合\ObjectEmbedDemo\WindowEmbedInWinForm\WindowEmbedInWinForm\obj\x86\Debug\WindowEmbedInWinForm.csproj.GenerateResource.Cache

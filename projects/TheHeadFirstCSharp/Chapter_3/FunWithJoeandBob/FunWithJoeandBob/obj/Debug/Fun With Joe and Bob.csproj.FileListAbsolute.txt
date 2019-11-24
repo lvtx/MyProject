@@ -1,0 +1,10 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Fun With Joe and Bob\Fun With Joe and Bob\bin\Debug\Fun With Joe and Bob.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Fun With Joe and Bob\Fun With Joe and Bob\bin\Debug\Fun With Joe and Bob.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Fun With Joe and Bob\Fun With Joe and Bob\bin\Debug\Fun With Joe and Bob.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Fun With Joe and Bob\Fun With Joe and Bob\obj\Debug\Fun With Joe and Bob.csprojAssemblyReference.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Fun With Joe and Bob\Fun With Joe and Bob\obj\Debug\Fun_With_Joe_and_Bob.Form1.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Fun With Joe and Bob\Fun With Joe and Bob\obj\Debug\Fun_With_Joe_and_Bob.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Fun With Joe and Bob\Fun With Joe and Bob\obj\Debug\Fun With Joe and Bob.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Fun With Joe and Bob\Fun With Joe and Bob\obj\Debug\Fun With Joe and Bob.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Fun With Joe and Bob\Fun With Joe and Bob\obj\Debug\Fun With Joe and Bob.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\Fun With Joe and Bob\Fun With Joe and Bob\obj\Debug\Fun With Joe and Bob.pdb

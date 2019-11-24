@@ -1,0 +1,16 @@
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第一讲 类和对象（1）\SourceCode\StaticMember\bin\Debug\StaticMember.exe
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第一讲 类和对象（1）\SourceCode\StaticMember\bin\Debug\StaticMember.pdb
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第一讲 类和对象（1）\SourceCode\StaticMember\obj\Debug\ResolveAssemblyReference.cache
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第一讲 类和对象（1）\SourceCode\StaticMember\obj\Debug\StaticMember.exe
+D:\jxl\教案\C#面向对象程序设计\2 C#程序设计语言与.NET面向对象编程基础\第一讲 类和对象（1）\SourceCode\StaticMember\obj\Debug\StaticMember.pdb
+C:\Mooc\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\StaticMember\obj\Debug\StaticMember.exe
+C:\Mooc\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\StaticMember\obj\Debug\StaticMember.pdb
+C:\Mooc\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\StaticMember\bin\Debug\StaticMember.exe
+C:\Mooc\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\StaticMember\bin\Debug\StaticMember.pdb
+C:\Mooc\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\StaticMember\obj\Debug\StaticMember.csprojResolveAssemblyReference.cache
+C:\Mooc\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\StaticMember\obj\Debug\StaticMember.exe
+C:\Mooc\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\StaticMember\obj\Debug\StaticMember.pdb
+C:\Mooc\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\StaticMember\bin\Debug\StaticMember.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\StaticMember\bin\Debug\StaticMember.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\StaticMember\obj\Debug\StaticMember.exe
+E:\MOOC\录课视频相关文件\人大MOOC\4 C#面向对象编程入门\2 对象和对象变量\ObjectAndReferenceDemos\StaticMember\obj\Debug\StaticMember.pdb

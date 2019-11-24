@@ -1,0 +1,10 @@
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\ProgressBarAndTimer\bin\Debug\ProgressBarAndTimer.exe.config
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\ProgressBarAndTimer\bin\Debug\ProgressBarAndTimer.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\ProgressBarAndTimer\bin\Debug\ProgressBarAndTimer.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\ProgressBarAndTimer\obj\Debug\ProgressBarAndTimer.Form1.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\ProgressBarAndTimer\obj\Debug\ProgressBarAndTimer.Properties.Resources.resources
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\ProgressBarAndTimer\obj\Debug\ProgressBarAndTimer.csproj.GenerateResource.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\ProgressBarAndTimer\obj\Debug\ProgressBarAndTimer.csproj.CoreCompileInputs.cache
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\ProgressBarAndTimer\obj\Debug\ProgressBarAndTimer.exe
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\ProgressBarAndTimer\obj\Debug\ProgressBarAndTimer.pdb
+C:\Users\tomw5\OneDrive\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_4\Appearance\ProgressBarAndTimer\obj\Debug\ProgressBarAndTimer.csprojAssemblyReference.cache

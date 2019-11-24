@@ -1,0 +1,12 @@
+F:\MOOC\录课视频相关文件\人大MOOC\7 WinForm进阶\DialogDemo\DialogDemo\bin\Debug\DialogDemo.exe.config
+F:\MOOC\录课视频相关文件\人大MOOC\7 WinForm进阶\DialogDemo\DialogDemo\bin\Debug\DialogDemo.exe
+F:\MOOC\录课视频相关文件\人大MOOC\7 WinForm进阶\DialogDemo\DialogDemo\bin\Debug\DialogDemo.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\7 WinForm进阶\DialogDemo\DialogDemo\obj\Debug\DialogDemo.csprojResolveAssemblyReference.cache
+F:\MOOC\录课视频相关文件\人大MOOC\7 WinForm进阶\DialogDemo\DialogDemo\obj\Debug\DialogDemo.Properties.Resources.resources
+F:\MOOC\录课视频相关文件\人大MOOC\7 WinForm进阶\DialogDemo\DialogDemo\obj\Debug\DialogDemo.csproj.GenerateResource.Cache
+F:\MOOC\录课视频相关文件\人大MOOC\7 WinForm进阶\DialogDemo\DialogDemo\obj\Debug\DialogDemo.exe
+F:\MOOC\录课视频相关文件\人大MOOC\7 WinForm进阶\DialogDemo\DialogDemo\obj\Debug\DialogDemo.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\7 WinForm进阶\DialogDemo\DialogDemo\obj\Debug\DialogDemo.frmMain.resources
+E:\WinFormAdvanced\DialogDemo\bin\Debug\DialogDemo.exe.config
+E:\WinFormAdvanced\DialogDemo\obj\Debug\DialogDemo.exe
+E:\WinFormAdvanced\DialogDemo\obj\Debug\DialogDemo.pdb

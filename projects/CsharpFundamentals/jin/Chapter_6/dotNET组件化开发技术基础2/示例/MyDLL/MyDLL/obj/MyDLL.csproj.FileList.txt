@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\MyDLL.dll
+bin\Debug\MyDLL.pdb
+obj\Debug\MyDLL.dll
+obj\Debug\MyDLL.pdb
+bin\Release\MyDLL.dll
+bin\Release\MyDLL.pdb
+bin\Release\MyDLL2.dll
+bin\Release\MyDLL2.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\MyDLL.dll
+obj\Release\MyDLL.pdb

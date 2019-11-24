@@ -1,0 +1,10 @@
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\GenerateRandomNumber\GenerateRandomNumber\bin\Debug\GenerateRandomNumber.exe
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\GenerateRandomNumber\GenerateRandomNumber\bin\Debug\GenerateRandomNumber.pdb
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\GenerateRandomNumber\GenerateRandomNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\GenerateRandomNumber\GenerateRandomNumber\obj\x86\Debug\GenerateRandomNumber.exe
+D:\jxl\上课教案\C#面向对象程序设计（2011成教版）\1 C#基础语法\SourceCode\New\GenerateRandomNumber\GenerateRandomNumber\obj\x86\Debug\GenerateRandomNumber.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\GenerateRandomNumber\obj\x86\Debug\GenerateRandomNumber.exe
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\GenerateRandomNumber\obj\x86\Debug\GenerateRandomNumber.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\GenerateRandomNumber\bin\Debug\GenerateRandomNumber.exe
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\GenerateRandomNumber\bin\Debug\GenerateRandomNumber.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\2 C#结构化编程基础\MethodDemos\GenerateRandomNumber\obj\x86\Debug\GenerateRandomNumber.csprojResolveAssemblyReference.cache

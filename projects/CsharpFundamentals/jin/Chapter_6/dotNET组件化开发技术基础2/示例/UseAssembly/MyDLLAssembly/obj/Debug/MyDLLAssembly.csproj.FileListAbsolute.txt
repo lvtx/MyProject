@@ -1,0 +1,10 @@
+C:\jxl\MyBook\面向对象的艺术\第1篇 面向对象概念、方法与技术\第3章 类与对象\SourceCode\UseAssembly\MyDLLAssembly\bin\Debug\MyDLLAssembly.dll
+C:\jxl\MyBook\面向对象的艺术\第1篇 面向对象概念、方法与技术\第3章 类与对象\SourceCode\UseAssembly\MyDLLAssembly\bin\Debug\MyDLLAssembly.pdb
+C:\jxl\MyBook\面向对象的艺术\第1篇 面向对象概念、方法与技术\第3章 类与对象\SourceCode\UseAssembly\MyDLLAssembly\obj\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\面向对象的艺术\第1篇 面向对象概念、方法与技术\第3章 类与对象\SourceCode\UseAssembly\MyDLLAssembly\obj\Debug\MyDLLAssembly.dll
+C:\jxl\MyBook\面向对象的艺术\第1篇 面向对象概念、方法与技术\第3章 类与对象\SourceCode\UseAssembly\MyDLLAssembly\obj\Debug\MyDLLAssembly.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第1篇 面向对象技术的.NET视角\第7章 命名空间与程序集\SourceCode\7.1\UseAssembly\MyDLLAssembly\bin\Debug\MyDLLAssembly.dll
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第1篇 面向对象技术的.NET视角\第7章 命名空间与程序集\SourceCode\7.1\UseAssembly\MyDLLAssembly\bin\Debug\MyDLLAssembly.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第1篇 面向对象技术的.NET视角\第7章 命名空间与程序集\SourceCode\7.1\UseAssembly\MyDLLAssembly\obj\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第1篇 面向对象技术的.NET视角\第7章 命名空间与程序集\SourceCode\7.1\UseAssembly\MyDLLAssembly\obj\Debug\MyDLLAssembly.dll
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第1篇 面向对象技术的.NET视角\第7章 命名空间与程序集\SourceCode\7.1\UseAssembly\MyDLLAssembly\obj\Debug\MyDLLAssembly.pdb
