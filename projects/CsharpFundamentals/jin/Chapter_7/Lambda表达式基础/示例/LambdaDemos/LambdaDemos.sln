@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_AnonymousMethodToLambda", "AnonymousMethodToLambda\2_AnonymousMethodToLambda.csproj", "{F0C2FF7C-BC02-432C-BB81-C94829AD1CD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_GenericDelegateAndLambda", "GenericDelegateAndLambda\3_GenericDelegateAndLambda.csproj", "{3472D3F0-BB16-47C2-B93F-BA4DD34F84B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_GenericDelegateInBaseClassLibrary", "GenericDelegateInBaseClassLibrary\4_GenericDelegateInBaseClassLibrary.csproj", "{4830D0A6-6A84-4FAD-AEF5-39725BD505B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_UseComparisonDelegate", "UseComparisonDelegate\5_UseComparisonDelegate.csproj", "{9F6F6F54-0E40-4F26-B4C4-8DE93813B6E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_UsePredicateDelegate", "UsePredicateDelegate\6_UsePredicateDelegate.csproj", "{75E69974-EB42-4F56-96AB-046A2AAD274B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_TypicalDelegateExample", "TypicalDelegateExample\1_TypicalDelegateExample.csproj", "{7BD095F8-DF1D-41BF-AFFD-B7E8493F518B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_LambdaSyntax", "LambdaSyntax\7_LambdaSyntax.csproj", "{25CBBEDB-2250-4555-80A2-7734AE78337B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0C2FF7C-BC02-432C-BB81-C94829AD1CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0C2FF7C-BC02-432C-BB81-C94829AD1CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0C2FF7C-BC02-432C-BB81-C94829AD1CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0C2FF7C-BC02-432C-BB81-C94829AD1CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3472D3F0-BB16-47C2-B93F-BA4DD34F84B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3472D3F0-BB16-47C2-B93F-BA4DD34F84B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3472D3F0-BB16-47C2-B93F-BA4DD34F84B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3472D3F0-BB16-47C2-B93F-BA4DD34F84B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4830D0A6-6A84-4FAD-AEF5-39725BD505B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4830D0A6-6A84-4FAD-AEF5-39725BD505B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4830D0A6-6A84-4FAD-AEF5-39725BD505B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4830D0A6-6A84-4FAD-AEF5-39725BD505B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6F6F54-0E40-4F26-B4C4-8DE93813B6E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6F6F54-0E40-4F26-B4C4-8DE93813B6E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6F6F54-0E40-4F26-B4C4-8DE93813B6E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6F6F54-0E40-4F26-B4C4-8DE93813B6E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75E69974-EB42-4F56-96AB-046A2AAD274B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E69974-EB42-4F56-96AB-046A2AAD274B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E69974-EB42-4F56-96AB-046A2AAD274B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E69974-EB42-4F56-96AB-046A2AAD274B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD095F8-DF1D-41BF-AFFD-B7E8493F518B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD095F8-DF1D-41BF-AFFD-B7E8493F518B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD095F8-DF1D-41BF-AFFD-B7E8493F518B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD095F8-DF1D-41BF-AFFD-B7E8493F518B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25CBBEDB-2250-4555-80A2-7734AE78337B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25CBBEDB-2250-4555-80A2-7734AE78337B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25CBBEDB-2250-4555-80A2-7734AE78337B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25CBBEDB-2250-4555-80A2-7734AE78337B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
