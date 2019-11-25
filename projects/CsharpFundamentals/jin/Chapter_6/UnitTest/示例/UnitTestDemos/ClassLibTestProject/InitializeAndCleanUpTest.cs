@@ -10,13 +10,12 @@ namespace ClassLibTestProject
     [TestClass]
     public class InitializeAndCleanUpTest
     {
-
-
         [TestInitialize]
         public void TestInitialize()
         {
             Console.WriteLine("Begin Test");
         }
+
         [TestCleanup]
         public void TestCleanup()
         {
@@ -40,6 +39,7 @@ namespace ClassLibTestProject
         {
             Console.WriteLine("Running TestMethod1");
         }
+
         [TestMethod]
         public void TestMethod2()
         {

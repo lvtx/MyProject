@@ -52,6 +52,7 @@
     <Compile Include="InitializeAndCleanUpTest.cs" />
     <Compile Include="MyClassTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringUtilsTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
