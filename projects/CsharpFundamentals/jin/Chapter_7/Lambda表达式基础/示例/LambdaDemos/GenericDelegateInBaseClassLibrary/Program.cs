@@ -13,8 +13,6 @@ namespace GenericDelegateInBaseClassLibrary
             UseFuncDelegate();
             UseActionDelegate();
             Console.ReadKey();
-
-
         }
 
         private static void UseFuncDelegate()
