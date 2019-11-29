@@ -13,11 +13,11 @@ namespace UseQueryMethods
         {
             //UseWhere();
 
-            UseSelect();
+            //UseSelect();
 
-            // UseOrderBy();
+            //UseOrderBy();
 
-            //UseSetAndAggregateMethods();
+            UseSetAndAggregateMethods();
 
             Console.ReadKey();
 
