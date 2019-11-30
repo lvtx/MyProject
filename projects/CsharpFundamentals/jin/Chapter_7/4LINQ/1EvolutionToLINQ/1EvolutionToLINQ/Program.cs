@@ -6,22 +6,6 @@ using System.Threading.Tasks;
 
 namespace _1EvolutionToLINQ
 {
-    //为扩展方法创建的类
-    static class MyExtensions
-    {
-        public static IEnumerable<T> Filter<T>(this IEnumerable<T> items, Func<T, bool> predicate)
-        {
-            var ret = new List<T>();
-            foreach (var item in items)
-            {
-                if (predicate(item))
-                {
-                    ret.Add(item);
-                }
-            }
-            return ret;
-        }
-    }
     class Program
     {
         static void Main(string[] args)
@@ -32,7 +16,9 @@ namespace _1EvolutionToLINQ
             //GenericFindOddOrEvenNumbers();
             //GenericFindOddOrEvenNumbers2();
             //FindOddOrEvenNumbersUseLambda();
-            FindOddOrEvenNumbersUseExtensionMethod();
+            //FindOddOrEvenNumbersUseExtensionMethod();
+            //FindOddOrEvenNumbersUseExtensionMethod2();
+            FindOddNumbersUseLINQ();
             Console.ReadLine();
         }
 
@@ -206,5 +192,79 @@ namespace _1EvolutionToLINQ
             }
         }
         #endregion
+
+        #region "8.优化后的扩展方法"
+        static void FindOddOrEvenNumbersUseExtensionMethod2()
+        {
+            int[] nums = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            var ret = nums.Filter(num => num % 2 != 0);
+            foreach (var item in ret)
+            {
+                Console.Write(item + ", ");
+            }
+        }
+        #endregion
+
+        #region "9.Where拓展方法"
+        static void FindOddOrEvenNumbersUseWhere()
+        {
+            int[] nums = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            var ret = nums.Where(num => num % 2 != 0);
+            foreach (var item in ret)
+            {
+                Console.Write(item + ", ");
+            }
+        }
+        #endregion
+
+        #region "10.LINQ的使用"
+        static void FindOddNumbersUseLINQ()
+        {
+            var nums = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            var ret = from num in nums
+                         where num % 2 != 0
+                         select num;
+            foreach (var item in ret)
+            {
+                Console.WriteLine(item + ", ");
+            }
+        }
+        #endregion
+    }
+    //为扩展方法创建的类
+    static class MyExtensions
+    {
+        public static IEnumerable<T> Filter<T>(this IEnumerable<T> items, Func<T, bool> predicate)
+        {
+            var ret = new List<T>();
+            foreach (var item in items)
+            {
+                if (predicate(item))
+                {
+                    ret.Add(item);
+                }
+            }
+            return ret;
+        }
+        public static IEnumerable<T> AdvancedFilter<T>(this IEnumerable<T> items, Func<T, bool> predicate)
+        {
+            foreach (var item in items)
+            {
+                if (predicate(item))
+                {
+                    yield return item;
+                }
+            }
+        }
+        public static IEnumerable<T> Where<T>(this IEnumerable<T> items, Func<T, bool> predicate)
+        {
+            foreach (var item in items)
+            {
+                if (predicate(item))
+                {
+                    yield return item;
+                }
+            }
+        }
     }
 }
