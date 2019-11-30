@@ -14,10 +14,10 @@ namespace LINQExamples
         {
             //TestLogicalOperator();
             //TestDistinct();
-            //TestOrderBy();
+            TestOrderBy();
             //TestAnonymousObject();
             //TestLetStatement();
-            TestNativeMethod();
+            //TestNativeMethod();
 
             Console.ReadKey();
         }
@@ -27,17 +27,15 @@ namespace LINQExamples
         static void TestLogicalOperator()
         {
             IEnumerable<FileInfo> files =
-                from fileName in Directory.GetFiles("C:\\")
+                from fileName in Directory.GetFiles("D:\\windows\\files\\document\\ebook\\教材\\大学\\软件\\操作系统")
                 where File.GetLastWriteTime(fileName) < DateTime.Now.AddDays(-1)
-                  && Path.GetExtension(fileName).ToUpper() == ".TXT"
+                  && Path.GetExtension(fileName).ToUpper() == ".PDF"
                 select new FileInfo(fileName);
 
             foreach (var file in files)
             {
                 Console.WriteLine(file);
             }
-
-
         }
         #endregion
 
@@ -75,7 +73,7 @@ namespace LINQExamples
         static void TestOrderBy()
         {
             IEnumerable<FileInfo> files =
-                  from fileName in Directory.GetFiles("C:\\")
+                  from fileName in Directory.GetFiles("D:\\windows\\files\\document\\ebook\\教材\\大学\\软件\\操作系统")
                   orderby (new FileInfo(fileName)).Length,
                     fileName ascending
                   select new FileInfo(fileName);
@@ -88,7 +86,7 @@ namespace LINQExamples
         }
         #endregion
 
-        #region"动态创建匿名对象的示例"
+        #region "动态创建匿名对象的示例"
         static void TestAnonymousObject()
         {
             var files = from fileName in Directory.GetFiles("C:\\")

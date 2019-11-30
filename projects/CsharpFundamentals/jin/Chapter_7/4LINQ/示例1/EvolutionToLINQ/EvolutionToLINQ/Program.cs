@@ -11,7 +11,7 @@ namespace EvolutionToLINQ
         static void Main(string[] args)
         {
             //FindOddNumbers();
-            FindOddNumbers2();
+            //FindOddNumbers2();
             //FindOddOrEvenNumbers();
             //GenericFindOddOrEvenNumbers();
             //GenericFindOddOrEvenNumbers2();
@@ -206,7 +206,6 @@ namespace EvolutionToLINQ
             {
                 Console.WriteLine(num);
             }
-
         }
         #endregion
 
@@ -244,6 +243,7 @@ namespace EvolutionToLINQ
 
         }
         #endregion
+
         #region "优化后的扩展方法"
         static void FindOddOrEvenNumbersUseExtensionMethod2()
         {
