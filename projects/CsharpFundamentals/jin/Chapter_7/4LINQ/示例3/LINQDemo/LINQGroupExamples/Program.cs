@@ -28,8 +28,8 @@ namespace LINQGroupExamples
         {
             //IntroduceGroup();
             //UseGroupInto();
-            //TestBooleanGroup();
-            TestMultiGroup();
+            TestBooleanGroup();
+            //TestMultiGroup();
             Console.ReadKey();
         }
         #region "认识分组"
@@ -41,7 +41,7 @@ namespace LINQGroupExamples
                new Student {Name="李四", City="上海"},
                new Student {Name="王五", City="北京"},
                new Student {Name="赵六", City="重庆"},
-               new Student {Name="马七", City="北京"} ,
+               new Student {Name="马七", City="北京"},
                new Student {Name="牛八", City="上海"}
             };
 
@@ -95,7 +95,7 @@ namespace LINQGroupExamples
                 Console.WriteLine("以原音字母“{0}”开头的单词有：", wordGroup.Key);
                 foreach (var word in wordGroup)
                 {
-                    Console.WriteLine("   {0}", word);
+                    Console.WriteLine("{0}", word);
                 }
             }
         }
@@ -211,9 +211,6 @@ namespace LINQGroupExamples
             }
             return ret;
         }
-
-
-
         #endregion
     }
 

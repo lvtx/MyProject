@@ -1,52 +1,36 @@
-### 1. 使用C#的逻辑运算符
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-```C#
-        static void TestLogicalOperator()
+namespace LINQGroup
+{
+    public class Student
+    {
+        /// <summary>
+        /// 姓名
+        /// </summary>
+        public string Name { get; set; }
+        /// <summary>
+        /// 籍贯
+        /// </summary>
+        public string City { get; set; }
+        /// <summary>
+        /// 考试成绩
+        /// </summary>
+        public List<int> Scores { get; set; }
+    }
+    class Program
+    {
+        static void Main(string[] args)
         {
-            var files = from fileName in Directory.GetFiles
-                        ("D:\\windows\\files\\document\\ebook\\教材\\大学\\软件\\操作系统")
-                        where (File.GetLastWriteTime(fileName) < DateTime.Now.AddDays(-1))
-                        && Path.GetExtension(fileName).ToUpper() == ".PDF"
-                        select new FileInfo(fileName);
-            foreach (var file in files)
-            {
-                Console.WriteLine(file.Name);
-            }
+            //IntroduceGroup();
+            //UseGroupInto();
+            //TestBooleanGroup();
+            TestMultiGroup();
             Console.ReadLine();
         }
-```
-
-### 2.Distinct示例：消除重复项
-
-```C#
-        static void ListMemberNamesOfEnumerable()
-        {
-            MemberInfo[] members = typeof(Enumerable).
-                GetMembers(BindingFlags.Static | BindingFlags.Public);
-            var methods = (from method in members
-                           select method.Name).Distinct();
-            int count = 0;
-            foreach (var method in methods)
-            {
-                count++;
-                Console.WriteLine("{0}:{1}",method,count);
-            }
-        }
-```
-
-### 3.按照文件名和大小排序
-
-### 4.动态创建匿名对象的示例
-
-### 5.引入新的范围变量暂存查询结果
-
-### 6. 使用本地方法
-
-## 2.LINQGroup
-
-### 1.认识分组
-
-```C#
         #region "1.认识分组"
         static void IntroduceGroup()
         {
@@ -71,10 +55,7 @@
             }
         }
         #endregion
-```
-### 2.分组后进一步处理
 
-```C#
         #region "2.分组后进一步处理"
         static void UseGroupInto()
         {
@@ -100,12 +81,8 @@
             }
         }
         #endregion
-```
 
-### 3.非此即彼”的分组
-
-```C#
-#region "3.“非此即彼”的分组"
+        #region "3.“非此即彼”的分组"
         static void TestBooleanGroup()
         {
             var StudentGroup = from student in GetStudents()
@@ -137,12 +114,8 @@
             return false;
         }
         #endregion
-```
 
-### 4.多段分组
-
-```C#
-#region "4.多段分组"
+        #region "4.多段分组"
         static void TestMultiGroup()
         {
             var studentGroup = from student in GetStudents()
@@ -186,5 +159,17 @@
             return ret;
         }
         #endregion
-```
-
+        static List<Student> GetStudents()
+        {
+            List<Student> students = new List<Student>
+            {
+                new Student {Name="张三", Scores= new List<int> {97, 72, 81, 60}},
+                new Student {Name="李四",  Scores= new List<int> {75, 84, 91, 39}},
+                new Student {Name="王五", Scores= new List<int> {99, 89, 91, 95}},
+                new Student {Name="赵六", Scores= new List<int> {72, 81, 65, 84}},
+                new Student {Name="马七", Scores= new List<int> {97, 89, 85, 82}}
+            };
+            return students;
+        }
+    }
+}
