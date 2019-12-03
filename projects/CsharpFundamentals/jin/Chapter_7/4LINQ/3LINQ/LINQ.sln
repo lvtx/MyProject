@@ -7,7 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_LINQ", "LINQ\1_LINQ.cspro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_LINQGroup", "LINQGroup\2_LINQGroup.csproj", "{DF4D0EA0-7DFC-40D8-BBEC-4F8B76C948EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1", "Exercise1\Exercise1.csproj", "{B087107B-8FA6-45D0-9288-DF2B30D9A058}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Exercise1", "Exercise1\3_Exercise1.csproj", "{B087107B-8FA6-45D0-9288-DF2B30D9A058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_CountTheFrequencyOfWords", "CountTheFrequencyOfWords\4_CountTheFrequencyOfWords.csproj", "{1BD29DF4-85AF-4894-8876-B4E7BC68702A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{B32785BA-B047-42D1-9077-7FB163193405}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{B087107B-8FA6-45D0-9288-DF2B30D9A058}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B087107B-8FA6-45D0-9288-DF2B30D9A058}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B087107B-8FA6-45D0-9288-DF2B30D9A058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD29DF4-85AF-4894-8876-B4E7BC68702A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD29DF4-85AF-4894-8876-B4E7BC68702A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD29DF4-85AF-4894-8876-B4E7BC68702A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD29DF4-85AF-4894-8876-B4E7BC68702A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B32785BA-B047-42D1-9077-7FB163193405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32785BA-B047-42D1-9077-7FB163193405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32785BA-B047-42D1-9077-7FB163193405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32785BA-B047-42D1-9077-7FB163193405}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
