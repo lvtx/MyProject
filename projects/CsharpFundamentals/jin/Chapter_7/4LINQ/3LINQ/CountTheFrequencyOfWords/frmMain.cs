@@ -11,6 +11,9 @@ using System.Windows.Forms;
 
 namespace CountTheFrequencyOfWords
 {
+   /* 编写一个程序，它可以读入一个英文段落，计算出每个单
+      词的出现频率（即：单词的出现次数 / 文章总单词数），
+      并对出现频率进行降序排列，输出结果。*/
     public partial class frmMain : Form
     {
         public frmMain()

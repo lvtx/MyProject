@@ -7,11 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_LINQ", "LINQ\1_LINQ.cspro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_LINQGroup", "LINQGroup\2_LINQGroup.csproj", "{DF4D0EA0-7DFC-40D8-BBEC-4F8B76C948EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Exercise1", "Exercise1\3_Exercise1.csproj", "{B087107B-8FA6-45D0-9288-DF2B30D9A058}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_SortOfFiles", "Exercise1\3_SortOfFiles.csproj", "{B087107B-8FA6-45D0-9288-DF2B30D9A058}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_CountTheFrequencyOfWords", "CountTheFrequencyOfWords\4_CountTheFrequencyOfWords.csproj", "{1BD29DF4-85AF-4894-8876-B4E7BC68702A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_SortOfWords", "CountTheFrequencyOfWords\4_SortOfWords.csproj", "{1BD29DF4-85AF-4894-8876-B4E7BC68702A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{B32785BA-B047-42D1-9077-7FB163193405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Animal", "Animal\5_Animal.csproj", "{15BF8343-D006-4E45-8FD7-A27B6EBE4C89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{B32785BA-B047-42D1-9077-7FB163193405}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B32785BA-B047-42D1-9077-7FB163193405}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B32785BA-B047-42D1-9077-7FB163193405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15BF8343-D006-4E45-8FD7-A27B6EBE4C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BF8343-D006-4E45-8FD7-A27B6EBE4C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BF8343-D006-4E45-8FD7-A27B6EBE4C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BF8343-D006-4E45-8FD7-A27B6EBE4C89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,38 +1,8 @@
+## 1.LINQ
+
 ### 1. 使用C#的逻辑运算符
 
-```C#
-        static void TestLogicalOperator()
-        {
-            var files = from fileName in Directory.GetFiles
-                        ("D:\\windows\\files\\document\\ebook\\教材\\大学\\软件\\操作系统")
-                        where (File.GetLastWriteTime(fileName) < DateTime.Now.AddDays(-1))
-                        && Path.GetExtension(fileName).ToUpper() == ".PDF"
-                        select new FileInfo(fileName);
-            foreach (var file in files)
-            {
-                Console.WriteLine(file.Name);
-            }
-            Console.ReadLine();
-        }
-```
-
 ### 2.Distinct示例：消除重复项
-
-```C#
-        static void ListMemberNamesOfEnumerable()
-        {
-            MemberInfo[] members = typeof(Enumerable).
-                GetMembers(BindingFlags.Static | BindingFlags.Public);
-            var methods = (from method in members
-                           select method.Name).Distinct();
-            int count = 0;
-            foreach (var method in methods)
-            {
-                count++;
-                Console.WriteLine("{0}:{1}",method,count);
-            }
-        }
-```
 
 ### 3.按照文件名和大小排序
 
@@ -46,145 +16,27 @@
 
 ### 1.认识分组
 
-```C#
-        #region "1.认识分组"
-        static void IntroduceGroup()
-        {
-            List<Student> students = new List<Student>
-        {
-            new Student {Name="张三", City="北京"},
-            new Student {Name="李四", City="上海"},
-            new Student {Name="王五", City="北京"},
-            new Student {Name="赵六", City="重庆"},
-            new Student {Name="马七", City="北京"},
-            new Student {Name="牛八", City="上海"}
-        };
-            var studentQuery = from student in students
-                               group student by student.City;
-            foreach (var studentGroup in studentQuery)
-            {
-                Console.WriteLine("============来自{0}的学生=============", studentGroup.Key);
-                foreach (var student in studentGroup)
-                {
-                    Console.WriteLine("{0}", student.Name);
-                }
-            }
-        }
-        #endregion
-```
 ### 2.分组后进一步处理
-
-```C#
-        #region "2.分组后进一步处理"
-        static void UseGroupInto()
-        {
-            //一个单词数组作为数据源
-            string[] words = { "blueberry", "chimpanzee",
-                                 "abacus", "banana",
-                                 "apple",     "cheese",
-                                 "elephant", "umbrella",
-                                 "anteater" };
-            var wordGroups = from w in words
-                             orderby w[0]
-                             group w by w[0] into grop
-                             where (grop.Key != 'a')
-                             select grop;
-
-            foreach (var wordGroup in wordGroups)
-            {
-                Console.WriteLine("============以{0}开头的单词有============", wordGroup.Key);
-                foreach (var word in wordGroup)
-                {
-                    Console.WriteLine(word);
-                }
-            }
-        }
-        #endregion
-```
 
 ### 3.非此即彼”的分组
 
-```C#
-#region "3.“非此即彼”的分组"
-        static void TestBooleanGroup()
-        {
-            var StudentGroup = from student in GetStudents()
-                               group student by HasFailed(student.Scores);
-            foreach (var students in StudentGroup)
-            {
-                Console.WriteLine("================={0}================",
-                    students.Key == true ? "有不及格课程":"及格");
-                foreach(var studnet in students)
-                {
-                    Console.WriteLine("{0}平均成绩:{1}",studnet.Name,studnet.Scores.Average());
-                }
-            }
-        }
-        /// <summary>
-        /// 判断成绩单中是否有“挂红灯”的课程
-        /// </summary>
-        /// <param name="Scores"></param>
-        /// <returns></returns>
-        static bool HasFailed(List<int> Scores)
-        {
-            foreach (var score in Scores)
-            {
-                if (score < 60)
-                {
-                    return true;
-                }
-            }
-            return false;
-        }
-        #endregion
-```
-
 ### 4.多段分组
 
-```C#
-#region "4.多段分组"
-        static void TestMultiGroup()
-        {
-            var studentGroup = from student in GetStudents()
-                               group student by GroupKey(student.Scores);
-            foreach (var students in studentGroup)
-            {
-                Console.WriteLine("==============成绩{0}的学生==============",students.Key);
-                foreach (var student in students)
-                {
-                    Console.WriteLine("{0}的成绩:{1}",student.Name,student.Scores.Average());
-                }
-            }
+## 3.SortOfFiles
 
-        }
+`使用LINQ查询指定文件夹下的所有文件，按其类型进行分组，在每组中按文件大小进行排序，显示在屏幕上`
 
-        public static string GroupKey(List<int> Scores)
-        {
-            //计算平均分，并取整
-            int avg = (int)Scores.Average();
+## 4.SortOfWords
 
-            string ret = "";
-            switch (avg / 10)  //整除以10
-            {
-                case 10:
-                case 9:
-                    ret = "优";
-                    break;
-                case 8:
-                    ret = "良";
-                    break;
-                case 7:
-                    ret = "中";
-                    break;
-                case 6:
-                    ret = "及格";
-                    break;
-                default:
-                    ret = "不及格";
-                    break;
-            }
-            return ret;
-        }
-        #endregion
-```
+`编写一个程序，它可以读入一个英文段落，计算出每个单
+ 词的出现频率（即：单词的出现次数 / 文章总单词数），并
+ 对出现频率进行降序排列，输出结果。`
+
+## 5.Animal
+
+`编写一个Person类，其中有一个年龄属性。创建一个
+Person对象的集合，然后按照年龄分为五组：老年、中年、
+青年、少年和儿童，然后分组输出。`
+
+
 
