@@ -88,7 +88,7 @@ namespace MultiThreadDelegate
             {
                 Console.ForegroundColor = this.PenColor;
                 Console.WriteLine("Student {0} doing homework {1} hours", this.ID, i);
-                Thread.Sleep(100);
+                Thread.Sleep(1000);
             }
         }
     }
