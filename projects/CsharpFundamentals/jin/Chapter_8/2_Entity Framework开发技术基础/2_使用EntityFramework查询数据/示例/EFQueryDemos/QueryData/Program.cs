@@ -80,8 +80,6 @@ namespace QueryData
                        c.ClientName, c.ClientID, c.Address);
                 }
             }
-        }
-       
-      
+        }            
     }
 }

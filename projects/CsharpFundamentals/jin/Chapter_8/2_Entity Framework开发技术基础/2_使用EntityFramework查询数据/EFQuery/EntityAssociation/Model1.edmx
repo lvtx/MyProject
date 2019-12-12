@@ -4,7 +4,7 @@
   <edmx:Runtime>
     <!-- SSDL content -->
     <edmx:StorageModels>
-      <Schema Namespace="MyDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+    <Schema Namespace="MyDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
         <EntityType Name="Book">
           <Key>
             <PropertyRef Name="BookId" />
@@ -31,6 +31,13 @@
           <Property Name="BookId" Type="int" Nullable="false" />
           <Property Name="ReaderName" Type="nvarchar" MaxLength="50" Nullable="false" />
         </EntityType>
+        <EntityType Name="IdentityCard">
+          <Key>
+            <PropertyRef Name="IdentityCardId" />
+          </Key>
+          <Property Name="IdentityCardId" Type="int" Nullable="false" />
+          <Property Name="IDNumber" Type="nchar" MaxLength="18" Nullable="false" />
+        </EntityType>
         <EntityType Name="OrderClient">
           <Key>
             <PropertyRef Name="ClientID" />
@@ -41,6 +48,13 @@
           <Property Name="PostCode" Type="nvarchar" MaxLength="6" />
           <Property Name="Telephone" Type="nvarchar" MaxLength="100" />
           <Property Name="Email" Type="nvarchar" MaxLength="100" />
+        </EntityType>
+        <EntityType Name="Person">
+          <Key>
+            <PropertyRef Name="PersonId" />
+          </Key>
+          <Property Name="PersonId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
         </EntityType>
         <Association Name="FK_Book_BookCategory">
           <End Role="BookCategory" Type="Self.BookCategory" Multiplicity="0..1">
@@ -70,11 +84,27 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
+        <Association Name="FK_IdentityCard_Person">
+          <End Role="Person" Type="Self.Person" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="IdentityCard" Type="Self.IdentityCard" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Person">
+              <PropertyRef Name="PersonId" />
+            </Principal>
+            <Dependent Role="IdentityCard">
+              <PropertyRef Name="IdentityCardId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
         <EntityContainer Name="MyDBModelStoreContainer">
           <EntitySet Name="Book" EntityType="Self.Book" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="BookCategory" EntityType="Self.BookCategory" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="BookReview" EntityType="Self.BookReview" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="IdentityCard" EntityType="Self.IdentityCard" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="OrderClient" EntityType="Self.OrderClient" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Person" EntityType="Self.Person" Schema="dbo" store:Type="Tables" />
           <AssociationSet Name="FK_Book_BookCategory" Association="Self.FK_Book_BookCategory">
             <End Role="BookCategory" EntitySet="BookCategory" />
             <End Role="Book" EntitySet="Book" />
@@ -83,9 +113,12 @@
             <End Role="Book" EntitySet="Book" />
             <End Role="BookReview" EntitySet="BookReview" />
           </AssociationSet>
+          <AssociationSet Name="FK_IdentityCard_Person" Association="Self.FK_IdentityCard_Person">
+            <End Role="Person" EntitySet="Person" />
+            <End Role="IdentityCard" EntitySet="IdentityCard" />
+          </AssociationSet>
         </EntityContainer>
-      </Schema>
-    </edmx:StorageModels>
+      </Schema></edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
       <Schema Namespace="MyDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
@@ -171,7 +204,43 @@
             <End Role="Book" EntitySet="Books" />
             <End Role="BookReview" EntitySet="BookReviews" />
           </AssociationSet>
+          <EntitySet Name="IdentityCards" EntityType="MyDBModel.IdentityCard" />
+          <EntitySet Name="People" EntityType="MyDBModel.Person" />
+          <AssociationSet Name="FK_IdentityCard_Person" Association="MyDBModel.FK_IdentityCard_Person">
+            <End Role="Person" EntitySet="People" />
+            <End Role="IdentityCard" EntitySet="IdentityCards" />
+          </AssociationSet>
         </EntityContainer>
+        <EntityType Name="IdentityCard">
+          <Key>
+            <PropertyRef Name="IdentityCardId" />
+          </Key>
+          <Property Name="IdentityCardId" Type="Int32" Nullable="false" />
+          <Property Name="IDNumber" Type="String" Nullable="false" MaxLength="18" FixedLength="true" Unicode="true" />
+          <NavigationProperty Name="Person" Relationship="MyDBModel.FK_IdentityCard_Person" FromRole="IdentityCard" ToRole="Person" />
+        </EntityType>
+        <EntityType Name="Person">
+          <Key>
+            <PropertyRef Name="PersonId" />
+          </Key>
+          <Property Name="PersonId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="IdentityCard" Relationship="MyDBModel.FK_IdentityCard_Person" FromRole="Person" ToRole="IdentityCard" />
+        </EntityType>
+        <Association Name="FK_IdentityCard_Person">
+          <End Type="MyDBModel.Person" Role="Person" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="MyDBModel.IdentityCard" Role="IdentityCard" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Person">
+              <PropertyRef Name="PersonId" />
+            </Principal>
+            <Dependent Role="IdentityCard">
+              <PropertyRef Name="IdentityCardId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
       </Schema>
     </edmx:ConceptualModels>
     <!-- C-S mapping content -->
@@ -216,6 +285,22 @@
                 <ScalarProperty Name="PostCode" ColumnName="PostCode" />
                 <ScalarProperty Name="Telephone" ColumnName="Telephone" />
                 <ScalarProperty Name="Email" ColumnName="Email" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="IdentityCards">
+            <EntityTypeMapping TypeName="MyDBModel.IdentityCard">
+              <MappingFragment StoreEntitySet="IdentityCard">
+                <ScalarProperty Name="IDNumber" ColumnName="IDNumber" />
+                <ScalarProperty Name="IdentityCardId" ColumnName="IdentityCardId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="People">
+            <EntityTypeMapping TypeName="MyDBModel.Person">
+              <MappingFragment StoreEntitySet="Person">
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="PersonId" ColumnName="PersonId" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>

@@ -36,11 +36,9 @@ namespace OneToOne
                     {
                         Console.WriteLine("姓名：{0} 身份证号：无可用信息",
                                          person.Name);
-
                     }
                 }
             }
-
         }
         static void FetchFirstPersonUseInclude()
         {
@@ -61,7 +59,6 @@ namespace OneToOne
                     {
                         Console.WriteLine("姓名：{0} 身份证号：无可用信息",
                                          person.Name);
-
                     }
                 }
             }

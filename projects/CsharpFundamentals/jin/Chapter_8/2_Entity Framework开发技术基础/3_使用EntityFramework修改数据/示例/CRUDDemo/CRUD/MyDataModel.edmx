@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="MyDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Book">
+          <Key>
+            <PropertyRef Name="BookId" />
+          </Key>
+          <Property Name="BookId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="BookName" Type="nvarchar" MaxLength="255" Nullable="false" />
+        </EntityType>
+        <EntityType Name="BookReview">
+          <Key>
+            <PropertyRef Name="BookReviewId" />
+          </Key>
+          <Property Name="BookReviewId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Review" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="BookId" Type="int" Nullable="false" />
+          <Property Name="ReaderName" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="IdentityCard">
+          <Key>
+            <PropertyRef Name="IdentityCardId" />
+          </Key>
+          <Property Name="IdentityCardId" Type="int" Nullable="false" />
+          <Property Name="IDNumber" Type="nchar" MaxLength="18" Nullable="false" />
+        </EntityType>
+        <EntityType Name="MyClass">
+          <Key>
+            <PropertyRef Name="MyClassID" />
+          </Key>
+          <Property Name="MyClassID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="MyClassContainerID" Type="int" Nullable="false" />
+          <Property Name="Information" Type="nvarchar" MaxLength="255" />
+        </EntityType>
+        <EntityType Name="MyClassChild">
+          <Key>
+            <PropertyRef Name="MyClassChildID" />
+          </Key>
+          <Property Name="MyClassChildID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="MyClassID" Type="int" Nullable="false" />
+          <Property Name="Informatin" Type="nvarchar" MaxLength="255" />
+        </EntityType>
+        <EntityType Name="MyClassContainer">
+          <Key>
+            <PropertyRef Name="MyClassContainerID" />
+          </Key>
+          <Property Name="MyClassContainerID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Information" Type="nvarchar" MaxLength="255" />
+        </EntityType>
+        <EntityType Name="OrderClient">
+          <Key>
+            <PropertyRef Name="ClientID" />
+          </Key>
+          <Property Name="ClientID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ClientName" Type="nvarchar" MaxLength="20" Nullable="false" />
+          <Property Name="Address" Type="nvarchar" MaxLength="80" />
+          <Property Name="PostCode" Type="nvarchar" MaxLength="6" />
+          <Property Name="Telephone" Type="nvarchar" MaxLength="100" />
+          <Property Name="Email" Type="nvarchar" MaxLength="100" />
+        </EntityType>
+        <EntityType Name="Person">
+          <Key>
+            <PropertyRef Name="PersonId" />
+          </Key>
+          <Property Name="PersonId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Role">
+          <Key>
+            <PropertyRef Name="RoleId" />
+          </Key>
+          <Property Name="RoleId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="RoleName" Type="nvarchar" MaxLength="255" Nullable="false" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="UserId" />
+          </Key>
+          <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="UserName" Type="nvarchar" MaxLength="255" Nullable="false" />
+        </EntityType>
+        <EntityType Name="UserInRole">
+          <Key>
+            <PropertyRef Name="UserId" />
+            <PropertyRef Name="RoleId" />
+          </Key>
+          <Property Name="UserId" Type="int" Nullable="false" />
+          <Property Name="RoleId" Type="int" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_BookReview_Book">
+          <End Role="Book" Type="Self.Book" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="BookReview" Type="Self.BookReview" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Book">
+              <PropertyRef Name="BookId" />
+            </Principal>
+            <Dependent Role="BookReview">
+              <PropertyRef Name="BookId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_IdentityCard_Person">
+          <End Role="Person" Type="Self.Person" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="IdentityCard" Type="Self.IdentityCard" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Person">
+              <PropertyRef Name="PersonId" />
+            </Principal>
+            <Dependent Role="IdentityCard">
+              <PropertyRef Name="IdentityCardId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_MyClass_MyClassContainer">
+          <End Role="MyClassContainer" Type="Self.MyClassContainer" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="MyClass" Type="Self.MyClass" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="MyClassContainer">
+              <PropertyRef Name="MyClassContainerID" />
+            </Principal>
+            <Dependent Role="MyClass">
+              <PropertyRef Name="MyClassContainerID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_MyClassChild_MyClass">
+          <End Role="MyClass" Type="Self.MyClass" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="MyClassChild" Type="Self.MyClassChild" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="MyClass">
+              <PropertyRef Name="MyClassID" />
+            </Principal>
+            <Dependent Role="MyClassChild">
+              <PropertyRef Name="MyClassID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UserInRole_Role">
+          <End Role="Role" Type="Self.Role" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="UserInRole" Type="Self.UserInRole" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Role">
+              <PropertyRef Name="RoleId" />
+            </Principal>
+            <Dependent Role="UserInRole">
+              <PropertyRef Name="RoleId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UserInRole_User">
+          <End Role="User" Type="Self.User" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="UserInRole" Type="Self.UserInRole" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="UserId" />
+            </Principal>
+            <Dependent Role="UserInRole">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="MyDBModelStoreContainer">
+          <EntitySet Name="Book" EntityType="Self.Book" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="BookReview" EntityType="Self.BookReview" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="IdentityCard" EntityType="Self.IdentityCard" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="MyClass" EntityType="Self.MyClass" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="MyClassChild" EntityType="Self.MyClassChild" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="MyClassContainer" EntityType="Self.MyClassContainer" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="OrderClient" EntityType="Self.OrderClient" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Person" EntityType="Self.Person" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Role" EntityType="Self.Role" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="UserInRole" EntityType="Self.UserInRole" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_BookReview_Book" Association="Self.FK_BookReview_Book">
+            <End Role="Book" EntitySet="Book" />
+            <End Role="BookReview" EntitySet="BookReview" />
+          </AssociationSet>
+          <AssociationSet Name="FK_IdentityCard_Person" Association="Self.FK_IdentityCard_Person">
+            <End Role="Person" EntitySet="Person" />
+            <End Role="IdentityCard" EntitySet="IdentityCard" />
+          </AssociationSet>
+          <AssociationSet Name="FK_MyClass_MyClassContainer" Association="Self.FK_MyClass_MyClassContainer">
+            <End Role="MyClassContainer" EntitySet="MyClassContainer" />
+            <End Role="MyClass" EntitySet="MyClass" />
+          </AssociationSet>
+          <AssociationSet Name="FK_MyClassChild_MyClass" Association="Self.FK_MyClassChild_MyClass">
+            <End Role="MyClass" EntitySet="MyClass" />
+            <End Role="MyClassChild" EntitySet="MyClassChild" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UserInRole_Role" Association="Self.FK_UserInRole_Role">
+            <End Role="Role" EntitySet="Role" />
+            <End Role="UserInRole" EntitySet="UserInRole" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UserInRole_User" Association="Self.FK_UserInRole_User">
+            <End Role="User" EntitySet="User" />
+            <End Role="UserInRole" EntitySet="UserInRole" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="MyDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="MyDBContext" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Books" EntityType="MyDBModel.Book" />
+          <EntitySet Name="BookReviews" EntityType="MyDBModel.BookReview" />
+          <AssociationSet Name="FK_BookReview_Book" Association="MyDBModel.FK_BookReview_Book">
+            <End Role="Book" EntitySet="Books" />
+            <End Role="BookReview" EntitySet="BookReviews" />
+          </AssociationSet>
+          <EntitySet Name="OrderClients" EntityType="MyDBModel.OrderClient" />
+          <EntitySet Name="IdentityCards" EntityType="MyDBModel.IdentityCard" />
+          <EntitySet Name="People" EntityType="MyDBModel.Person" />
+          <AssociationSet Name="FK_IdentityCard_Person" Association="MyDBModel.FK_IdentityCard_Person">
+            <End Role="Person" EntitySet="People" />
+            <End Role="IdentityCard" EntitySet="IdentityCards" />
+          </AssociationSet>
+          <EntitySet Name="Roles" EntityType="MyDBModel.Role" />
+          <EntitySet Name="Users" EntityType="MyDBModel.User" />
+          <AssociationSet Name="UserInRole" Association="MyDBModel.UserInRole">
+            <End Role="Role" EntitySet="Roles" />
+            <End Role="User" EntitySet="Users" />
+          </AssociationSet>
+          <EntitySet Name="MyClasses" EntityType="MyDBModel.MyClass" />
+          <EntitySet Name="MyClassChilds" EntityType="MyDBModel.MyClassChild" />
+          <EntitySet Name="MyClassContainers" EntityType="MyDBModel.MyClassContainer" />
+          <AssociationSet Name="FK_MyClass_MyClassContainer" Association="MyDBModel.FK_MyClass_MyClassContainer">
+            <End Role="MyClassContainer" EntitySet="MyClassContainers" />
+            <End Role="MyClass" EntitySet="MyClasses" />
+          </AssociationSet>
+          <AssociationSet Name="FK_MyClassChild_MyClass" Association="MyDBModel.FK_MyClassChild_MyClass">
+            <End Role="MyClass" EntitySet="MyClasses" />
+            <End Role="MyClassChild" EntitySet="MyClassChilds" />
+          </AssociationSet>
+          </EntityContainer>
+        <EntityType Name="Book">
+          <Key>
+            <PropertyRef Name="BookId" />
+          </Key>
+          <Property Name="BookId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="BookName" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="BookReviews" Relationship="MyDBModel.FK_BookReview_Book" FromRole="Book" ToRole="BookReview" />
+        </EntityType>
+        <EntityType Name="BookReview">
+          <Key>
+            <PropertyRef Name="BookReviewId" />
+          </Key>
+          <Property Name="BookReviewId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Review" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="BookId" Type="Int32" Nullable="false" />
+          <Property Name="ReaderName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Book" Relationship="MyDBModel.FK_BookReview_Book" FromRole="BookReview" ToRole="Book" />
+        </EntityType>
+        <Association Name="FK_BookReview_Book">
+          <End Type="MyDBModel.Book" Role="Book" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="MyDBModel.BookReview" Role="BookReview" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Book">
+              <PropertyRef Name="BookId" />
+            </Principal>
+            <Dependent Role="BookReview">
+              <PropertyRef Name="BookId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="OrderClient">
+          <Key>
+            <PropertyRef Name="ClientID" />
+          </Key>
+          <Property Name="ClientID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ClientName" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="Address" Type="String" MaxLength="80" FixedLength="false" Unicode="true" />
+          <Property Name="PostCode" Type="String" MaxLength="6" FixedLength="false" Unicode="true" />
+          <Property Name="Telephone" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="IdentityCard">
+          <Key>
+            <PropertyRef Name="IdentityCardId" />
+          </Key>
+          <Property Name="IdentityCardId" Type="Int32" Nullable="false" />
+          <Property Name="IDNumber" Type="String" Nullable="false" MaxLength="18" FixedLength="true" Unicode="true" />
+          <NavigationProperty Name="Person" Relationship="MyDBModel.FK_IdentityCard_Person" FromRole="IdentityCard" ToRole="Person" />
+        </EntityType>
+        <EntityType Name="Person">
+          <Key>
+            <PropertyRef Name="PersonId" />
+          </Key>
+          <Property Name="PersonId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="IdentityCard" Relationship="MyDBModel.FK_IdentityCard_Person" FromRole="Person" ToRole="IdentityCard" />
+        </EntityType>
+        <Association Name="FK_IdentityCard_Person">
+          <End Type="MyDBModel.Person" Role="Person" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="MyDBModel.IdentityCard" Role="IdentityCard" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Person">
+              <PropertyRef Name="PersonId" />
+            </Principal>
+            <Dependent Role="IdentityCard">
+              <PropertyRef Name="IdentityCardId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Role">
+          <Key>
+            <PropertyRef Name="RoleId" />
+          </Key>
+          <Property Name="RoleId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="RoleName" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Users" Relationship="MyDBModel.UserInRole" FromRole="Role" ToRole="User" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="UserId" />
+          </Key>
+          <Property Name="UserId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="UserName" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Roles" Relationship="MyDBModel.UserInRole" FromRole="User" ToRole="Role" />
+        </EntityType>
+        <Association Name="UserInRole">
+          <End Type="MyDBModel.Role" Role="Role" Multiplicity="*" />
+          <End Type="MyDBModel.User" Role="User" Multiplicity="*" />
+        </Association>
+        <EntityType Name="MyClass">
+          <Key>
+            <PropertyRef Name="MyClassID" />
+          </Key>
+          <Property Name="MyClassID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="MyClassContainerID" Type="Int32" Nullable="false" />
+          <Property Name="Information" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="MyClassContainer" Relationship="MyDBModel.FK_MyClass_MyClassContainer" FromRole="MyClass" ToRole="MyClassContainer" />
+          <NavigationProperty Name="MyClassChilds" Relationship="MyDBModel.FK_MyClassChild_MyClass" FromRole="MyClass" ToRole="MyClassChild" />
+        </EntityType>
+        <EntityType Name="MyClassChild">
+          <Key>
+            <PropertyRef Name="MyClassChildID" />
+          </Key>
+          <Property Name="MyClassChildID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="MyClassID" Type="Int32" Nullable="false" />
+          <Property Name="Informatin" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="MyClass" Relationship="MyDBModel.FK_MyClassChild_MyClass" FromRole="MyClassChild" ToRole="MyClass" />
+        </EntityType>
+        <EntityType Name="MyClassContainer">
+          <Key>
+            <PropertyRef Name="MyClassContainerID" />
+          </Key>
+          <Property Name="MyClassContainerID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Information" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="MyClasses" Relationship="MyDBModel.FK_MyClass_MyClassContainer" FromRole="MyClassContainer" ToRole="MyClass" />
+        </EntityType>
+        <Association Name="FK_MyClass_MyClassContainer">
+          <End Type="MyDBModel.MyClassContainer" Role="MyClassContainer" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="MyDBModel.MyClass" Role="MyClass" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="MyClassContainer">
+              <PropertyRef Name="MyClassContainerID" />
+            </Principal>
+            <Dependent Role="MyClass">
+              <PropertyRef Name="MyClassContainerID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_MyClassChild_MyClass">
+          <End Type="MyDBModel.MyClass" Role="MyClass" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="MyDBModel.MyClassChild" Role="MyClassChild" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="MyClass">
+              <PropertyRef Name="MyClassID" />
+            </Principal>
+            <Dependent Role="MyClassChild">
+              <PropertyRef Name="MyClassID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="MyDBModelStoreContainer" CdmEntityContainer="MyDBContext">
+          <EntitySetMapping Name="Books">
+            <EntityTypeMapping TypeName="MyDBModel.Book">
+              <MappingFragment StoreEntitySet="Book">
+                <ScalarProperty Name="BookName" ColumnName="BookName" />
+                <ScalarProperty Name="BookId" ColumnName="BookId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="BookReviews">
+            <EntityTypeMapping TypeName="MyDBModel.BookReview">
+              <MappingFragment StoreEntitySet="BookReview">
+                <ScalarProperty Name="ReaderName" ColumnName="ReaderName" />
+                <ScalarProperty Name="BookId" ColumnName="BookId" />
+                <ScalarProperty Name="Review" ColumnName="Review" />
+                <ScalarProperty Name="BookReviewId" ColumnName="BookReviewId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="OrderClients">
+            <EntityTypeMapping TypeName="MyDBModel.OrderClient">
+              <MappingFragment StoreEntitySet="OrderClient">
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Telephone" ColumnName="Telephone" />
+                <ScalarProperty Name="PostCode" ColumnName="PostCode" />
+                <ScalarProperty Name="Address" ColumnName="Address" />
+                <ScalarProperty Name="ClientName" ColumnName="ClientName" />
+                <ScalarProperty Name="ClientID" ColumnName="ClientID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="IdentityCards">
+            <EntityTypeMapping TypeName="MyDBModel.IdentityCard">
+              <MappingFragment StoreEntitySet="IdentityCard">
+                <ScalarProperty Name="IDNumber" ColumnName="IDNumber" />
+                <ScalarProperty Name="IdentityCardId" ColumnName="IdentityCardId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="People">
+            <EntityTypeMapping TypeName="MyDBModel.Person">
+              <MappingFragment StoreEntitySet="Person">
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="PersonId" ColumnName="PersonId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Roles">
+            <EntityTypeMapping TypeName="MyDBModel.Role">
+              <MappingFragment StoreEntitySet="Role">
+                <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+                <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Users">
+            <EntityTypeMapping TypeName="MyDBModel.User">
+              <MappingFragment StoreEntitySet="User">
+                <ScalarProperty Name="UserName" ColumnName="UserName" />
+                <ScalarProperty Name="UserId" ColumnName="UserId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <AssociationSetMapping Name="UserInRole" TypeName="MyDBModel.UserInRole" StoreEntitySet="UserInRole">
+            <EndProperty Name="User">
+              <ScalarProperty Name="UserId" ColumnName="UserId" />
+            </EndProperty>
+            <EndProperty Name="Role">
+              <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+            </EndProperty>
+          </AssociationSetMapping>
+          <EntitySetMapping Name="MyClasses">
+            <EntityTypeMapping TypeName="MyDBModel.MyClass">
+              <MappingFragment StoreEntitySet="MyClass">
+                <ScalarProperty Name="Information" ColumnName="Information" />
+                <ScalarProperty Name="MyClassContainerID" ColumnName="MyClassContainerID" />
+                <ScalarProperty Name="MyClassID" ColumnName="MyClassID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="MyClassChilds">
+            <EntityTypeMapping TypeName="MyDBModel.MyClassChild">
+              <MappingFragment StoreEntitySet="MyClassChild">
+                <ScalarProperty Name="Informatin" ColumnName="Informatin" />
+                <ScalarProperty Name="MyClassID" ColumnName="MyClassID" />
+                <ScalarProperty Name="MyClassChildID" ColumnName="MyClassChildID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="MyClassContainers">
+            <EntityTypeMapping TypeName="MyDBModel.MyClassContainer">
+              <MappingFragment StoreEntitySet="MyClassContainer">
+                <ScalarProperty Name="Information" ColumnName="Information" />
+                <ScalarProperty Name="MyClassContainerID" ColumnName="MyClassContainerID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

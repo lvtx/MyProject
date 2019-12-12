@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="aeb46328b67f423da67f27675584b54a" Name="Diagram1" ZoomLevel="128">
+        <EntityTypeShape EntityType="MyDBModel.Book" Width="1.5" PointX="0.75" PointY="2.75" />
+        <EntityTypeShape EntityType="MyDBModel.BookReview" Width="1.5" PointX="3" PointY="2.75" />
+        <AssociationConnector Association="MyDBModel.FK_BookReview_Book" />
+        <EntityTypeShape EntityType="MyDBModel.OrderClient" Width="1.5" PointX="4.875" PointY="5.25" />
+        <EntityTypeShape EntityType="MyDBModel.IdentityCard" Width="1.5" PointX="3" PointY="5.25" />
+        <EntityTypeShape EntityType="MyDBModel.Person" Width="1.5" PointX="0.75" PointY="5.25" />
+        <AssociationConnector Association="MyDBModel.FK_IdentityCard_Person" />
+        <EntityTypeShape EntityType="MyDBModel.Role" Width="1.5" PointX="0.625" PointY="7.375" />
+        <EntityTypeShape EntityType="MyDBModel.User" Width="1.5" PointX="2.875" PointY="7.375" />
+        <AssociationConnector Association="MyDBModel.UserInRole" />
+        <EntityTypeShape EntityType="MyDBModel.MyClass" Width="2" PointX="3" PointY="9.375" />
+        <EntityTypeShape EntityType="MyDBModel.MyClassChild" Width="1.75" PointX="5.75" PointY="9.5" />
+        <EntityTypeShape EntityType="MyDBModel.MyClassContainer" Width="1.875" PointX="0.5" PointY="9.5" />
+        <AssociationConnector Association="MyDBModel.FK_MyClass_MyClassContainer" />
+        <AssociationConnector Association="MyDBModel.FK_MyClassChild_MyClass" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

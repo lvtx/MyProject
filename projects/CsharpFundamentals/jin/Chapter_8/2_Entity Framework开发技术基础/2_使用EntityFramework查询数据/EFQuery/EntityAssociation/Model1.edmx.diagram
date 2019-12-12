@@ -8,9 +8,12 @@
         <EntityTypeShape EntityType="MyDBModel.Book" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
         <EntityTypeShape EntityType="MyDBModel.BookCategory" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
         <EntityTypeShape EntityType="MyDBModel.BookReview" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
-        <EntityTypeShape EntityType="MyDBModel.OrderClient" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.OrderClient" Width="1.5" PointX="8.25" PointY="2" IsExpanded="true" />
         <AssociationConnector Association="MyDBModel.FK_Book_BookCategory" ManuallyRouted="false" />
         <AssociationConnector Association="MyDBModel.FK_BookReview_Book" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="MyDBModel.IdentityCard" Width="1.5" PointX="3" PointY="4.875" />
+        <EntityTypeShape EntityType="MyDBModel.Person" Width="1.5" PointX="0.75" PointY="4.875" />
+        <AssociationConnector Association="MyDBModel.FK_IdentityCard_Person" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

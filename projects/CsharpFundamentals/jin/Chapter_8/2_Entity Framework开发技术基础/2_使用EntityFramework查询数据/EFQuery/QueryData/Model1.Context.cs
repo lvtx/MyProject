@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace EntityAssociation
+namespace QueryData
 {
     using System;
     using System.Data.Entity;
@@ -25,11 +25,6 @@ namespace EntityAssociation
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<Book> Books { get; set; }
-        public virtual DbSet<BookCategory> BookCategories { get; set; }
-        public virtual DbSet<BookReview> BookReviews { get; set; }
         public virtual DbSet<OrderClient> OrderClients { get; set; }
-        public virtual DbSet<IdentityCard> IdentityCards { get; set; }
-        public virtual DbSet<Person> People { get; set; }
     }
 }

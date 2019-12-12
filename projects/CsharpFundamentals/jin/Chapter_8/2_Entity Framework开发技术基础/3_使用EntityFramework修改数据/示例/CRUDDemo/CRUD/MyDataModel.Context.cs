@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace EntityAssociation
+namespace CRUD
 {
     using System;
     using System.Data.Entity;
@@ -26,10 +26,14 @@ namespace EntityAssociation
         }
     
         public virtual DbSet<Book> Books { get; set; }
-        public virtual DbSet<BookCategory> BookCategories { get; set; }
         public virtual DbSet<BookReview> BookReviews { get; set; }
         public virtual DbSet<OrderClient> OrderClients { get; set; }
         public virtual DbSet<IdentityCard> IdentityCards { get; set; }
         public virtual DbSet<Person> People { get; set; }
+        public virtual DbSet<Role> Roles { get; set; }
+        public virtual DbSet<User> Users { get; set; }
+        public virtual DbSet<MyClass> MyClasses { get; set; }
+        public virtual DbSet<MyClassChild> MyClassChilds { get; set; }
+        public virtual DbSet<MyClassContainer> MyClassContainers { get; set; }
     }
 }
