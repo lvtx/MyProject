@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="AddTwoNumber2.frmAdd">
+    <Position X="2.75" Y="1" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAIAAAAQECAAAAkAAACAAAACAAAAgAAAgAAAAAAAAAI=</HashCode>
+      <FileName>frmAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Calibri" Size="10" />
+</ClassDiagram>

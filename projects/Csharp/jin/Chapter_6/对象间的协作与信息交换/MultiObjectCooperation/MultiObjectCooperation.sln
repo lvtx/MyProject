@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_MultiObjectCooperation", "MultiObjectCooperation\1_MultiObjectCooperation.csproj", "{043ACD34-E622-489B-94B4-35E3E5EEDDD2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_OneToMany", "1_OneToMany", "{5A170EC7-59E2-4105-97B9-1A9A071DDE02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_UseDelegate", "UseDelegate\2_UseDelegate.csproj", "{79046730-3E2D-4759-9BC3-61E6DEBD4FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_UseEvent", "UseEvent\3_UseEvent.csproj", "{F196A60E-42AC-48E5-AB25-215E05D3921D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2_ManyToOne", "2_ManyToOne", "{DCCC2AD6-7D48-4817-9843-9CDF38F14101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_ButtonCounterForMultiFormUseReference", "ButtonCounterForMultiFormUseReference\4_ButtonCounterForMultiFormUseReference.csproj", "{ADB54A9D-41A5-4DB7-A773-D43EAE09F9E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_ButtonCounterForMultiFormUseDelegate", "ButtonCounterForMultiFormUseDelegate\5_ButtonCounterForMultiFormUseDelegate.csproj", "{0D4F6D6A-0ABB-4633-83C5-29782641196D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_ButtonCounterForMultiFormUseEvent", "ButtonCounterForMultiFormUseEvent\6_ButtonCounterForMultiFormUseEvent.csproj", "{4B9E8C96-46C6-4FFD-ADB1-4025B373DF2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpandExercise", "ExpandExercise\ExpandExercise.csproj", "{DE481C36-39D8-442F-B368-D1A58EDFFE84}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3_Exercise", "3_Exercise", "{90818C55-E075-4DC6-A5D5-95B8DA12F0DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiveInfoFromCenter", "ReceiveInfoFromCenter\ReceiveInfoFromCenter.csproj", "{B592FFFB-B8DD-4E87-9FB3-8C7E5A67C899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{043ACD34-E622-489B-94B4-35E3E5EEDDD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043ACD34-E622-489B-94B4-35E3E5EEDDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043ACD34-E622-489B-94B4-35E3E5EEDDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043ACD34-E622-489B-94B4-35E3E5EEDDD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79046730-3E2D-4759-9BC3-61E6DEBD4FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79046730-3E2D-4759-9BC3-61E6DEBD4FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79046730-3E2D-4759-9BC3-61E6DEBD4FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79046730-3E2D-4759-9BC3-61E6DEBD4FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F196A60E-42AC-48E5-AB25-215E05D3921D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F196A60E-42AC-48E5-AB25-215E05D3921D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F196A60E-42AC-48E5-AB25-215E05D3921D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F196A60E-42AC-48E5-AB25-215E05D3921D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB54A9D-41A5-4DB7-A773-D43EAE09F9E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB54A9D-41A5-4DB7-A773-D43EAE09F9E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB54A9D-41A5-4DB7-A773-D43EAE09F9E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB54A9D-41A5-4DB7-A773-D43EAE09F9E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D4F6D6A-0ABB-4633-83C5-29782641196D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4F6D6A-0ABB-4633-83C5-29782641196D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4F6D6A-0ABB-4633-83C5-29782641196D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4F6D6A-0ABB-4633-83C5-29782641196D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B9E8C96-46C6-4FFD-ADB1-4025B373DF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9E8C96-46C6-4FFD-ADB1-4025B373DF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9E8C96-46C6-4FFD-ADB1-4025B373DF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9E8C96-46C6-4FFD-ADB1-4025B373DF2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE481C36-39D8-442F-B368-D1A58EDFFE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE481C36-39D8-442F-B368-D1A58EDFFE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE481C36-39D8-442F-B368-D1A58EDFFE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE481C36-39D8-442F-B368-D1A58EDFFE84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B592FFFB-B8DD-4E87-9FB3-8C7E5A67C899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B592FFFB-B8DD-4E87-9FB3-8C7E5A67C899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B592FFFB-B8DD-4E87-9FB3-8C7E5A67C899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B592FFFB-B8DD-4E87-9FB3-8C7E5A67C899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{043ACD34-E622-489B-94B4-35E3E5EEDDD2} = {5A170EC7-59E2-4105-97B9-1A9A071DDE02}
+		{79046730-3E2D-4759-9BC3-61E6DEBD4FA2} = {5A170EC7-59E2-4105-97B9-1A9A071DDE02}
+		{F196A60E-42AC-48E5-AB25-215E05D3921D} = {5A170EC7-59E2-4105-97B9-1A9A071DDE02}
+		{ADB54A9D-41A5-4DB7-A773-D43EAE09F9E1} = {DCCC2AD6-7D48-4817-9843-9CDF38F14101}
+		{0D4F6D6A-0ABB-4633-83C5-29782641196D} = {DCCC2AD6-7D48-4817-9843-9CDF38F14101}
+		{4B9E8C96-46C6-4FFD-ADB1-4025B373DF2D} = {DCCC2AD6-7D48-4817-9843-9CDF38F14101}
+		{DE481C36-39D8-442F-B368-D1A58EDFFE84} = {90818C55-E075-4DC6-A5D5-95B8DA12F0DC}
+		{B592FFFB-B8DD-4E87-9FB3-8C7E5A67C899} = {90818C55-E075-4DC6-A5D5-95B8DA12F0DC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0673D87-A27A-4FFD-B073-C98B72BD13CC}
+	EndGlobalSection
+EndGlobal

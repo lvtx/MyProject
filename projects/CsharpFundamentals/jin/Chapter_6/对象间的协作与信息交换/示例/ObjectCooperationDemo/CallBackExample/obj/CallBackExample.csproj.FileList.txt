@@ -1,5 +1,0 @@
-obj\Debug\ResolveAssemblyReference.cache
-bin\Debug\CallBackExample.exe
-bin\Debug\CallBackExample.pdb
-obj\Debug\CallBackExample.exe
-obj\Debug\CallBackExample.pdb

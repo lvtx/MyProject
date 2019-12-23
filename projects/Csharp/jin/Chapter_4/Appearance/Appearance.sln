@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLabel", "MyLabel\MyLabel.csproj", "{3A61094D-760D-4FF0-BECC-BDAFA1198C57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTextBox", "MyTextBox\MyTextBox.csproj", "{61E7F517-F6C2-44DC-AD58-10B3CB761800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLinkLabel", "MyLinkLabel\MyLinkLabel.csproj", "{AE3BD557-0832-43C6-98B5-5ED7DC1F64E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise", "Exercise\Exercise.csproj", "{E7F86E05-3C0E-4901-84E0-1ECEB69384DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressBarAndTimer", "ProgressBarAndTimer\ProgressBarAndTimer.csproj", "{35453542-DF2F-47A6-B1F0-3BDBBE7EAFC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormCtrlProperties", "FormCtrlProperties\FormCtrlProperties.csproj", "{5B8AC27A-FDB7-47B1-BE6E-5C54EDAE95CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A61094D-760D-4FF0-BECC-BDAFA1198C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A61094D-760D-4FF0-BECC-BDAFA1198C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A61094D-760D-4FF0-BECC-BDAFA1198C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A61094D-760D-4FF0-BECC-BDAFA1198C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E7F517-F6C2-44DC-AD58-10B3CB761800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E7F517-F6C2-44DC-AD58-10B3CB761800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E7F517-F6C2-44DC-AD58-10B3CB761800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E7F517-F6C2-44DC-AD58-10B3CB761800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE3BD557-0832-43C6-98B5-5ED7DC1F64E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3BD557-0832-43C6-98B5-5ED7DC1F64E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3BD557-0832-43C6-98B5-5ED7DC1F64E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3BD557-0832-43C6-98B5-5ED7DC1F64E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7F86E05-3C0E-4901-84E0-1ECEB69384DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F86E05-3C0E-4901-84E0-1ECEB69384DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F86E05-3C0E-4901-84E0-1ECEB69384DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F86E05-3C0E-4901-84E0-1ECEB69384DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35453542-DF2F-47A6-B1F0-3BDBBE7EAFC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35453542-DF2F-47A6-B1F0-3BDBBE7EAFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35453542-DF2F-47A6-B1F0-3BDBBE7EAFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35453542-DF2F-47A6-B1F0-3BDBBE7EAFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B8AC27A-FDB7-47B1-BE6E-5C54EDAE95CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8AC27A-FDB7-47B1-BE6E-5C54EDAE95CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8AC27A-FDB7-47B1-BE6E-5C54EDAE95CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8AC27A-FDB7-47B1-BE6E-5C54EDAE95CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADF4D462-172F-4B51-90C9-7D4ACC532F11}
+	EndGlobalSection
+EndGlobal

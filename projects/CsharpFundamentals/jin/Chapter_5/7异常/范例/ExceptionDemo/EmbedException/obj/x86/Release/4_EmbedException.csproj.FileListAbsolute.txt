@@ -1,2 +1,0 @@
-E:\ExceptionDemo\EmbedException\obj\x86\Release\EmbedException.exe
-E:\ExceptionDemo\EmbedException\obj\x86\Release\EmbedException.pdb

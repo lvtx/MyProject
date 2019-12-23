@@ -1,3 +1,0 @@
-F:\InheritDemos\Inherits\bin\Debug\Inherits.exe.config
-F:\InheritDemos\Inherits\obj\Debug\Inherits.exe
-F:\InheritDemos\Inherits\obj\Debug\Inherits.pdb

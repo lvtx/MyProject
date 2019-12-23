@@ -1,5 +1,0 @@
-obj\Debug\ResolveAssemblyReference.cache
-bin\Debug\UseTimerCallback.exe
-bin\Debug\UseTimerCallback.pdb
-obj\Debug\UseTimerCallback.exe
-obj\Debug\UseTimerCallback.pdb

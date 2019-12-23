@@ -1,5 +1,0 @@
-obj\Debug\ResolveAssemblyReference.cache
-bin\Debug\UseMultiDelegateExample.exe
-bin\Debug\UseMultiDelegateExample.pdb
-obj\Debug\UseMultiDelegateExample.exe
-obj\Debug\UseMultiDelegateExample.pdb

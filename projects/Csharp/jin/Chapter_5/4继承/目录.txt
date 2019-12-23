@@ -1,0 +1,6 @@
+1.访问继承的成员
+ParentAndChildClass.cs
+2.重载与重写
+OverloadAndOverride
+3.子类隐藏父类的字段、属性
+使用基类表达式访问Parent的字段 base.fields
