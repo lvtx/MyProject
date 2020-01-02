@@ -34,7 +34,7 @@ namespace EntityAssociationTest.SingleEntity
             Console.WriteLine("CurrentValue:{0}\nOriginalValue:{1}\nDatabaseValue:{2}",
                 entry.CurrentValues[PropertyName],
                 entry.OriginalValues[PropertyName],
-                entry.GetDatabaseValues()[PropertyName]);
+                entry.GetDatabaseValues()[PropertyName]);           
         }
     }
 }
