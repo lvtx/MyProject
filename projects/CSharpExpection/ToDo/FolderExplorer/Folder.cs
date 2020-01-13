@@ -12,7 +12,7 @@ namespace FolderExplorer
     {
         public Folder()
         {
-            this.FullPath = "d:\\";
+            this.FullPath = "c:\\";
         }
         private DirectoryInfo folder { get; set; }
         private ObservableCollection<Folder> subFolders { get; set; }
@@ -69,7 +69,6 @@ namespace FolderExplorer
                     catch (Exception ex)
                     {
                         System.Diagnostics.Trace.WriteLine(ex.Message);
-
                     }
                 }
                 return this.subFolders;
@@ -77,3 +76,4 @@ namespace FolderExplorer
         }
     }
 }
+

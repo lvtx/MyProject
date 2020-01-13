@@ -77,5 +77,15 @@
   <ItemGroup>
     <Resource Include="Images\happyface.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Page Include="ColorsResources.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="TreeViewTemplateResources.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
