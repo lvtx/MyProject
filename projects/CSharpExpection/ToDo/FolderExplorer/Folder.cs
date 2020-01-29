@@ -16,7 +16,7 @@ namespace FolderExplorer
         }
         private DirectoryInfo folder { get; set; }
         private ObservableCollection<Folder> subFolders { get; set; }
-        public ObservableCollection<FileInfo> files { get; set; }
+        private ObservableCollection<FileInfo> files { get; set; }
         public string Name { get { return this.folder.Name; } }
         public string FullPath
         {

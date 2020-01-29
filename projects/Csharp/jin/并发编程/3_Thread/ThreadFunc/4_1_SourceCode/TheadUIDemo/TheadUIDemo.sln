@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitVisualControl1", "VisitVisualControl1\VisitVisualControl1.csproj", "{CCDADFF5-BBAF-459B-B004-75A8770EBD1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitVisualControl2", "VisitVisualControl2\VisitVisualControl2.csproj", "{F7B7FBA7-CE33-4A7A-AE66-963742A0FE55}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6642801C-76E9-4F43-B859-906227D3041C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitVisualControl3", "VisitVisualControl3\VisitVisualControl3.csproj", "{448EF496-8AC9-4DD5-BA1A-0C76360206B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseBackgroundWorkerInWinForm", "UseBackgroundWorkerInWinForm\UseBackgroundWorkerInWinForm.csproj", "{5E58D4BF-5B13-40D0-ACDD-447C5CD80F17}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 VisitUIControl", "1 VisitUIControl", "{BB6C7DFC-7F83-4E79-B1F2-CE99CBB9CC30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFileSearcherForWinForm", "MyFileSearcherForWinForm\MyFileSearcherForWinForm.csproj", "{B661C35E-7BA8-4C6A-8908-27299F01531B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 BackgroundWorker", "2 BackgroundWorker", "{BB8CB0E6-48CE-47B0-A960-2C710B809493}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 MyFileSearcher", "3 MyFileSearcher", "{26A44A22-94A5-433A-A46C-7D0C21BB3CF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCDADFF5-BBAF-459B-B004-75A8770EBD1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDADFF5-BBAF-459B-B004-75A8770EBD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDADFF5-BBAF-459B-B004-75A8770EBD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDADFF5-BBAF-459B-B004-75A8770EBD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B7FBA7-CE33-4A7A-AE66-963742A0FE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B7FBA7-CE33-4A7A-AE66-963742A0FE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B7FBA7-CE33-4A7A-AE66-963742A0FE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B7FBA7-CE33-4A7A-AE66-963742A0FE55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{448EF496-8AC9-4DD5-BA1A-0C76360206B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448EF496-8AC9-4DD5-BA1A-0C76360206B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448EF496-8AC9-4DD5-BA1A-0C76360206B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448EF496-8AC9-4DD5-BA1A-0C76360206B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E58D4BF-5B13-40D0-ACDD-447C5CD80F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E58D4BF-5B13-40D0-ACDD-447C5CD80F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E58D4BF-5B13-40D0-ACDD-447C5CD80F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E58D4BF-5B13-40D0-ACDD-447C5CD80F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B661C35E-7BA8-4C6A-8908-27299F01531B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B661C35E-7BA8-4C6A-8908-27299F01531B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B661C35E-7BA8-4C6A-8908-27299F01531B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B661C35E-7BA8-4C6A-8908-27299F01531B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CCDADFF5-BBAF-459B-B004-75A8770EBD1A} = {BB6C7DFC-7F83-4E79-B1F2-CE99CBB9CC30}
+		{F7B7FBA7-CE33-4A7A-AE66-963742A0FE55} = {BB6C7DFC-7F83-4E79-B1F2-CE99CBB9CC30}
+		{448EF496-8AC9-4DD5-BA1A-0C76360206B4} = {BB6C7DFC-7F83-4E79-B1F2-CE99CBB9CC30}
+		{5E58D4BF-5B13-40D0-ACDD-447C5CD80F17} = {BB8CB0E6-48CE-47B0-A960-2C710B809493}
+		{B661C35E-7BA8-4C6A-8908-27299F01531B} = {26A44A22-94A5-433A-A46C-7D0C21BB3CF4}
+	EndGlobalSection
+EndGlobal

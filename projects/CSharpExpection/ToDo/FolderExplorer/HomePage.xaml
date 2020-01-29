@@ -86,11 +86,9 @@
         </StackPanel>
 
         <Border BorderThickness="1 0 0 0" BorderBrush="#DADBDC" Opacity="0.5" Margin="0 10 0 0" Grid.Row="2" Grid.Column="1"/>
-        <ListView Grid.Row="2">
-            <TreeView Name="tvFolder" MouseLeftButtonUp="tvFolder_MouseLeftButtonUp">
-                <TreeViewItem ItemsSource="{Binding Path=SubFolders, Source={StaticResource RootFolderDataProvider}}" Header="Folders"/>
-            </TreeView>
-        </ListView>
+        <TreeView Grid.Row="2" Grid.Column="0" Name="tvFolder" MouseLeftButtonUp="tvFolder_MouseLeftButtonUp">
+            <TreeViewItem ItemsSource="{Binding Path=SubFolders, Source={StaticResource RootFolderDataProvider}}" Header="Folders"/>
+        </TreeView>
 
         <!--右半部分-->
         <GridSplitter Grid.Row="2" Grid.Column="0" ShowsPreview="True" Opacity="0" Width="5"></GridSplitter>
