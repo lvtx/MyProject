@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
-using StudyHelper;
 using System.Threading;
 
 namespace IntroduceParallel
@@ -13,8 +10,8 @@ namespace IntroduceParallel
         static void Main(string[] args)
         {
             
-            TestParallelInvoke();
-            //TestParallelLoop();
+            //TestParallelInvoke();
+            TestParallelLoop();
             Console.ReadKey();
 
         }

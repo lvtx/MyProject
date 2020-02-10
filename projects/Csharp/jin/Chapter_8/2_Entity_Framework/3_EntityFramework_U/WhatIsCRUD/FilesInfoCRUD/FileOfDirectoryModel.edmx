@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="SearchedFilesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="tDirectory">
+          <Key>
+            <PropertyRef Name="DirectoryId" />
+          </Key>
+          <Property Name="DirectoryId" Type="int" Nullable="false" />
+          <Property Name="Directory" Type="nchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="tFile">
+          <Key>
+            <PropertyRef Name="FileId" />
+          </Key>
+          <Property Name="FileId" Type="int" Nullable="false" />
+          <Property Name="DirectoryId" Type="int" Nullable="false" />
+          <Property Name="sFile" Type="nchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_tFile_tDirectory">
+          <End Role="tDirectory" Type="Self.tDirectory" Multiplicity="1" />
+          <End Role="tFile" Type="Self.tFile" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tDirectory">
+              <PropertyRef Name="DirectoryId" />
+            </Principal>
+            <Dependent Role="tFile">
+              <PropertyRef Name="DirectoryId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="SearchedFilesModelStoreContainer">
+          <EntitySet Name="tDirectory" EntityType="Self.tDirectory" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tFile" EntityType="Self.tFile" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_tFile_tDirectory" Association="Self.FK_tFile_tDirectory">
+            <End Role="tDirectory" EntitySet="tDirectory" />
+            <End Role="tFile" EntitySet="tFile" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="SearchedFilesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="tDirectory">
+          <Key>
+            <PropertyRef Name="DirectoryId" />
+          </Key>
+          <Property Name="DirectoryId" Type="Int32" Nullable="false" />
+          <Property Name="Directory" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="tFiles" Relationship="Self.FK_tFile_tDirectory" FromRole="tDirectory" ToRole="tFile" />
+        </EntityType>
+        <EntityType Name="tFile">
+          <Key>
+            <PropertyRef Name="FileId" />
+          </Key>
+          <Property Name="FileId" Type="Int32" Nullable="false" />
+          <Property Name="DirectoryId" Type="Int32" Nullable="false" />
+          <Property Name="sFile" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="tDirectory" Relationship="Self.FK_tFile_tDirectory" FromRole="tFile" ToRole="tDirectory" />
+        </EntityType>
+        <Association Name="FK_tFile_tDirectory">
+          <End Role="tDirectory" Type="Self.tDirectory" Multiplicity="1" />
+          <End Role="tFile" Type="Self.tFile" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tDirectory">
+              <PropertyRef Name="DirectoryId" />
+            </Principal>
+            <Dependent Role="tFile">
+              <PropertyRef Name="DirectoryId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="FilesDBContext" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="tDirectories" EntityType="Self.tDirectory" />
+          <EntitySet Name="tFiles" EntityType="Self.tFile" />
+          <AssociationSet Name="FK_tFile_tDirectory" Association="Self.FK_tFile_tDirectory">
+            <End Role="tDirectory" EntitySet="tDirectories" />
+            <End Role="tFile" EntitySet="tFiles" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="SearchedFilesModelStoreContainer" CdmEntityContainer="FilesDBContext">
+          <EntitySetMapping Name="tDirectories">
+            <EntityTypeMapping TypeName="SearchedFilesModel.tDirectory">
+              <MappingFragment StoreEntitySet="tDirectory">
+                <ScalarProperty Name="DirectoryId" ColumnName="DirectoryId" />
+                <ScalarProperty Name="Directory" ColumnName="Directory" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tFiles">
+            <EntityTypeMapping TypeName="SearchedFilesModel.tFile">
+              <MappingFragment StoreEntitySet="tFile">
+                <ScalarProperty Name="FileId" ColumnName="FileId" />
+                <ScalarProperty Name="DirectoryId" ColumnName="DirectoryId" />
+                <ScalarProperty Name="sFile" ColumnName="sFile" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -53,7 +53,6 @@ namespace CalculateVarianceOfPopulation
             ShowInfo(info);
             EnableDisableControl();
         }
-
         #endregion
 
 
@@ -119,19 +118,12 @@ namespace CalculateVarianceOfPopulation
             ShowInfo(str);
             str = string.Format("\n串行算法用时:{0}毫秒\n", sw.ElapsedMilliseconds);
             ShowInfo(str);
-
-
-
-
         }
 
         #endregion
 
 
-        #region "并行处理（使用线程）"
-
-       
-
+        #region "并行处理（使用线程）"  
         /// <summary>
         /// 每个数据与平均值的差值的平方和
         /// </summary>
@@ -202,7 +194,6 @@ namespace CalculateVarianceOfPopulation
             counterForThread.Signal();
             string str = string.Format("\n工作线程{0}已完成工作\n", Thread.CurrentThread.ManagedThreadId);
             ShowInfo(str);
-
         }
 
         /// <summary>

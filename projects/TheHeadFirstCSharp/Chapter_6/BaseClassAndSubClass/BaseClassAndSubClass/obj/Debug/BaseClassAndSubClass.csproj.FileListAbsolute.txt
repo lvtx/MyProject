@@ -1,7 +1,0 @@
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\BaseClassAndSubClass\BaseClassAndSubClass\obj\Debug\BaseClassAndSubClass.csprojAssemblyReference.cache
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\BaseClassAndSubClass\BaseClassAndSubClass\obj\Debug\BaseClassAndSubClass.csproj.CoreCompileInputs.cache
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\BaseClassAndSubClass\BaseClassAndSubClass\bin\Debug\BaseClassAndSubClass.exe.config
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\BaseClassAndSubClass\BaseClassAndSubClass\bin\Debug\BaseClassAndSubClass.exe
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\BaseClassAndSubClass\BaseClassAndSubClass\bin\Debug\BaseClassAndSubClass.pdb
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\BaseClassAndSubClass\BaseClassAndSubClass\obj\Debug\BaseClassAndSubClass.exe
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\TheHeadFirstCSharp\Chapter_6\BaseClassAndSubClass\BaseClassAndSubClass\obj\Debug\BaseClassAndSubClass.pdb

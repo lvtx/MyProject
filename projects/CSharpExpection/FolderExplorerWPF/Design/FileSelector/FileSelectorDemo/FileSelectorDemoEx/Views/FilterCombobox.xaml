@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="FileSelectorDemo.Views.FilterCombobox"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FileSelectorDemo.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Margin="2" Text="筛选:" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <ComboBox SelectedIndex="6" Width="250" Margin="2" SelectedItem="{Binding SelectedItem,Mode=OneWayToSource}">
+                <ComboBoxItem>音乐文件(*.mp3|*.wav|*.ape|*.ogg)</ComboBoxItem>
+                <ComboBoxItem>演示文档(*.ppt|*.pptx)</ComboBoxItem>
+                <ComboBoxItem>表格文件(*.xlsx|*.xlsx)</ComboBoxItem>
+                <ComboBoxItem>视频文件(*.avi|*.wma|*.wma|*.mp4|*.rmvb|*.mkv|*.3gp)</ComboBoxItem>
+                <ComboBoxItem>图片(*.jpg|*.png|*.bmp|*.gif|*.jpeg|*.psd|*.svg)</ComboBoxItem>
+                <ComboBoxItem>文本文件(*.txt|*.pdf|*.chm|*.doc|*.docx)</ComboBoxItem>
+                <ComboBoxItem>所有文件(All Files)</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+          
+    </Grid>
+</UserControl>

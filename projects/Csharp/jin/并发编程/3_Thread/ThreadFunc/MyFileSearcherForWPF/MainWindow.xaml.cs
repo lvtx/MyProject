@@ -70,7 +70,7 @@ namespace MyFileSearcherForWPF
         /// </summary>
         public void InitBeginDirectory()
         {
-            string[] beginDirectorys = new string[] 
+            string[] beginDirectorys = new string[]
             {
                 @"D:\windows\files\package\安装包",
                 @"D:\windows\files\document\ebook\教材\大学\软件\软件工程",
@@ -85,27 +85,24 @@ namespace MyFileSearcherForWPF
         /// <summary>
         /// 将开始目录绑定到ComboBox上
         /// </summary>
-        public void InitBdBeginDirToCBox() 
+        public void InitBdBeginDirToCBox()
         {
             Binding bdBeginDirToCBox = new Binding("BeginDirectory") { Source = fileSearcher.SearchInfoObj };
             bdBeginDirToCBox.Mode = BindingMode.OneWayToSource;
             cBoxBeginDirectory.SetBinding(ComboBox.SelectedValueProperty, bdBeginDirToCBox);
         }
-        
+
         /// <summary>
         /// 显示当前已找到的文件
         /// </summary>
         /// <param name="files"></param>
         private void ShowSearchedFiles(FileInfo[] files)
         {
+            string str = null;
             foreach (FileInfo file in files)
             {
-                string str = null;
-                if (file.Length > 100000000)
-                {
-                    str = string.Format(file.Name + " 文件大小为 " + file.Length + "bytes");
-                    lstSearchFiles.Items.Add(str);
-                }
+                str = string.Format(file.Name);
+                lstSearchFiles.Items.Add(str);
             }
         }
 
