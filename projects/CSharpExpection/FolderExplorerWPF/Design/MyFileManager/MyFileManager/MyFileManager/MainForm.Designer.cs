@@ -329,7 +329,7 @@
             this.tscboSearch});
             this.tsMain.Location = new System.Drawing.Point(0, 30);
             this.tsMain.Name = "tsMain";
-            this.tsMain.Size = new System.Drawing.Size(984, 28);
+            this.tsMain.Size = new System.Drawing.Size(984, 32);
             this.tsMain.TabIndex = 1;
             this.tsMain.Text = "toolStrip1";
             // 
@@ -339,7 +339,7 @@
             this.tsbtnBack.Image = ((System.Drawing.Image)(resources.GetObject("tsbtnBack.Image")));
             this.tsbtnBack.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbtnBack.Name = "tsbtnBack";
-            this.tsbtnBack.Size = new System.Drawing.Size(29, 25);
+            this.tsbtnBack.Size = new System.Drawing.Size(29, 29);
             this.tsbtnBack.Text = "toolStripButton1";
             this.tsbtnBack.Click += new System.EventHandler(this.tsbtnBack_Click);
             // 
@@ -349,7 +349,7 @@
             this.tsbtnAdvance.Image = ((System.Drawing.Image)(resources.GetObject("tsbtnAdvance.Image")));
             this.tsbtnAdvance.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbtnAdvance.Name = "tsbtnAdvance";
-            this.tsbtnAdvance.Size = new System.Drawing.Size(29, 25);
+            this.tsbtnAdvance.Size = new System.Drawing.Size(29, 29);
             this.tsbtnAdvance.Text = "toolStripButton1";
             this.tsbtnAdvance.Click += new System.EventHandler(this.tsbtnAdvance_Click);
             // 
@@ -359,14 +359,14 @@
             this.tsbtnUpArrow.Image = ((System.Drawing.Image)(resources.GetObject("tsbtnUpArrow.Image")));
             this.tsbtnUpArrow.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbtnUpArrow.Name = "tsbtnUpArrow";
-            this.tsbtnUpArrow.Size = new System.Drawing.Size(29, 25);
+            this.tsbtnUpArrow.Size = new System.Drawing.Size(29, 29);
             this.tsbtnUpArrow.Text = "toolStripButton1";
             this.tsbtnUpArrow.Click += new System.EventHandler(this.tsbtnUpArrow_Click);
             // 
             // tssLine1
             // 
             this.tssLine1.Name = "tssLine1";
-            this.tssLine1.Size = new System.Drawing.Size(6, 28);
+            this.tssLine1.Size = new System.Drawing.Size(6, 32);
             // 
             // tscboAddress
             // 
@@ -382,7 +382,7 @@
             // tssLine2
             // 
             this.tssLine2.Name = "tssLine2";
-            this.tssLine2.Size = new System.Drawing.Size(6, 28);
+            this.tssLine2.Size = new System.Drawing.Size(6, 32);
             // 
             // tscboSearch
             // 
@@ -576,7 +576,7 @@
             // splitContainer1
             // 
             this.splitContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.splitContainer1.Location = new System.Drawing.Point(0, 58);
+            this.splitContainer1.Location = new System.Drawing.Point(0, 62);
             this.splitContainer1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.splitContainer1.Name = "splitContainer1";
             // 
@@ -587,7 +587,7 @@
             // splitContainer1.Panel2
             // 
             this.splitContainer1.Panel2.Controls.Add(this.lvwFiles);
-            this.splitContainer1.Size = new System.Drawing.Size(984, 481);
+            this.splitContainer1.Size = new System.Drawing.Size(984, 477);
             this.splitContainer1.SplitterDistance = 328;
             this.splitContainer1.SplitterWidth = 5;
             this.splitContainer1.TabIndex = 3;
@@ -602,7 +602,7 @@
             this.tvwDirectory.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tvwDirectory.Name = "tvwDirectory";
             this.tvwDirectory.SelectedImageIndex = 0;
-            this.tvwDirectory.Size = new System.Drawing.Size(328, 481);
+            this.tvwDirectory.Size = new System.Drawing.Size(328, 477);
             this.tvwDirectory.TabIndex = 0;
             this.tvwDirectory.BeforeExpand += new System.Windows.Forms.TreeViewCancelEventHandler(this.tvwDirectory_BeforeExpand);
             this.tvwDirectory.AfterExpand += new System.Windows.Forms.TreeViewEventHandler(this.tvwDirectory_AfterExpand);
@@ -625,7 +625,7 @@
             this.lvwFiles.Location = new System.Drawing.Point(0, 0);
             this.lvwFiles.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.lvwFiles.Name = "lvwFiles";
-            this.lvwFiles.Size = new System.Drawing.Size(651, 481);
+            this.lvwFiles.Size = new System.Drawing.Size(651, 477);
             this.lvwFiles.SmallImageList = this.ilstIcons;
             this.lvwFiles.TabIndex = 0;
             this.lvwFiles.UseCompatibleStateImageBehavior = false;

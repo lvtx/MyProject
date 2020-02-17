@@ -81,7 +81,8 @@
                                                                 </ControlTemplate>
                                                             </ToggleButton.Template>
                                                         </ToggleButton>
-                                                        <Popup Placement="Bottom"  VerticalOffset="5" PlacementTarget="{Binding ElementName=SelectedChildren}" StaysOpen="False" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+                                                        <Popup Placement="Bottom"  VerticalOffset="5" PlacementTarget="{Binding ElementName=SelectedChildren}"
+                                                               StaysOpen="False" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
                                                                 IsOpen="{Binding IsChecked,ElementName=SelectedChildren}" PopupAnimation="Slide">
                                                             <ItemsControl Background="#f5f5f5" BorderBrush="Gray" BorderThickness="1" Padding="0" ItemsSource="{Binding Children}" MaxWidth="300" MaxHeight="400">
                                                                 <ItemsControl.Template>
@@ -95,7 +96,8 @@
                                                                 </ItemsControl.Template>
                                                                 <ItemsControl.ItemTemplate>
                                                                     <DataTemplate>
-                                                                        <Button x:Name="radioButton" Command="{Binding AttachedDataContext.OpenCurrentDirectory,RelativeSource={RelativeSource Mode=FindAncestor,AncestorType={x:Type UserControl}}}"   CommandParameter="{Binding}">
+                                                                        <Button x:Name="radioButton" Command="{Binding AttachedDataContext.OpenCurrentDirectory,
+                                                                            RelativeSource={RelativeSource Mode=FindAncestor,AncestorType={x:Type UserControl}}}"   CommandParameter="{Binding}">
                                                                             <Button.Template>
                                                                                 <ControlTemplate TargetType="{x:Type Button}">
                                                                                     <Border x:Name="bg"  Padding="2" Background="#f5f5f5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">

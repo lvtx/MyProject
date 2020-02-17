@@ -1,0 +1,23 @@
+﻿<Window x:Class="UseCollectionView.SortData"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        
+    Title="对象集合排序" SizeToContent="WidthAndHeight"  MinWidth="300">
+    <StackPanel Margin="10">
+
+        <Button Margin="10" Content="请选择文件夹" Name="btnChooseDirectory" Click="btnChooseDirectory_Click"></Button>
+        <TextBlock Margin="10" Text="当前没有选中文件夹" Name="txtDir"/>
+        <StackPanel Name="FilesArea" Visibility="Collapsed">
+            <ContentControl Content="{StaticResource FileListView}" Name="ListViewContainer"></ContentControl>
+            <TextBlock Margin="5" Text="选择排序字段（升序）："/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" ToggleButton.Checked="RadioButton_Checked">
+                <RadioButton Margin="5" Content="文件名" Name="rdoFileName" IsChecked="True"/>
+                <RadioButton Margin="5"  Content="文件大小" Name="rdoFileSize"/>
+                <RadioButton Margin="5"  Content="文件创建时间" Name="rdoFileCreateTime"/>
+                <RadioButton Margin="5"  Content="按文件名的字符数排序" Name="rdoCustomSort"/>
+           
+            </StackPanel>
+            
+        </StackPanel>
+    </StackPanel>
+</Window>

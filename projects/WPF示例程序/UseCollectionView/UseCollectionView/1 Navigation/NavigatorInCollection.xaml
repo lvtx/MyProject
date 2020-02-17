@@ -1,0 +1,22 @@
+﻿<Window x:Class="UseCollectionView.NavigatorInCollection"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:UseCollectionView"
+    Title="在对象集合中导航"  SizeToContent="WidthAndHeight"  MinWidth="300">
+    <StackPanel Margin="10">
+
+        <Button Margin="10" Content="请选择文件夹" Name="btnChooseDirectory" Click="btnChooseDirectory_Click"></Button>
+        <TextBlock Margin="10" Text="当前没有选中文件夹" Name="txtDir"/>
+        <StackPanel Name="FilesArea" >
+
+            <ContentControl Content="{StaticResource FileListView}" Name="ListViewContainer">
+            </ContentControl>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Margin="5" Content="第一条" Name="btnFirst" Click="btnFirst_Click"></Button>
+                <Button Margin="5" Content="前一条" Name="btnPrev" Click="btnPrev_Click"></Button>
+                <Button Margin="5" Content="后一条" Name="btnNext" Click="btnNext_Click"></Button>
+                <Button Margin="5" Content="最后一条" Name="btnLast" Click="btnLast_Click"></Button>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Window>
