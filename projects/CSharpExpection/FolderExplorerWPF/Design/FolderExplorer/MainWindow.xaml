@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:filesys="clr-namespace:FolderExplorer.Filesystem"
         mc:Ignorable="d"
-        Title="文件浏览器" Height="600.157" Width="800"
+        Title="文件浏览器" Height="600" Width="1000"
         Source="HomePage.xaml" ShowsNavigationUI="False"
         >
     <!--<Window.Resources>

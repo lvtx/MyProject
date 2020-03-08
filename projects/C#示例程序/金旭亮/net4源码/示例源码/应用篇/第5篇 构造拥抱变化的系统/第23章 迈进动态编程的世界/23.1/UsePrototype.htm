@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>使用prototype添加方法</title>
+</head>
+<body>
+<h2>使用prototype添加方法</h2>
+<hr />
+使用prototype给类添加方法，会自动让所有从此类创建的“新”或“旧”对象都自动拥有此方法。
+
+<script type="text/javascript">
+
+    //book对象的构造函数
+    function book(title,author,publishingHouse)
+	{
+	    //对象的三个属性
+	     this.title=title;
+	    this.author=author;
+	    this.publishingHouse=publishingHouse;
+	    //对象的方法
+	    this.showInfo=function()
+	    {
+	        alert("类的showInfo方法用于显示书的信息："+this.title+"－"+this.author+"－"+this.publishingHouse);
+	    }
+	}
+   
+ 
+     //创建两个对象
+	var obj1=new book("ASP.NET程序设计教程","金旭亮","高等教育出版社");
+	var obj2=new book(".NET 4.0面向对象编程漫谈","金旭亮","电子工业出版社");
+	
+	 //给book添加一个方法showInfo2
+	book.prototype.showInfo2=function(str)
+	{
+	    alert(str);
+	}	
+
+	
+	//调用两个对象都有的ShowInfo方法
+	obj1.showInfo();
+	obj2.showInfo();
+	//调用新加的方法
+	obj1.showInfo2("通过obj1调用showInfo2()"); 
+	obj2.showInfo2("通过obj2调用showInfo2()");
+	
+	var obj3=new book("编程的奥秘","金旭亮","电子出版社");
+	//新建的对象自动可以拥有新旧方法
+	obj3.showInfo();
+	obj3.showInfo2("通过obj3调用showInfo2()");
+ 
+</script>
+</body>
+</html>

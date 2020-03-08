@@ -1,0 +1,8 @@
+﻿<Window x:Class="CompositeMouseAndKey.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="处理键盘与鼠标组合操作"  SizeToContent="WidthAndHeight">
+    <Grid>
+        <Button Height="77"  Padding="10" Margin="10" Name="btnClickMe" VerticalAlignment="Top" Grid.ColumnSpan="2" Click="btnClickMe_Click">按下“Ctrl/Alt/Shift”之一，再单击我</Button>
+    </Grid>
+</Window>

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using FolderExplorer.Filesystem;
 using System.Linq;
+using System.ComponentModel;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -20,8 +21,29 @@ namespace FolderExplorer.Strategy
     /// <summary>
     /// 用于前后导航的双向链表
     /// </summary>
-    public class DbLink<T>
+    public class DbLink<T>:INotifyPropertyChanged
     {
+        public event PropertyChangedEventHandler PropertyChanged;
+        public void OnPropertyChanged(PropertyChangedEventArgs e)
+        {
+            if (PropertyChanged != null)
+            {
+                PropertyChanged(this, e);
+            }
+        }
+
+        private int count;
+
+        public int Count
+        {
+            get { return count; }
+            set 
+            {
+                count = value;
+                OnPropertyChanged(new PropertyChangedEventArgs("Count"));
+            }
+        }
+
         public DbLink()
         {
             headNode = null;
@@ -51,6 +73,7 @@ namespace FolderExplorer.Strategy
             }
         }
         private bool isCurrentBeforeFirst = false;
+
         /// <summary>
         /// 判断链表是否后移到最后一个
         /// </summary>

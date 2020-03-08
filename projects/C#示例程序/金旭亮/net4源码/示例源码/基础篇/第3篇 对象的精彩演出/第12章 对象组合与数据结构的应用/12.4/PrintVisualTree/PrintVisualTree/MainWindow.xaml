@@ -1,0 +1,8 @@
+﻿<Window x:Class="PrintVisualTree.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="查看可视化树" Height="120" Width="325">
+    <StackPanel >
+        <Button Content="Hello" Width="150" Height="50" Margin="10" Name="btnPrintVisualTree" Click="btnPrintVisualTree_Click"/>
+    </StackPanel>
+</Window>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 10
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseThreadSafeLabel", "UseThreadSafeLabel\UseThreadSafeLabel.csproj", "{09E90895-972E-49CC-A1FA-6D1BF6EA74A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSafeControl", "ThreadSafeControl\ThreadSafeControl.csproj", "{96EBB994-5A8C-4869-AA7E-4BE9C770EF07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09E90895-972E-49CC-A1FA-6D1BF6EA74A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E90895-972E-49CC-A1FA-6D1BF6EA74A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E90895-972E-49CC-A1FA-6D1BF6EA74A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E90895-972E-49CC-A1FA-6D1BF6EA74A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96EBB994-5A8C-4869-AA7E-4BE9C770EF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96EBB994-5A8C-4869-AA7E-4BE9C770EF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96EBB994-5A8C-4869-AA7E-4BE9C770EF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96EBB994-5A8C-4869-AA7E-4BE9C770EF07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

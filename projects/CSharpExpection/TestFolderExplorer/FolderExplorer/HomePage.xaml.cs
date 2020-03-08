@@ -71,17 +71,33 @@ namespace FolderExplorer
         
         private void OpenFileOrFolder(object sender, MouseButtonEventArgs e)
         {
-            try
+            switch (e.ClickCount)
             {
-                Folder f = new Folder();
-                f = (dgrd_Display.CurrentItem) as Folder;
-                ShowFoldersOrFiles(f);
-                btnGoBack.IsEnabled = true;
-            }
-            catch (Exception ex)
-            {
+                case 2:
+                    {
+                        try
+                        {
+                            FileSys currFolder = dgrd_Display.CurrentItem as FileSys;
+                            var path = currFolder.FullPath;
+                            if (currFolder is Folder)
+                            {
+                                Folder f = currFolder as Folder;
+                                ShowFoldersOrFiles(f);
+                            }
+                            else
+                            {
+                                Process.Start(path);
+                            }
+                        }
+                        catch (Exception ex)
+                        {
+                            throw new Exception(ex.Message);
+                        }
+                    }
+                    break;
 
-                throw new Exception(ex.Message);
+                default:
+                    break;
             }
         }
         private void btnPrev_Click(object sender, RoutedEventArgs e)
@@ -100,13 +116,26 @@ namespace FolderExplorer
         /// <param name="folder"></param>
         private void ShowFoldersOrFiles(Folder folder)
         {
-            dgrd_Display.Items.Clear();
-            ObservableCollection<FileSys> folderAndFiles = folder.FolderAndFiles;
-            foreach (var folderAndfile in folderAndFiles)
+            try
             {
-                dgrd_Display.Items.Add(folderAndfile);
+                dgrd_Display.Items.Clear();
+                ObservableCollection<FileSys> folderAndFiles = folder.FolderAndFiles;
+                foreach (var folderAndfile in folderAndFiles)
+                {
+                    dgrd_Display.Items.Add(folderAndfile);
+                }
+                btnGoBack.IsEnabled = true;
             }
-            btnGoBack.IsEnabled = true;
+            //FileSystemWatcher watcher = new FileSystemWatcher();
+            //try
+            //{
+            //    watcher.Path = folder.FullPath;
+            //}
+            catch (ArgumentException ex)
+            {
+                Console.WriteLine(ex.Message);
+                return;
+            }
         }
 
         private void DisplayFolderOrFilesOnDGRD(object sender, RoutedPropertyChangedEventArgs<object> e)

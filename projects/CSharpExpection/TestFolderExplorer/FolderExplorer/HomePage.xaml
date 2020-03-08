@@ -8,11 +8,13 @@
       xmlns:local="clr-namespace:FolderExplorer"
       xmlns:fs="clr-namespace:FolderExplorer.Filesystem"
       xmlns:Control="http://schemas.microsoft.com/netfx/2009/xaml/presentation"
+      xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
       mc:Ignorable="d" 
       d:DesignHeight="480" d:DesignWidth="810"
       Title="HomePage">
 
     <Page.Resources>
+
         <!--<声明一个根目录>-->
         <!--<fs:Drives x:Key="rootFolders"/>-->
         <!--<TreeView分层显示>-->
@@ -43,19 +45,37 @@
                 <TextBlock Text="{Binding Name}" VerticalAlignment="Center"/>
             </StackPanel>
         </HierarchicalDataTemplate>-->
+        <ContextMenu x:Key="dgrdRightMenu">
+            <MenuItem Name="cmView" Header="查看(_V)"/>
+            <MenuItem Name="cmSort" Header="排序方式"/>
+            <MenuItem Name="cmGroupBy" Header="分组依据">
+                <MenuItem Name="cmName" Header="名称"/>
+                <MenuItem Name="cmTime" Header="修改日期"/>
+                <MenuItem Name="cmType" Header="类型"/>
+                <MenuItem Name="cmSize" Header="大小"/>
+            </MenuItem>
+            <Separator/>
+            <MenuItem Name="cmRefresh" Header="刷新(_E)"/>
+            <Separator/>
+            <MenuItem Name="cmPaste" Header="粘贴(_P)"/>
+            <Separator/>
+            <MenuItem Name="cmCreate" Header="新建(_W)"/>
+            <Separator/>
+            <MenuItem Name="cmProperty" Header="属性(_R)"/>
+        </ContextMenu>
         <!--菜单样式-->
-        <Style TargetType="Menu">
-            <Setter Property="Background" Value="Transparent"/>
-        </Style>
-        <Style TargetType="MenuItem">
-            <Setter Property="Height" Value="30"/>
-            <Setter Property="FontSize" Value="14"/>
+        <Style TargetType="{x:Type MenuItem}"
+       BasedOn="{StaticResource MetroMenuItem}">
+            <Setter Property="HorizontalContentAlignment"
+          Value="Left" />
+            <Setter Property="VerticalContentAlignment"
+          Value="Center" />
         </Style>
 
-        <Style x:Key="ComboBoxStyle" TargetType="ComboBox">
+        <!--<Style x:Key="ComboBoxStyle" TargetType="ComboBox">
             <Setter Property="IsEditable" Value="True"/>
             <Setter Property="VerticalContentAlignment" Value="Center"/>
-        </Style>
+        </Style>-->
 
         <!--<DataTemplate x:Key="DisplayFoldersAndFiles">
             <StackPanel>
@@ -69,7 +89,7 @@
             <Setter Property="FontSize" Value="15"/>
         </Style>
 
-        <Style x:Key="ColumnHeaderStyle" TargetType="DataGridColumnHeader">
+        <!--<Style x:Key="ColumnHeaderStyle" TargetType="DataGridColumnHeader">
             <Setter Property="Background" Value="Transparent"/>
             <Setter Property="BorderBrush" Value="#E5E5E5"/>
             <Setter Property="Padding" Value="10 0 0 0"/>
@@ -95,11 +115,11 @@
             <Setter Property="MinWidth" Value="360"/>
             <Setter Property="Focusable" Value="False"/>
             <Setter Property="EnableRowVirtualization" Value="False"/>
-            <!--<Setter Property="Background" Value="Transparent"/>-->
-            <!--<Setter Property="BorderBrush" Value="Transparent"/>-->
-        </Style>
+            --><!--<Setter Property="Background" Value="Transparent"/>-->
+            <!--<Setter Property="BorderBrush" Value="Transparent"/>--><!--
+        </Style>-->
 
-        <!--前进后退按钮模板-->
+        <!--前进后退按钮模板--><!--
         <ControlTemplate x:Key="ButtonTemplate" TargetType="{x:Type Button}">
             <Border x:Name="Border"
                     Background="Transparent" TextBlock.Foreground="Black">
@@ -108,9 +128,9 @@
                                   Margin="{TemplateBinding Padding}"></ContentPresenter>
             </Border>
             <ControlTemplate.Triggers>
-                <!--<Trigger Property="IsEnabled" Value="False">
+                --><!--<Trigger Property="IsEnabled" Value="False">
                     <Setter TargetName="Border" Property="TextBlock.Foreground" Value="Gray"/>
-                </Trigger>-->
+                </Trigger>--><!--
                 <Trigger Property="IsMouseOver" Value="True">
                     <Setter TargetName="Border" Property="TextBlock.Foreground" Value="Blue"/>
                 </Trigger>
@@ -118,7 +138,7 @@
                     <Setter TargetName="Border" Property="TextBlock.Foreground" Value="AliceBlue"/>
                 </Trigger>
             </ControlTemplate.Triggers>
-        </ControlTemplate>
+        </ControlTemplate>-->
 
         <!--<CollectionViewSource Source="{Binding Source={StaticResource myFolders}, Path=Folders}"
       x:Key="listingDataView"/>-->
@@ -149,19 +169,21 @@
             </MenuItem>
         </Menu>
 
-        <StackPanel Grid.Row="1" Grid.Column="0" Orientation="Horizontal" Margin="5">
-            <Button x:Name="btnGoBack" Margin="0,0,10,7.2" IsEnabled="True"
-                    Template="{StaticResource ButtonTemplate}" Height="20" Width="20" VerticalAlignment="Bottom">
+
+        <StackPanel Grid.Row="1" Grid.Column="0" Orientation="Horizontal">
+            <Button x:Name="btnGoBack" VerticalAlignment="Center" IsEnabled="False" 
+                    Background="Transparent" BorderBrush="Transparent">
                 <TextBlock Text="&#57618;" Style="{StaticResource SymbolFontFamily}" FontWeight="Bold"/>
             </Button>
-            <Button x:Name="btnGoForward" IsEnabled="False" Height="20" Width="20"
+            <Control:Button x:Name="btnGoForward" IsEnabled="False"
+                    VerticalAlignment="Center" HorizontalAlignment="Right"
                         Background="Transparent" BorderBrush="Transparent">
                 <TextBlock Text="&#57617;" Style="{StaticResource SymbolFontFamily}"/>
-            </Button>
+            </Control:Button>
         </StackPanel>
 
         <ComboBox MinWidth="200" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" Margin="5 8 5 8"
-                  x:Name="cboDisplayCurrentItem" Style="{StaticResource ComboBoxStyle}"
+                  x:Name="cboDisplayCurrentItem" 
                   DisplayMemberPath="SubFolders" Text="{Binding Path=Name}">
 
         </ComboBox>
@@ -187,14 +209,14 @@
         <!--<Border BorderThickness="1 0 0 0" BorderBrush="#DADBDC" Opacity="0.5" Margin="0 10 0 0" Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="2"/>-->
         <GridSplitter Grid.Row="2" Grid.Column="1" ShowsPreview="True" BorderBrush="#DADBDC" Opacity="1"/>
 
-        <TreeView Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Name="tvwDisplayFolder" 
+        <TreeView  Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Name="tvwDisplayFolder" 
                   BorderBrush="Transparent" SelectedItemChanged="DisplayFolderOrFilesOnDGRD"
                   />
         <!--右半部分-->
         <!--ItemsSource="{Binding ElementName=tvwDisplayFolder ,Path= SelectedItem.FolderAndFiles}"-->
         <DataGrid Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="2" Name="dgrd_Display"                                                 
-                  Style="{StaticResource DataGridStyle}" MouseDoubleClick="OpenFileOrFolder"
-                  IsSynchronizedWithCurrentItem="False">
+                  MouseLeftButtonDown="OpenFileOrFolder" RowHeight="22" IsReadOnly="True"
+                  IsSynchronizedWithCurrentItem="False" ContextMenu="{StaticResource dgrdRightMenu}">
             <DataGrid.Columns>
                 <DataGridTemplateColumn Header="名称" MinWidth="80">
                     <DataGridTemplateColumn.CellTemplate>
@@ -235,7 +257,7 @@
                 <TextBlock Text="就绪"/>
             </StatusBarItem>
             <StatusBarItem>
-                <Button x:Name="btnPrev" Content="上一条" Click="btnPrev_Click"/>
+                <Button x:Name="btnPrev" Content="上一条" FontSize="10" Click="btnPrev_Click" Height="15"/>
             </StatusBarItem>
             <StatusBarItem>
                 <Button x:Name="btnNext" Content="下一条" Click="btnNext_Click"/>
@@ -247,5 +269,6 @@
         <!--<ListBox Name="Master" Grid.Row="2" Grid.ColumnSpan="3" Margin="8" 
          ItemsSource="{Binding Source={StaticResource listingDataView}}" />-->
         <!--<TextBox Name="txtViewElement" Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="2"/>-->
+        
     </Grid>
 </Page>

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 10
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseMonitor2", "UseMonitor2\UseMonitor2.csproj", "{C8BF2E0F-A349-4F1A-9D5A-8678CE31AC34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8BF2E0F-A349-4F1A-9D5A-8678CE31AC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BF2E0F-A349-4F1A-9D5A-8678CE31AC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BF2E0F-A349-4F1A-9D5A-8678CE31AC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BF2E0F-A349-4F1A-9D5A-8678CE31AC34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

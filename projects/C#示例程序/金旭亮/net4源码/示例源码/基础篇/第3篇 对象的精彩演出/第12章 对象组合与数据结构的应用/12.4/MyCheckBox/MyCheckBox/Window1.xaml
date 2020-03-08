@@ -1,0 +1,9 @@
+﻿<Window x:Class="MyCheckBox.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="图形化的CheckBox" SizeToContent="Height" Width="300">
+    <StackPanel Margin="10">
+       <CheckBox x:Name="Check1" Margin="10" Unchecked="Check1_Unchecked" Checked="CheckBox_Checked" Template="{StaticResource GraphicCheckBox}">一个拥有全新外观的CheckBox</CheckBox> 
+        <TextBlock HorizontalAlignment="Center" x:Name="txtInfo" Foreground="Blue" FontWeight="Bold"></TextBlock>
+    </StackPanel>
+</Window>

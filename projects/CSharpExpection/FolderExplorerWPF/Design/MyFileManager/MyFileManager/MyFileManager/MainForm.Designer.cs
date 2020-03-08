@@ -329,7 +329,7 @@
             this.tscboSearch});
             this.tsMain.Location = new System.Drawing.Point(0, 30);
             this.tsMain.Name = "tsMain";
-            this.tsMain.Size = new System.Drawing.Size(984, 32);
+            this.tsMain.Size = new System.Drawing.Size(984, 28);
             this.tsMain.TabIndex = 1;
             this.tsMain.Text = "toolStrip1";
             // 
@@ -339,7 +339,7 @@
             this.tsbtnBack.Image = ((System.Drawing.Image)(resources.GetObject("tsbtnBack.Image")));
             this.tsbtnBack.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbtnBack.Name = "tsbtnBack";
-            this.tsbtnBack.Size = new System.Drawing.Size(29, 29);
+            this.tsbtnBack.Size = new System.Drawing.Size(29, 25);
             this.tsbtnBack.Text = "toolStripButton1";
             this.tsbtnBack.Click += new System.EventHandler(this.tsbtnBack_Click);
             // 
@@ -349,7 +349,7 @@
             this.tsbtnAdvance.Image = ((System.Drawing.Image)(resources.GetObject("tsbtnAdvance.Image")));
             this.tsbtnAdvance.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbtnAdvance.Name = "tsbtnAdvance";
-            this.tsbtnAdvance.Size = new System.Drawing.Size(29, 29);
+            this.tsbtnAdvance.Size = new System.Drawing.Size(29, 25);
             this.tsbtnAdvance.Text = "toolStripButton1";
             this.tsbtnAdvance.Click += new System.EventHandler(this.tsbtnAdvance_Click);
             // 
@@ -359,14 +359,14 @@
             this.tsbtnUpArrow.Image = ((System.Drawing.Image)(resources.GetObject("tsbtnUpArrow.Image")));
             this.tsbtnUpArrow.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbtnUpArrow.Name = "tsbtnUpArrow";
-            this.tsbtnUpArrow.Size = new System.Drawing.Size(29, 29);
+            this.tsbtnUpArrow.Size = new System.Drawing.Size(29, 25);
             this.tsbtnUpArrow.Text = "toolStripButton1";
             this.tsbtnUpArrow.Click += new System.EventHandler(this.tsbtnUpArrow_Click);
             // 
             // tssLine1
             // 
             this.tssLine1.Name = "tssLine1";
-            this.tssLine1.Size = new System.Drawing.Size(6, 32);
+            this.tssLine1.Size = new System.Drawing.Size(6, 28);
             // 
             // tscboAddress
             // 
@@ -382,7 +382,7 @@
             // tssLine2
             // 
             this.tssLine2.Name = "tssLine2";
-            this.tssLine2.Size = new System.Drawing.Size(6, 32);
+            this.tssLine2.Size = new System.Drawing.Size(6, 28);
             // 
             // tscboSearch
             // 
@@ -414,13 +414,13 @@
             this.tsmiPrivilege1,
             this.tsmiProperties1});
             this.cmsMain.Name = "contextMenuStrip1";
-            this.cmsMain.Size = new System.Drawing.Size(154, 310);
+            this.cmsMain.Size = new System.Drawing.Size(211, 338);
             this.cmsMain.Opening += new System.ComponentModel.CancelEventHandler(this.cmsMain_Opening);
             // 
             // tsmiOpen
             // 
             this.tsmiOpen.Name = "tsmiOpen";
-            this.tsmiOpen.Size = new System.Drawing.Size(153, 24);
+            this.tsmiOpen.Size = new System.Drawing.Size(210, 24);
             this.tsmiOpen.Text = "打开";
             this.tsmiOpen.Click += new System.EventHandler(this.tsmiOpen_Click);
             // 
@@ -432,119 +432,119 @@
             this.tsmiList1,
             this.tsmiDetailedInfo1});
             this.tsmiView1.Name = "tsmiView1";
-            this.tsmiView1.Size = new System.Drawing.Size(153, 24);
+            this.tsmiView1.Size = new System.Drawing.Size(210, 24);
             this.tsmiView1.Text = "查看";
             // 
             // tsmiBigIcon1
             // 
             this.tsmiBigIcon1.Name = "tsmiBigIcon1";
-            this.tsmiBigIcon1.Size = new System.Drawing.Size(152, 26);
+            this.tsmiBigIcon1.Size = new System.Drawing.Size(224, 26);
             this.tsmiBigIcon1.Text = "大图标";
             this.tsmiBigIcon1.Click += new System.EventHandler(this.tsmiBigIcon_Click);
             // 
             // tsmiSmallIcon1
             // 
             this.tsmiSmallIcon1.Name = "tsmiSmallIcon1";
-            this.tsmiSmallIcon1.Size = new System.Drawing.Size(152, 26);
+            this.tsmiSmallIcon1.Size = new System.Drawing.Size(224, 26);
             this.tsmiSmallIcon1.Text = "小图标";
             this.tsmiSmallIcon1.Click += new System.EventHandler(this.tsmiSmallIcon_Click);
             // 
             // tsmiList1
             // 
             this.tsmiList1.Name = "tsmiList1";
-            this.tsmiList1.Size = new System.Drawing.Size(152, 26);
+            this.tsmiList1.Size = new System.Drawing.Size(224, 26);
             this.tsmiList1.Text = "列表";
             this.tsmiList1.Click += new System.EventHandler(this.tsmiList_Click);
             // 
             // tsmiDetailedInfo1
             // 
             this.tsmiDetailedInfo1.Name = "tsmiDetailedInfo1";
-            this.tsmiDetailedInfo1.Size = new System.Drawing.Size(152, 26);
+            this.tsmiDetailedInfo1.Size = new System.Drawing.Size(224, 26);
             this.tsmiDetailedInfo1.Text = "详细信息";
             this.tsmiDetailedInfo1.Click += new System.EventHandler(this.tsmiDetailedInfo_Click);
             // 
             // tsmiRefresh1
             // 
             this.tsmiRefresh1.Name = "tsmiRefresh1";
-            this.tsmiRefresh1.Size = new System.Drawing.Size(153, 24);
+            this.tsmiRefresh1.Size = new System.Drawing.Size(210, 24);
             this.tsmiRefresh1.Text = "刷新";
             this.tsmiRefresh1.Click += new System.EventHandler(this.tsmiRefresh_Click);
             // 
             // tssLine3
             // 
             this.tssLine3.Name = "tssLine3";
-            this.tssLine3.Size = new System.Drawing.Size(150, 6);
+            this.tssLine3.Size = new System.Drawing.Size(207, 6);
             // 
             // tsmiCopy1
             // 
             this.tsmiCopy1.Name = "tsmiCopy1";
-            this.tsmiCopy1.Size = new System.Drawing.Size(153, 24);
+            this.tsmiCopy1.Size = new System.Drawing.Size(210, 24);
             this.tsmiCopy1.Text = "复制";
             this.tsmiCopy1.Click += new System.EventHandler(this.tsmiCopy_Click);
             // 
             // tsmiPaste1
             // 
             this.tsmiPaste1.Name = "tsmiPaste1";
-            this.tsmiPaste1.Size = new System.Drawing.Size(153, 24);
+            this.tsmiPaste1.Size = new System.Drawing.Size(210, 24);
             this.tsmiPaste1.Text = "粘贴";
             this.tsmiPaste1.Click += new System.EventHandler(this.tsmiPaste_Click);
             // 
             // tsmiCut1
             // 
             this.tsmiCut1.Name = "tsmiCut1";
-            this.tsmiCut1.Size = new System.Drawing.Size(153, 24);
+            this.tsmiCut1.Size = new System.Drawing.Size(210, 24);
             this.tsmiCut1.Text = "剪切";
             this.tsmiCut1.Click += new System.EventHandler(this.tsmiCut_Click);
             // 
             // tsmiDelete1
             // 
             this.tsmiDelete1.Name = "tsmiDelete1";
-            this.tsmiDelete1.Size = new System.Drawing.Size(153, 24);
+            this.tsmiDelete1.Size = new System.Drawing.Size(210, 24);
             this.tsmiDelete1.Text = "删除";
             this.tsmiDelete1.Click += new System.EventHandler(this.tsmiDelete_Click);
             // 
             // tsmiRename
             // 
             this.tsmiRename.Name = "tsmiRename";
-            this.tsmiRename.Size = new System.Drawing.Size(153, 24);
+            this.tsmiRename.Size = new System.Drawing.Size(210, 24);
             this.tsmiRename.Text = "重命名";
             this.tsmiRename.Click += new System.EventHandler(this.tsmiRename_Click);
             // 
             // tssLine4
             // 
             this.tssLine4.Name = "tssLine4";
-            this.tssLine4.Size = new System.Drawing.Size(150, 6);
+            this.tssLine4.Size = new System.Drawing.Size(207, 6);
             // 
             // tsmiNewFolder1
             // 
             this.tsmiNewFolder1.Name = "tsmiNewFolder1";
-            this.tsmiNewFolder1.Size = new System.Drawing.Size(153, 24);
+            this.tsmiNewFolder1.Size = new System.Drawing.Size(210, 24);
             this.tsmiNewFolder1.Text = "新建文件夹";
             this.tsmiNewFolder1.Click += new System.EventHandler(this.tsmiNewFolder_Click);
             // 
             // tsmiNewFile1
             // 
             this.tsmiNewFile1.Name = "tsmiNewFile1";
-            this.tsmiNewFile1.Size = new System.Drawing.Size(153, 24);
+            this.tsmiNewFile1.Size = new System.Drawing.Size(210, 24);
             this.tsmiNewFile1.Text = "新建文件";
             this.tsmiNewFile1.Click += new System.EventHandler(this.tsmiNewFile_Click);
             // 
             // tssLine5
             // 
             this.tssLine5.Name = "tssLine5";
-            this.tssLine5.Size = new System.Drawing.Size(150, 6);
+            this.tssLine5.Size = new System.Drawing.Size(207, 6);
             // 
             // tsmiPrivilege1
             // 
             this.tsmiPrivilege1.Name = "tsmiPrivilege1";
-            this.tsmiPrivilege1.Size = new System.Drawing.Size(153, 24);
+            this.tsmiPrivilege1.Size = new System.Drawing.Size(210, 24);
             this.tsmiPrivilege1.Text = "权限管理";
             this.tsmiPrivilege1.Click += new System.EventHandler(this.tsmiPrivilege_Click);
             // 
             // tsmiProperties1
             // 
             this.tsmiProperties1.Name = "tsmiProperties1";
-            this.tsmiProperties1.Size = new System.Drawing.Size(153, 24);
+            this.tsmiProperties1.Size = new System.Drawing.Size(210, 24);
             this.tsmiProperties1.Text = "属性";
             this.tsmiProperties1.Click += new System.EventHandler(this.tsmiProperties_Click);
             // 
@@ -576,7 +576,7 @@
             // splitContainer1
             // 
             this.splitContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.splitContainer1.Location = new System.Drawing.Point(0, 62);
+            this.splitContainer1.Location = new System.Drawing.Point(0, 58);
             this.splitContainer1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.splitContainer1.Name = "splitContainer1";
             // 
@@ -587,7 +587,7 @@
             // splitContainer1.Panel2
             // 
             this.splitContainer1.Panel2.Controls.Add(this.lvwFiles);
-            this.splitContainer1.Size = new System.Drawing.Size(984, 477);
+            this.splitContainer1.Size = new System.Drawing.Size(984, 481);
             this.splitContainer1.SplitterDistance = 328;
             this.splitContainer1.SplitterWidth = 5;
             this.splitContainer1.TabIndex = 3;
@@ -602,7 +602,7 @@
             this.tvwDirectory.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tvwDirectory.Name = "tvwDirectory";
             this.tvwDirectory.SelectedImageIndex = 0;
-            this.tvwDirectory.Size = new System.Drawing.Size(328, 477);
+            this.tvwDirectory.Size = new System.Drawing.Size(328, 481);
             this.tvwDirectory.TabIndex = 0;
             this.tvwDirectory.BeforeExpand += new System.Windows.Forms.TreeViewCancelEventHandler(this.tvwDirectory_BeforeExpand);
             this.tvwDirectory.AfterExpand += new System.Windows.Forms.TreeViewEventHandler(this.tvwDirectory_AfterExpand);
@@ -625,7 +625,7 @@
             this.lvwFiles.Location = new System.Drawing.Point(0, 0);
             this.lvwFiles.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.lvwFiles.Name = "lvwFiles";
-            this.lvwFiles.Size = new System.Drawing.Size(651, 477);
+            this.lvwFiles.Size = new System.Drawing.Size(651, 481);
             this.lvwFiles.SmallImageList = this.ilstIcons;
             this.lvwFiles.TabIndex = 0;
             this.lvwFiles.UseCompatibleStateImageBehavior = false;

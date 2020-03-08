@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownLoadAssemblyOnDemand", "DownLoadAssemblyOnDemand\DownLoadAssemblyOnDemand.csproj", "{3FE0966B-8CED-47BD-9173-6DE14DEE6EFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownLoadAssemblyOnDemand.Web", "DownLoadAssemblyOnDemand.Web\DownLoadAssemblyOnDemand.Web.csproj", "{54726374-AA8F-4F59-93E6-954EF6959EA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMathLibrary", "MyMathLibrary\MyMathLibrary.csproj", "{A892F67B-EEB6-442B-BEB8-3E26680B17D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FE0966B-8CED-47BD-9173-6DE14DEE6EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE0966B-8CED-47BD-9173-6DE14DEE6EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE0966B-8CED-47BD-9173-6DE14DEE6EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE0966B-8CED-47BD-9173-6DE14DEE6EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54726374-AA8F-4F59-93E6-954EF6959EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54726374-AA8F-4F59-93E6-954EF6959EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54726374-AA8F-4F59-93E6-954EF6959EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54726374-AA8F-4F59-93E6-954EF6959EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A892F67B-EEB6-442B-BEB8-3E26680B17D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A892F67B-EEB6-442B-BEB8-3E26680B17D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A892F67B-EEB6-442B-BEB8-3E26680B17D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A892F67B-EEB6-442B-BEB8-3E26680B17D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

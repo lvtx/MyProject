@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 10
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseThreadStatic", "UseThreadStatic\UseThreadStatic.csproj", "{2A4D1F0F-2048-4950-A0F7-FF767EA06681}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseDataSlot", "UseDataSlot\UseDataSlot.csproj", "{BD7699EA-86F5-4441-A2FF-3E2696CD4ED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseGenericThreadLocal", "UseGenericThreadLocal\UseGenericThreadLocal.csproj", "{C6635020-2F2A-4E60-AB95-48E60056100C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A4D1F0F-2048-4950-A0F7-FF767EA06681}.Debug|x86.ActiveCfg = Debug|x86
+		{2A4D1F0F-2048-4950-A0F7-FF767EA06681}.Debug|x86.Build.0 = Debug|x86
+		{2A4D1F0F-2048-4950-A0F7-FF767EA06681}.Release|x86.ActiveCfg = Release|x86
+		{2A4D1F0F-2048-4950-A0F7-FF767EA06681}.Release|x86.Build.0 = Release|x86
+		{BD7699EA-86F5-4441-A2FF-3E2696CD4ED5}.Debug|x86.ActiveCfg = Debug|x86
+		{BD7699EA-86F5-4441-A2FF-3E2696CD4ED5}.Debug|x86.Build.0 = Debug|x86
+		{BD7699EA-86F5-4441-A2FF-3E2696CD4ED5}.Release|x86.ActiveCfg = Release|x86
+		{BD7699EA-86F5-4441-A2FF-3E2696CD4ED5}.Release|x86.Build.0 = Release|x86
+		{C6635020-2F2A-4E60-AB95-48E60056100C}.Debug|x86.ActiveCfg = Debug|x86
+		{C6635020-2F2A-4E60-AB95-48E60056100C}.Debug|x86.Build.0 = Debug|x86
+		{C6635020-2F2A-4E60-AB95-48E60056100C}.Release|x86.ActiveCfg = Release|x86
+		{C6635020-2F2A-4E60-AB95-48E60056100C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+1.使用同步的方式计算文件夹的容量  ·CalculateFolderSize项目
+2.使用异步的方式计算文件夹的容量 ·CalculateFolderSizeNoAsync项目
+3.更完善CalculateFolderSizeNoAsync项目 ·CFZDisplayInfo项目
+4.使用BackgroundWorker实现异步计算文件夹容量 ·CFZBackgroundWork项目

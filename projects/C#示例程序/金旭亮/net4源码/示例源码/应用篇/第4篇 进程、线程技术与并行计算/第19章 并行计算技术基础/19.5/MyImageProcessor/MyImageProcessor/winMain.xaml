@@ -1,0 +1,16 @@
+﻿<Window x:Class="MyImageProcessor.winMain"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="并行计算应用示例"  Height="300" Width="300"   Name="MainWindow">
+   
+    <DockPanel Margin="2" >
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Width="250" >
+            <Button Margin="10 5 10 5"  Width="100" HorizontalAlignment="Center" Content="装入图像" Name="btnLoadPicture" Click="btnLoadPicture_Click"></Button>
+            <Button Margin="10 5 10 5"  Width="100" HorizontalAlignment="Center" Content="反转图像" Name="btnReverseImage" Click="btnReverseImage_Click" ></Button>
+        </StackPanel>
+        <Border BorderBrush="Black" BorderThickness="1" CornerRadius="10">
+            <Image DockPanel.Dock="Top" Margin="10"  Stretch="Fill" Name="image1"   />
+   </Border> 
+    </DockPanel>
+        
+</Window>

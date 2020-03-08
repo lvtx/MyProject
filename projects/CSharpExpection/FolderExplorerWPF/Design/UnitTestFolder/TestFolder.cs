@@ -255,6 +255,15 @@ namespace UnitTestFolder
                 }
             }
         }
+        [TestMethod]
+        public void WhatIsMyComputer()
+        {
+            string paths = Environment.GetFolderPath(Environment.SpecialFolder.MyComputer);
+            foreach (var path in paths)
+            {
+                Console.WriteLine(path);
+            }
+        }
     }
 }
 

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="92386899-47fe-431e-843c-679a045d752d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1361/MyCalculatorService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MyCalculatorService.xsd" MetadataType="Schema" ID="13fd7f4d-1565-4ac5-a2eb-9c654fe3f551" SourceId="1" SourceUrl="http://localhost:1361/MyCalculatorService.svc?xsd=xsd1" />
+    <MetadataFile FileName="MyCalculatorService.disco" MetadataType="Disco" ID="4bef7d9e-ac41-4eb4-86e6-91c3edeb2161" SourceId="1" SourceUrl="http://localhost:1361/MyCalculatorService.svc?disco" />
+    <MetadataFile FileName="MyCalculatorService1.xsd" MetadataType="Schema" ID="538bf248-cc60-4b9e-8ec4-7147cc4561c9" SourceId="1" SourceUrl="http://localhost:1361/MyCalculatorService.svc?xsd=xsd0" />
+    <MetadataFile FileName="MyCalculatorService.wsdl" MetadataType="Wsdl" ID="287d7c06-4eaa-4e68-8d43-88f7aae222ce" SourceId="1" SourceUrl="http://localhost:1361/MyCalculatorService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

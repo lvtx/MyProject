@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Wizard.frmBase" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAiAAAQGACCAMAAACAAFACAABAAgEBBAAAIAAAAAg=</HashCode>
+      <FileName>frmBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wizard.frmStep1" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAEGAAAAAAAACAAQACAAAAAAABAAAAAAAAAAQ=</HashCode>
+      <FileName>frmStep1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wizard.frmStep2" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEmgEAAAAAACAAAACAAAgAAABAABAAAACAAA=</HashCode>
+      <FileName>frmStep2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wizard.frmStep3" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmStep3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wizard.frmTestWizard" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEAAIAAkCAAIABABACAAAACAAAAAAAAAQAAAAACAAA=</HashCode>
+      <FileName>frmTestWizard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wizard.Information" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAgAAAAAAAAhAAAAA=</HashCode>
+      <FileName>Information.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wizard.Program" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wizard.WizardController">
+    <Position X="11" Y="1.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAiAAAAAAAAAQQABQAAAAAAQAAAAQAAAAA=</HashCode>
+      <FileName>WizardController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wizard.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wizard.Properties.Settings" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

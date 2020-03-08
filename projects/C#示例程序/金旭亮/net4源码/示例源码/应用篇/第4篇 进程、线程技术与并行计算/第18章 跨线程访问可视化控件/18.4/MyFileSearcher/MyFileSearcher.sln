@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 10
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFileSearcherForWinForm", "MyFileSearcherForWinForm\MyFileSearcherForWinForm.csproj", "{B661C35E-7BA8-4C6A-8908-27299F01531B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFileSearcherForWPF", "MyFileSearcherForWPF\MyFileSearcherForWPF.csproj", "{213246EF-0327-4F16-AF4D-A3A4B531821E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B661C35E-7BA8-4C6A-8908-27299F01531B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B661C35E-7BA8-4C6A-8908-27299F01531B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B661C35E-7BA8-4C6A-8908-27299F01531B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B661C35E-7BA8-4C6A-8908-27299F01531B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{213246EF-0327-4F16-AF4D-A3A4B531821E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213246EF-0327-4F16-AF4D-A3A4B531821E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213246EF-0327-4F16-AF4D-A3A4B531821E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213246EF-0327-4F16-AF4D-A3A4B531821E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

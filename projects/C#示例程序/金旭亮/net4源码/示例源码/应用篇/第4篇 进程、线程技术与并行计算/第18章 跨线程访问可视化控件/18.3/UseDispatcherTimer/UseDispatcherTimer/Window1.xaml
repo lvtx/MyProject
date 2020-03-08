@@ -1,0 +1,9 @@
+﻿<Window x:Class="UseDispatcherTimer.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="使用DispatcherTimer" SizeToContent="Height" Width="300">
+    <StackPanel Margin="10">
+        <Ellipse Width="100" Height="70" Name="ellipse1" Margin="10"  Stroke="Black"/>
+        <Button Margin="10" Content="启动颜色变换" Name="btnStartTimer" Click="btnStartTimer_Click" />        
+    </StackPanel>
+</Window>

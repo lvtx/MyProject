@@ -7,66 +7,184 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
 using System.Windows.Media.Imaging;
+using System.ComponentModel;
 
 namespace FolderExplorer.Filesystem
 {
-    public abstract class FileSys
+    public abstract class FileSys : INotifyPropertyChanged
     {
-        public virtual string Name { get; set; }
-        public virtual string FullPath { get; set; }
-    }
-
-    /// <summary>
-    /// 自定义文件夹类型
-    /// </summary>
-    public class Folder:FileSys
-    {
-        private string name;
+        public event PropertyChangedEventHandler PropertyChanged;
+        public void OnPropertyChanged(PropertyChangedEventArgs e)
+        {
+            if (PropertyChanged != null)
+            {
+                PropertyChanged(this, e);
+            }
+        }
         /// <summary>
-        /// 获取文件夹名称
+        /// 获取一个文件或文件夹
         /// </summary>
-        public override string Name
+        protected FileSystemInfo folderOrfile;
+        /// <summary>
+        /// 获取文件实例
+        /// </summary>
+        protected DirectoryInfo folder;
+        /// <summary>
+        /// 获取文件实例 
+        /// </summary>
+        protected FileInfo file;
+        protected string name;
+        /// <summary>
+        /// 获取文件夹或文件名称
+        /// </summary>
+        public string Name
         {
             get
             {
                 if (name == null)
                 {
-                    name = folder.Name;
+                    name = folderOrfile.Name;
                 }
                 return name;
             }
             set
             {
                 name = value;
+                OnPropertyChanged(new PropertyChangedEventArgs("Name"));
             }
         }
         /// <summary>
-        /// 用于在内部传递外部传入的文件夹参数
+        /// 传入路径创建一个文件或文件夹对象
         /// </summary>
-        private DirectoryInfo folder;
-        /// <summary>
-        /// 自定义一个初始路径
-        /// </summary>
-        public override string FullPath
+        public string FullPath
         {
             get
             {
-                return folder.FullName;
+                return folderOrfile.FullName;
             }
             set
             {
-                if (Directory.Exists(value))                  
+                if (Directory.Exists(value))
                 {
                     //一个标记(重点)
                     this.folder = new DirectoryInfo(value);
+                    folderOrfile = this.folder;
+                }
+                else if (System.IO.File.Exists(value))
+                {
+                    this.file = new FileInfo(value);
+                    folderOrfile = this.file;
                 }
                 else
                 {
                     throw new ArgumentException("must exist", value);
                 }
+                OnPropertyChanged(new PropertyChangedEventArgs("FullPath"));
             }
         }
 
+        /// <summary>
+        /// 获取文件或文件夹修改时间
+        /// </summary>
+        private string changeTime;
+        public string ChangeTime
+        {
+            get
+            {
+                changeTime = folderOrfile.LastWriteTime.ToString();
+                return changeTime;
+            }
+        }
+        /// <summary>
+        /// 获取文件夹或文件的图标
+        /// </summary>
+        private Icon icon;
+
+        public Icon iIcon
+        {
+            get
+            {
+                if (icon == null)
+                {
+                    switch (folderOrfile is DirectoryInfo)
+                    {
+                        case true:
+                            icon = IconInfo.GetFolderIcon(false);
+                            break;
+                        case false:
+                            {
+                                var path = file.FullName;
+                                icon = IconInfo.GetFileIcon(path, true);
+                            }
+                            break;
+                        default:
+                            break;
+                    }
+                }
+                return icon;
+            }
+            set
+            {
+                icon = value;
+                OnPropertyChanged(new PropertyChangedEventArgs("iIcon"));
+            }
+        }
+
+        /// <summary>
+        /// 获取文件类型
+        /// </summary>
+        private string fType;
+
+        public string FType
+        {
+            get
+            {
+                switch (folderOrfile is DirectoryInfo)
+                {
+                    case true:
+                        {
+                            if ((folder.Attributes & FileAttributes.Directory) == FileAttributes.Directory)
+                            {
+                                fType = "文件夹";
+                            }
+                        }
+                        break;
+                    case false:
+                        {
+                            fType = FileTypeInfo.GetFileType(file.FullName);
+                        }
+                        break;
+                    default:
+                        break;
+                }
+                return fType;
+            }
+        }
+        /// <summary>
+        /// 获取文件大小
+        /// </summary>
+        private long? size;
+
+        public long? Size
+        {
+            get 
+            {
+                if (file != null)
+                    //空格是用来保持与类型cell之间的距离
+                    size = (file.Length / 1024);
+                //文件夹的大小为空
+                else size = null;
+                return size;
+            }
+        }
+
+    }
+
+    /// <summary>
+    /// 自定义文件夹类型
+    /// </summary>
+    public class Folder : FileSys
+    {
         private ObservableCollection<Folder> subFolders;
         /// <summary>
         /// 当前文件夹下的子文件夹
@@ -133,55 +251,6 @@ namespace FolderExplorer.Filesystem
             }
         }
 
-        private string creationTime;
-        /// <summary>
-        /// 获取文件的创建时间
-        /// </summary>
-        public string CreationTime
-        {
-            get
-            {
-                creationTime = folder.LastWriteTime.ToString();
-                return creationTime;
-            }
-        }
-        /// <summary>
-        /// 获取文件夹的图标
-        /// </summary>
-        private Icon icon;
-
-        public Icon iIcon
-        {
-            get
-            {
-                if(icon == null)
-                    icon = IconInfo.GetFolderIcon(false);
-                return icon;
-            }
-            set
-            {
-                icon = value;
-            }
-        }
-
-        /// <summary>
-        /// 获取文件类型
-        /// </summary>
-        private string fType;
-
-        public string FType
-        {
-            get
-            {
-                if ((folder.Attributes & FileAttributes.Directory) == FileAttributes.Directory)
-                {
-                    fType = "文件夹";
-                }
-                
-                return fType;
-            }
-        }
-
         private ObservableCollection<FileSys> subFolderAndfiles;
         /// <summary>
         /// 获得子文件和文件夹的名字
@@ -220,86 +289,12 @@ namespace FolderExplorer.Filesystem
 
 
     }
-/*======================================================================*/
+    /*======================================================================*/
     /// <summary>
     /// 自定义文件类型
     /// </summary>
     public class File : FileSys
     {
-        /// <summary>
-        /// 获取文件名
-        /// </summary>
-        public override string Name
-        {
-            get { return file.Name; }
-        }
-
-        private FileInfo file;
-        /// <summary>
-        /// 获取文件路径
-        /// </summary>
-        public override string FullPath
-        {
-            get
-            {
-                return file.FullName;
-            }
-            set
-            {
-                if (System.IO.File.Exists(value))
-                {
-                    this.file = new FileInfo(value);
-                }
-                else
-                {
-                    throw new ArgumentException("must exit", value);
-                }
-            }
-        }
-        /// <summary>
-        /// 获取文件修改时间
-        /// </summary>
-        private string creationTime;
-        public string CreationTime
-        {
-            get
-            {
-                creationTime = file.LastWriteTime.ToString();
-                return creationTime;
-            }
-        }
-        /// <summary>
-        /// 获取文件类型
-        /// </summary>
-        private string fType;
-
-        public string FType
-        {
-            get
-            {
-                fType = FileTypeInfo.GetFileType(file.FullName);
-                return fType;
-            }
-        }
-
-        /// <summary>
-        /// 获取文件图标
-        /// </summary>
-        private Icon icon;
-
-        public Icon iIcon
-        {
-            get
-            {
-                if (icon == null)
-                {
-                    var path = file.FullName;
-                    icon = IconInfo.GetFileIcon(path,false);
-                }
-                return icon;
-            }
-        }
-
         //private Icon icon;
         ///// <summary>
         ///// 获取文件图标的另一种方法

@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 @7 Type=Program Member=.ctor)" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="Program" />
+    <Node Id="(@3 @5 Type=MyInnerClass Member=.ctor)" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="MyInnerClass" />
+    <Node Id="@10" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="MyPublicClass" />
+    <Node Id="@11" Category="CodeSchema_Class" CodeSchemaProperty_IsPrivate="True" Group="Collapsed" Label="Program" />
+    <Node Id="@13" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="Main" />
+    <Node Id="@14" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="MyPublicClass" />
+    <Node Id="@2" Category="FileSystem.Category.FileOfType.exe" CodeSchemaProperty_StrongName="UseMyDLLAssembly, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" FilePath="$(5c86cfb7-4da8-4403-a10c-a7c978f3f8d4.OutputPath)" Group="Collapsed" Label="UseMyDLLAssembly.exe">
+      <Category Ref="CodeSchema_Assembly" />
+    </Node>
+    <Node Id="@4" Category="FileSystem.Category.FileOfType.dll" CodeSchemaProperty_StrongName="MyDLLAssembly, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" FilePath="$(6aebdddc-629f-4202-80df-014e408e6813.OutputPath)" Group="Expanded" Label="MyDLLAssembly.dll">
+      <Category Ref="CodeSchema_Assembly" />
+    </Node>
+    <Node Id="@6" Category="CodeSchema_Namespace" Group="Expanded" Label="MyDLLAssembly" />
+    <Node Id="@8" Category="CodeSchema_Namespace" Group="Collapsed" Label="UseMyDLLAssembly" />
+    <Node Id="@9" Category="CodeSchema_Class" CodeSchemaProperty_IsPrivate="True" Group="Collapsed" Label="MyInnerClass" />
+  </Nodes>
+  <Links>
+    <Link Source="@10" Target="@14" Category="Contains" />
+    <Link Source="@11" Target="(@1 @7 Type=Program Member=.ctor)" Category="Contains" />
+    <Link Source="@11" Target="@13" Category="Contains" />
+    <Link Source="@13" Target="@10" Category="References" />
+    <Link Source="@13" Target="@14" Category="CodeSchema_Calls" />
+    <Link Source="@2" Target="@8" Category="Contains" />
+    <Link Source="@4" Target="@6" Category="Contains" />
+    <Link Source="@6" Target="@10" Category="Contains" />
+    <Link Source="@6" Target="@9" Category="Contains" />
+    <Link Source="@8" Target="@11" Category="Contains" />
+    <Link Source="@9" Target="(@3 @5 Type=MyInnerClass Member=.ctor)" Category="Contains" />
+  </Links>
+  <Categories>
+    <Category Id="CodeSchema_Assembly" Label="程序集" BasedOn="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Assembly" IsProviderRoot="False" NavigationActionLabel="程序集" />
+    <Category Id="CodeSchema_Block" Label="块" BasedOn="CodeSchema_Statement" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" IsProviderRoot="False" NavigationActionLabel="块" />
+    <Category Id="CodeSchema_Calls" Label="调用" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="调用者" OutgoingActionLabel="调用" />
+    <Category Id="CodeSchema_Class" Label="类" BasedOn="CodeSchema_Type" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Class" IsProviderRoot="False" NavigationActionLabel="类" />
+    <Category Id="CodeSchema_Member" Label="成员" BasedOn="CodeSchema_Block" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Field" IsProviderRoot="False" NavigationActionLabel="成员" />
+    <Category Id="CodeSchema_Method" Label="方法" BasedOn="CodeSchema_Member" CanBeDataDriven="True" DefaultAction="Link:Forward:CodeSchema_Calls" Icon="CodeSchema_Method" IsProviderRoot="False" NavigationActionLabel="方法" />
+    <Category Id="CodeSchema_Namespace" Label="命名空间" BasedOn="CodeSchema_Block" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Type" Icon="CodeSchema_Namespace" IsProviderRoot="False" NavigationActionLabel="命名空间" />
+    <Category Id="CodeSchema_Statement" Label="语句" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" IsProviderRoot="False" NavigationActionLabel="语句" />
+    <Category Id="CodeSchema_Type" Label="类型" BasedOn="CodeSchema_Block" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Class" IsProviderRoot="False" NavigationActionLabel="类型" />
+    <Category Id="Contains" Label="包含" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="包含者" IsContainment="True" OutgoingActionLabel="包含" />
+    <Category Id="File" Label="文件" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="File" IsProviderRoot="False" NavigationActionLabel="文件" />
+    <Category Id="FileSystem.Category.FileOfType.dll" Label="dll 文件" BasedOn="CodeSchema_Assembly" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="dll 文件" />
+    <Category Id="FileSystem.Category.FileOfType.exe" Label="exe 文件" BasedOn="CodeSchema_Assembly" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="exe 文件" />
+    <Category Id="References" Label="引用" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="引用者" OutgoingActionLabel="引用" />
+  </Categories>
+  <Properties>
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsConstructor" Label="IsConstructor" Description="IsConstructor" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPrivate" Label="IsPrivate" Description="IsPrivate" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPublic" Label="IsPublic" Description="IsPublic" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsSpecialName" Label="IsSpecialName" Description="IsSpecialName" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_StrongName" Label="StrongName" Description="StrongName" DataType="System.String" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="FilePath" Label="文件路径" Description="文件路径" DataType="System.String" />
+    <Property Id="Group" Label="分组" Description="将节点显示为组" DataType="Microsoft.VisualStudio.Progression.GraphModel.GroupStyle" />
+    <Property Id="Icon" Label="图标" Description="图标" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="Label" Label="标签" Description="可批注对象的可显示标签" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="ArrayRank" Label="数组秩" ValueType="System.String" />
+    <Name Id="Assembly" Label="程序集" ValueType="Uri" />
+    <Name Id="Member" Label="成员" ValueType="System.Object" />
+    <Name Id="Name" Label="名称" ValueType="System.String" />
+    <Name Id="Namespace" Label="命名空间" ValueType="System.String" />
+    <Name Id="OverloadingParameters" Label="参数" ValueType="Microsoft.VisualStudio.Progression.GraphModel.QualifiedIdentifierArrayCollection" Formatter="NameValueNoEscape" />
+    <Name Id="ParentType" Label="父类型" ValueType="System.Object" />
+    <Name Id="Type" Label="类型" ValueType="System.Object" />
+  </QualifiedNames>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="程序集" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#1C3068" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="命名空间" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#4A65A0" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="类型" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#D3DCEF" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="方法" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Method')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="泛型" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('Generics')" />
+      <Setter Property="Background" Value="#FFA080A0" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="外部" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FFA08080" />
+    </Style>
+  </Styles>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(5c86cfb7-4da8-4403-a10c-a7c978f3f8d4.OutputPathUri)" />
+    <Alias n="2" Id="(@1)" />
+    <Alias n="3" Uri="Assembly=$(6aebdddc-629f-4202-80df-014e408e6813.OutputPathUri)" />
+    <Alias n="4" Id="(@3)" />
+    <Alias n="5" Id="Namespace=MyDLLAssembly" />
+    <Alias n="6" Id="(@3 @5)" />
+    <Alias n="7" Id="Namespace=UseMyDLLAssembly" />
+    <Alias n="8" Id="(@1 @7)" />
+    <Alias n="9" Id="(@3 @5 Type=MyInnerClass)" />
+    <Alias n="10" Id="(@3 @5 Type=MyPublicClass)" />
+    <Alias n="11" Id="(@1 @7 Type=Program)" />
+    <Alias n="12" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/mscorlib.dll" />
+    <Alias n="13" Id="(@1 @7 Type=Program Member=(Name=Main OverloadingParameters=[(@12 Namespace=System Type=(Name=String ArrayRank=1 ParentType=String))]))" />
+    <Alias n="14" Id="(@3 @5 Type=MyPublicClass Member=.ctor)" />
+  </IdentifierAliases>
+  <Paths>
+    <Path Id="5c86cfb7-4da8-4403-a10c-a7c978f3f8d4.OutputPath" Value="C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第1篇 面向对象技术的.NET视角\第7章 命名空间与程序集\SourceCode\7.1\UseAssembly\UseMyDLLAssembly\bin\Debug\UseMyDLLAssembly.exe" />
+    <Path Id="5c86cfb7-4da8-4403-a10c-a7c978f3f8d4.OutputPathUri" Value="file:///C:/jxl/MyBook/.NET4.0面向对象编程漫谈/1 基础篇/第1篇 面向对象技术的.NET视角/第7章 命名空间与程序集/SourceCode/7.1/UseAssembly/UseMyDLLAssembly/bin/Debug/UseMyDLLAssembly.exe" />
+    <Path Id="6aebdddc-629f-4202-80df-014e408e6813.OutputPath" Value="C:\jxl\MyBook\.NET4.0面向对象编程漫谈\1 基础篇\第1篇 面向对象技术的.NET视角\第7章 命名空间与程序集\SourceCode\7.1\UseAssembly\MyDLLAssembly\bin\Debug\MyDLLAssembly.dll" />
+    <Path Id="6aebdddc-629f-4202-80df-014e408e6813.OutputPathUri" Value="file:///C:/jxl/MyBook/.NET4.0面向对象编程漫谈/1 基础篇/第1篇 面向对象技术的.NET视角/第7章 命名空间与程序集/SourceCode/7.1/UseAssembly/MyDLLAssembly/bin/Debug/MyDLLAssembly.dll" />
+    <Path Id="FxReferenceAssembliesUri" Value="file:///C:/Program Files/Reference Assemblies/Microsoft/Framework" />
+  </Paths>
+</DirectedGraph>

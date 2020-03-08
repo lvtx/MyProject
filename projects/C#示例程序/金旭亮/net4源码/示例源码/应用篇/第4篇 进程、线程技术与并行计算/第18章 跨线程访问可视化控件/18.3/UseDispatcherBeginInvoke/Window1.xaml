@@ -1,0 +1,10 @@
+﻿<Window x:Class="UseDispatcherBeginInvoke.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Dispatcher.BeginInvoke使用示例" Height="180" Width="300">
+   <StackPanel Margin="10">
+        <Button Margin="10" Content="启动一个线程" Name="btnStartThread" Click="btnStartThread_Click"/>
+        <Button Margin="10" Content="停止线程" IsEnabled="False" Name="btnStopThread" Click="btnStopThread_Click"/>
+        <TextBlock Margin="10" Name="txtInfo"/>
+    </StackPanel>
+</Window>

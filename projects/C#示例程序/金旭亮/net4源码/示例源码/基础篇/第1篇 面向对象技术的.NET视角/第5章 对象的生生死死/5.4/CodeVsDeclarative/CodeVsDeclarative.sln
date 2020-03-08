@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseAllCodeToCreateWPFWindow", "UseAllCodeToCreateWPFWindow\UseAllCodeToCreateWPFWindow.csproj", "{A0A1386D-C4D2-4F33-81BA-1899F453A1C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseXAMLAndCodeToCreateWPFWindow", "UseXAMLAndCodeToCreateWPFWindow\UseXAMLAndCodeToCreateWPFWindow.csproj", "{C7B2F278-9986-4FC8-BC6D-CE3DC0DF3B5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0A1386D-C4D2-4F33-81BA-1899F453A1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A1386D-C4D2-4F33-81BA-1899F453A1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A1386D-C4D2-4F33-81BA-1899F453A1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A1386D-C4D2-4F33-81BA-1899F453A1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B2F278-9986-4FC8-BC6D-CE3DC0DF3B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B2F278-9986-4FC8-BC6D-CE3DC0DF3B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B2F278-9986-4FC8-BC6D-CE3DC0DF3B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B2F278-9986-4FC8-BC6D-CE3DC0DF3B5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

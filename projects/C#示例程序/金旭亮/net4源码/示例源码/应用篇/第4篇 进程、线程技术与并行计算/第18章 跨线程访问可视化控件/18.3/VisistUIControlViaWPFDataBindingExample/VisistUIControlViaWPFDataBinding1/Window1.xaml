@@ -1,0 +1,9 @@
+﻿<Window x:Class="VisistUIControlViaWPFDataBinding1.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="利用WPF数据绑定机制跨线程更新可视化控件-1" SizeToContent="Height" Width="300" >
+    <StackPanel>
+        <TextBlock Name="textBlock1" FontSize="20" Text="{Binding Path=Value}" Margin="10"  HorizontalAlignment="Center"></TextBlock>
+        <Button Content="增加计数值" Click="Button_Click" Margin="0 0 0 10" Padding="5" HorizontalAlignment="Center"></Button> 
+    </StackPanel>
+</Window>
