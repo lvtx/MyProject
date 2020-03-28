@@ -18,7 +18,6 @@ namespace EFConsoleApp
         public MyDBEntities()
             : base("name=MyDBEntities")
         {
-            this.Configuration.LazyLoadingEnabled = false;
         }
     
         protected override void OnModelCreating(DbModelBuilder modelBuilder)

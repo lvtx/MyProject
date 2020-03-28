@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'E:\EntityAssociationDemo\EntityAssociation\MyDataModel.edmx'. 
+﻿// T4 code generation is enabled for model 'E:\doucments\visual_studio_2019\projects\C#示例程序\金旭亮\公开课专业\Unit5\EntityAssociationDemo\EntityAssociation\MyDataModel.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

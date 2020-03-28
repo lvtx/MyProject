@@ -107,7 +107,7 @@
           <Property Name="Telephone" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
           <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
         </EntityType>
-        <EntityContainer Name="MyDBEntities" annotation:LazyLoadingEnabled="false">
+        <EntityContainer Name="MyDBEntities" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="OrderClients" EntityType="Self.OrderClient" />
           <EntitySet Name="IdentityCards" EntityType="MyDBModel.IdentityCard" />
           <EntitySet Name="People" EntityType="MyDBModel.Person" />

@@ -14,7 +14,6 @@ namespace EntityAssociationTest.OneToMany
     [TestClass]
     public class OneToManyTest
     {
-
         #region "Query"
         [TestMethod]
         public async Task TestExplicitLoadingBookReview()
@@ -24,11 +23,10 @@ namespace EntityAssociationTest.OneToMany
                 var query = from book in context.Books
                             select book;
                 Book firstBook = await query.FirstAsync();
-                Assert.IsTrue(firstBook.BookReviews.Count == 0);
+                Assert.IsFalse(firstBook.BookReviews.Count == 0);
                 context.Entry<Book>(firstBook)
                     .Collection<BookReview>("BookReviews").Load();
                 Assert.IsTrue(firstBook.BookReviews.Count > 0);
-
             }
         }
         #endregion
@@ -49,7 +47,6 @@ namespace EntityAssociationTest.OneToMany
                 int result = await context.SaveChangesAsync();
                 Assert.IsTrue(result > 0);
             }
-
         }
         /// <summary>
         /// 给书添加书评
@@ -71,13 +68,11 @@ namespace EntityAssociationTest.OneToMany
                 //书评数加一
                 Assert.IsTrue(firstBookFromDB.BookReviews.Count == reviewCount + 1);
                 //应该能找得到新加的书评
-                BookReview newReview = firstBookFromDB.BookReviews.First(br => br.BookReviewId == review.BookReviewId);
+                BookReview newReview = firstBookFromDB.
+                    BookReviews.First(br => br.BookReviewId == review.BookReviewId);
                 Assert.IsNotNull(newReview);
-
             }
         }
-
-
         #endregion
 
         #region "Delete"
@@ -94,7 +89,8 @@ namespace EntityAssociationTest.OneToMany
                     int result = await context.SaveChangesAsync();
                     Assert.IsTrue(result > 0);
                     //确认书的记录己经被删除
-                    Book bookFromDB = await context.Books.FirstOrDefaultAsync(b => b.BookId == firstBook.BookId);
+                    Book bookFromDB = await context.Books.FirstOrDefaultAsync
+                        (b => b.BookId == firstBook.BookId);
                     Assert.IsNull(bookFromDB);
                     //确认相关书评己经被删除
                     var query = from review in context.BookReviews
@@ -158,7 +154,8 @@ namespace EntityAssociationTest.OneToMany
             using (var context = new MyDBEntities())
             {
                 //找到第一本和第二本书，把第一本书的第一条书评移给第二本书
-                Book firstBook = await context.Books.Include("BookReviews").FirstOrDefaultAsync();
+                Book firstBook = await context.Books.Include("BookReviews")
+                    .FirstOrDefaultAsync();
                 Book secondBook = context.Books.Include("BookReviews").ToList().ElementAt(1);
                 if (firstBook != null && firstBook.BookReviews.Count > 0)
                 {
@@ -171,11 +168,11 @@ namespace EntityAssociationTest.OneToMany
                     int result = await context.SaveChangesAsync();
                     Assert.IsTrue(result > 0);
                     //重新提取书评
-                    BookReview reviewFromDB = await context.BookReviews.FirstOrDefaultAsync(r => r.BookReviewId == bookReview.BookReviewId);
+                    BookReview reviewFromDB = await context.BookReviews.
+                        FirstOrDefaultAsync(r => r.BookReviewId == bookReview.BookReviewId);
                     Assert.IsTrue(reviewFromDB.BookId == secondBook.BookId);
                     OneToManyHelper.ShowBookReivew(reviewFromDB);
                 }
-
             }
 
         }

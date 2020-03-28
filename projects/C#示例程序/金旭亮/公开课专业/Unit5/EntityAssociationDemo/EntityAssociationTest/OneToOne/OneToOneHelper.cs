@@ -1,6 +1,4 @@
-﻿
-
-using EntityAssociation;
+﻿using EntityAssociation;
 using System;
 using System.Text;
 namespace EntityAssociationTest.OneToOne

@@ -18,7 +18,6 @@ namespace EntityAssociationTest.OneToMany
                  BookName="Book"+ran.Next(1,10000)
             };
             return book;
-
         }
         /// <summary>
         /// 如果book不为null，则创建一个BookReview并将其插入到Book的书评集合中
