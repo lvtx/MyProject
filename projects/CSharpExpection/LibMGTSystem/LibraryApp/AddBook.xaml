@@ -76,10 +76,6 @@
                   Style="{StaticResource MaterialDesignFloatingHintTextBox}"
                   VerticalAlignment="Center" Width="250" />
                     <TextBox
-                  materialDesign:HintAssist.Hint="语言" Name="txtLanguge"
-                  Style="{StaticResource MaterialDesignFloatingHintTextBox}"
-                  VerticalAlignment="Center" Width="250" />
-                    <TextBox
                   materialDesign:HintAssist.Hint="页数" Name="txtPageNumber"
                   Style="{StaticResource MaterialDesignFloatingHintTextBox}"
                   VerticalAlignment="Center" Width="250" />

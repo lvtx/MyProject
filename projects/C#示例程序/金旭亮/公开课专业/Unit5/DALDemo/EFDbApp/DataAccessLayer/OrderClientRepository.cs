@@ -30,7 +30,6 @@ namespace DataAccessLayer
         public List<OrderClient> GetAllClient()
         {
             return _dbContext.OrderClients.ToList();
-
         }
 
         public void AddClient(OrderClient client)

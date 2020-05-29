@@ -128,12 +128,12 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
-      <Project>{6cd7da44-30f5-40dd-985c-b9e54bf6d1ab}</Project>
+      <Project>{cde0c123-d84a-44cb-883a-5f24113da7b0}</Project>
       <Name>DataAccessLayer</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Model\Model.csproj">
-      <Project>{9cd8f895-bb05-42e1-9bab-44f632b5e564}</Project>
-      <Name>Model</Name>
+    <ProjectReference Include="..\LibraryModel\LibraryModel.csproj">
+      <Project>{c673193d-4ac8-4212-a9da-a36c5f3ebd58}</Project>
+      <Name>LibraryModel</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -31,13 +31,13 @@ namespace DownloadWebImages
 
         }
         //当前要下载的Java教学PPT数目为49，这是依据教学网站上的PPT数目而定的
-        private const int PPTCOUNT = 49;
+        private const int PPTCOUNT = 1;
         private void Init()
         {
             imageUrls = new List<string>();
             for (int i = 1; i <= PPTCOUNT; i++)
             {
-                imageUrls.Add(String.Format("http://www.jinxuliang.com/course/java/Thread/ThreadBasic/slidepic/Snap{0}.jpg", i));
+                imageUrls.Add(String.Format("https://imgsa.baidu.com/exp/w=200/sign=3a6d6b1bfc1f3a295ac8d2cea924bce3/c83d70cf3bc79f3d4ee52ef5b6a1cd11738b29eb.jpg", i));
             }
         }
         //用于保存PPT的下载链接
@@ -153,6 +153,5 @@ namespace DownloadWebImages
                 handler(this, new PropertyChangedEventArgs(name));
             }
         }
-
     }
 }

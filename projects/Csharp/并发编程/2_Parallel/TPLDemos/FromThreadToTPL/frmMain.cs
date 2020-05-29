@@ -119,11 +119,10 @@ namespace CalculateVarianceOfPopulation
             str = string.Format("\n串行算法用时:{0}毫秒\n", sw.ElapsedMilliseconds);
             ShowInfo(str);
         }
-
         #endregion
 
 
-        #region "并行处理（使用线程）"  
+        #region "并行处理（使用线程）使用for(){"创建多线程"}"  
         /// <summary>
         /// 每个数据与平均值的差值的平方和
         /// </summary>
@@ -213,7 +212,8 @@ namespace CalculateVarianceOfPopulation
             ShowInfo(str);
             //获取CPU核心数，作为并行线程数
             int ThreadCount = Environment.ProcessorCount;
-            str = string.Format("\n现在启动{0}个工作线程开始计算每个数据与平均值的差值的平方和...\n", ThreadCount);
+            str = string.Format("\n现在启动{0}个工作线程开始" +
+                "计算每个数据与平均值的差值的平方和...\n", ThreadCount);
 
             //计算每个线程需要处理的数据项数
             int workload = DataSize / ThreadCount;
@@ -229,7 +229,6 @@ namespace CalculateVarianceOfPopulation
                 Thread th = new Thread(CalculateSquareSumInParallelWithThread);
                 th.IsBackground = true;
                 th.Start(argu);
-
             }
 
             //主控线程等待工作线程完成工作
@@ -245,7 +244,6 @@ namespace CalculateVarianceOfPopulation
 
             str = string.Format("\n使用线程的并行算法用时:{0}毫秒\n", sw.ElapsedMilliseconds);
             ShowInfo(str);
-
         }
 
         private void btnUseThread_Click(object sender, EventArgs e)
@@ -259,7 +257,7 @@ namespace CalculateVarianceOfPopulation
         #endregion
 
 
-        #region "并行处理（使用TPL）"
+        #region "并行处理(使用TPL)"
 
         /// <summary>
         /// 针对特定索引范围内的元素，根据处理器个数分区，然后并行对每个分区并行执行一个数据处理函数
@@ -330,11 +328,6 @@ namespace CalculateVarianceOfPopulation
 
             str = string.Format("\n并行算法用时:{0}毫秒\n", sw.ElapsedMilliseconds);
             ShowInfo(str);
-
-
-           
-
-
         }
 
         private void btnUseTPL_Click(object sender, EventArgs e)

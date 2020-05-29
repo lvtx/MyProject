@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Model;
+using LibraryModel;
 using DataAccessLayer;
 using System.Threading.Tasks;
 using System.Windows;
@@ -29,30 +29,30 @@ namespace LibraryApp
             InitializeDGRDShowReader();
         }
         //书的类型全局变量
-        public BookTypeRepository bookTypeContext = new BookTypeRepository();
-        public BookInfoRepository bookInfoContext = new BookInfoRepository();
-        public ReaderTypeRepository readerTypeContext = new ReaderTypeRepository();
-        public ReaderRepository readerContext = new ReaderRepository();
+        public BookTypeRepository bookTypeEntity = new BookTypeRepository();
+        public BookInfoRepository bookEntity = new BookInfoRepository();
+        //public ReaderRepository readerContext = new ReaderRepository();
         /// <summary>
         /// 初始化TreeView
+        /// 1.现实书籍类型
         /// </summary>
         async Task InitializeTreeView()
         {
-            List<BookType> typeOfBooks = await bookTypeContext.GetAllClientsAsync();
-            tvwTypeOfBooks.ItemsSource = typeOfBooks;
+            List<BookType> bookTypes = await bookTypeEntity.GetAllClientsAsync();
+            tvwTypeOfBooks.ItemsSource = bookTypes;
             tvwTypeOfBooks.DisplayMemberPath = "BookTypeName";
             //隐藏展示读者信息的DataGrid
         }
         /// <summary>
         /// 初始化TreeView
         /// </summary>
-        async Task InitializeDGRD()
-        {
-            List<ReaderType> typeOfReaders = await readerTypeContext.GetAllClientsAsync();
-            tvwTypeOfBooks.ItemsSource = typeOfReaders;
-            tvwTypeOfBooks.DisplayMemberPath = "ReaderTypeName";
-            //隐藏展示读者信息的DataGrid
-        }
+        //async Task InitializeDGRD()
+        //{
+        //    List<ReaderType> typeOfReaders = await readerTypeContext.GetAllClientsAsync();
+        //    tvwTypeOfBooks.ItemsSource = typeOfReaders;
+        //    tvwTypeOfBooks.DisplayMemberPath = "ReaderTypeName";
+        //    //隐藏展示读者信息的DataGrid
+        //}
         /// <summary>
         /// 初始化显示Reader信息的DataGrid
         /// </summary>
@@ -76,7 +76,7 @@ namespace LibraryApp
         /// <param name="e"></param>
         private void btnReaderMGT_OnClick(object sender, RoutedEventArgs e)
         {
-            _ = InitializeDGRD();
+            //_ = InitializeDGRD();
             dgrdShowReaderInfo.Visibility = Visibility.Visible;
             //隐藏展示书籍信息的DataGrid
             dgrdShowBookInfo.Visibility = Visibility.Collapsed;
@@ -89,38 +89,38 @@ namespace LibraryApp
             DisplayInfoAsync();
         }
         /// <summary>
-        /// 显示书籍和读者信息
+        /// 显示书籍信息
         /// </summary>
         /// <returns></returns>
         private void DisplayInfoAsync()
         {
-            object whatIsTypeOfSel = tvwTypeOfBooks.SelectedItem;
-            if (whatIsTypeOfSel is BookType)
+            object SelectedElement = tvwTypeOfBooks.SelectedItem;
+            if (SelectedElement is BookType)
             {
-                BookType bookTypeBySel = (whatIsTypeOfSel as BookType);
+                BookType bookType = (SelectedElement as BookType);
                 //var books = from b in await bookInfoContext.GetAllClientsAsync()
                 //            where b.BookTypeId == bookTypeBySel.BookTypeId
                 //            select b;
                 //延迟加载
-                var books = bookTypeBySel.BookInfoes;
+                var books = bookType.BookInfo;
                 dgrdShowBookInfo.ItemsSource = books;
                 tvwTypeOfBooks.DisplayMemberPath = "BookTypeName";
             }
-            if(whatIsTypeOfSel is ReaderType)
-            {
-                ReaderType readerTypeBySel = (whatIsTypeOfSel as ReaderType);
-                //var readers = from r in await readerContext.GetAllClientsAsync()
-                //             where r.ReaderTypeId == readerTypeBySel.ReaderTypeId
-                //             select r;
-                //延迟加载
-                var readers = readerTypeBySel.Readers;
-                dgrdShowReaderInfo.ItemsSource = readers;
-                tvwTypeOfBooks.DisplayMemberPath = "ReaderTypeName";
-            }
+            //if(whatIsTypeOfSel is ReaderType)
+            //{
+            //    ReaderType readerTypeBySel = (whatIsTypeOfSel as ReaderType);
+            //    //var readers = from r in await readerContext.GetAllClientsAsync()
+            //    //             where r.ReaderTypeId == readerTypeBySel.ReaderTypeId
+            //    //             select r;
+            //    //延迟加载
+            //    var readers = readerTypeBySel.Readers;
+            //    dgrdShowReaderInfo.ItemsSource = readers;
+            //    tvwTypeOfBooks.DisplayMemberPath = "ReaderTypeName";
+            //}
         }
         #endregion
         #region "Menu"
-            #region "小工具"
+        #region "小工具"
         private void OpenPaint(object sender, RoutedEventArgs e)
         {
             System.Diagnostics.Process.Start("mspaint.exe");
@@ -142,7 +142,7 @@ namespace LibraryApp
             AddBook AddReaderWindow = new AddBook();
             //window窗体包含所需要的Repository变量
             //将查找到的书籍类型绑定到ComboBox控件
-            AddReaderWindow.BindingCBOToType(this.bookTypeContext);
+            AddReaderWindow.BindingCBOToType(this.bookTypeEntity);
             AddReaderWindow.ShowDialog();
         }
         #endregion

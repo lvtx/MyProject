@@ -8,12 +8,10 @@ namespace IntroduceParallel
     class Program
     {
         static void Main(string[] args)
-        {
-            
+        {            
             //TestParallelInvoke();
             TestParallelLoop();
             Console.ReadKey();
-
         }
 
       
@@ -57,13 +55,17 @@ namespace IntroduceParallel
         }
         private static void TestParallelLoop()
         {
-
+            int count = 1;
             var intList = Enumerable.Range(1, 8);
             Console.WriteLine("原始数据");
 
             foreach (var item in intList)
             {
-                Console.WriteLine(item);
+                if(count < intList.Count())
+                    Console.Write(item + ",");
+                else
+                    Console.WriteLine(item);
+                count++;
             }
             Console.WriteLine("\n主线程{0}启动并行操作……\n", Thread.CurrentThread.ManagedThreadId);
             Console.WriteLine("For并行执行后的数据:");

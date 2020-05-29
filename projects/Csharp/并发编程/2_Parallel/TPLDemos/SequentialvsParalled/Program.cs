@@ -65,7 +65,6 @@ namespace SequentialvsParalled
         }
 
         //依据CPU核心数将任务划分为多个子任务，然后并行执行
-
         static void IncreaseNumberInParallel(int[] arr)
         {
             Console.WriteLine("手工创建并行任务，因为本机CPU为{0}核，所以分为{0}个子任务交给TPL并行执行", Environment.ProcessorCount);
@@ -75,10 +74,11 @@ namespace SequentialvsParalled
             Parallel.For(0, Environment.ProcessorCount, i =>
                 {
                     int startIndex = i * counter;
+                    Console.Write("startIndex = {0},",startIndex);
+                    Console.WriteLine("迭代次数：{0}", i);
                     IncreaseNumberInSquence(arr, startIndex, counter);
                 }
             );
-
         }
 
 

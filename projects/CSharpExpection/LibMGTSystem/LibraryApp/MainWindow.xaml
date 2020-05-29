@@ -86,12 +86,11 @@
             <!--===============图书详细内容=============-->
             <DataGrid Grid.Column="1" Name="dgrdShowBookInfo" AutoGenerateColumns="False">
                 <DataGrid.Columns>
-                    <DataGridTextColumn Header="图书编号" Binding="{Binding Path=BookId}"/>
+                    <DataGridTextColumn Header="ISBN" Binding="{Binding Path=ISBN}"/>
                     <DataGridTextColumn Header="图书名称" Binding="{Binding Path=BookName}"/>
                     <DataGridTextColumn Header="登记时间" Binding="{Binding Path=TimeIn}"/>
                     <DataGridTextColumn Header="作者" Binding="{Binding Path=Author}"/>
                     <DataGridTextColumn Header="翻译" Binding="{Binding Path=Translator}"/>
-                    <DataGridTextColumn Header="语言" Binding="{Binding Path=Language}"/>
                     <DataGridTextColumn Header="页数" Binding="{Binding Path=PageNumber}"/>
                     <DataGridTextColumn Header="价格" Binding="{Binding Path=Price}"/>
                 </DataGrid.Columns>

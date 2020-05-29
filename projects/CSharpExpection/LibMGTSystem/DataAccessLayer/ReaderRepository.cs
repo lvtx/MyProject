@@ -1,27 +1,17 @@
-﻿using System;
-using Model;
+﻿using LibraryModel;
+using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Data.Entity;
 
 namespace DataAccessLayer
 {
-    public class ReaderRepository : BaseRepository<LibraryEntities>,
-        IRepository<Reader>
+    public class ReaderRepository : BaseRepository<LibraryEntities>, IRepository<Reader>
     {
-        public ReaderRepository(LibraryEntities dbContext) :
-        base(dbContext)
-        {
-
-        }
-
-        public ReaderRepository()
-            : base(new LibraryEntities())
-        {
-
-        }
+        public ReaderRepository(LibraryEntities dbContext) : base(dbContext){ }
+        public ReaderRepository():base(new LibraryEntities()) { }
         public void AddClient(Reader client)
         {
             throw new NotImplementedException();
@@ -34,12 +24,12 @@ namespace DataAccessLayer
 
         public List<Reader> GetAllClient()
         {
-            return _dbContext.Readers.ToList();
+            return _dbContext.Reader.ToList();
         }
 
         public Task<List<Reader>> GetAllClientsAsync()
         {
-            return _dbContext.Readers.ToListAsync();
+            return _dbContext.Reader.ToListAsync();
         }
 
         public void ModifyClient(Reader client)

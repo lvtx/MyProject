@@ -1,5 +1,5 @@
 ﻿using System;
-using Model;
+using LibraryModel;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -26,12 +26,12 @@ namespace DataAccessLayer
 
         public Task<List<BookInfo>> GetAllClientsAsync()
         {
-            return _dbContext.BookInfoes.ToListAsync();
+            return _dbContext.BookInfo.ToListAsync();
         }
 
         public List<BookInfo> GetAllClient()
         {
-            return _dbContext.BookInfoes.ToList();
+            return _dbContext.BookInfo.ToList();
         }
 
         public void AddClient(BookInfo client)
