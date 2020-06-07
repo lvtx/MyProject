@@ -1,0 +1,14 @@
+﻿<Window x:Class="AsyncBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WPF数据绑定机制的多线程特性" SizeToContent="Height" Width="325">
+    <StackPanel Margin="10">
+       
+        
+        <TextBlock Margin="5" Text="在文本框中输入，在Visual Studio输出窗口看输出" x:Name="tbTest" ></TextBlock>
+
+        <TextBox x:Name="txtInput" Margin="5" Text="{Binding Information,IsAsync=True,UpdateSourceTrigger=Explicit}"></TextBox>
+
+        <Button Padding="2" Margin="5" Content="更新" x:Name="btnUpdate" Click="btnUpdate_Click"/>
+    </StackPanel>
+</Window>

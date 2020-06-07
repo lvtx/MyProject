@@ -20,7 +20,7 @@ namespace Model
         public string PinYinCode { get; set; }
         public string Translator { get; set; }
         public string Language { get; set; }
-        public string PageNumber { get; set; }
+        public string BookNumber { get; set; }
         public string Price { get; set; }
         public string Layout { get; set; }
         public string Address { get; set; }

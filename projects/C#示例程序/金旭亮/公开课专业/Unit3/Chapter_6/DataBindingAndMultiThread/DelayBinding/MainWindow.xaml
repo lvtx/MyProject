@@ -1,0 +1,10 @@
+﻿<Window x:Class="DelayBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="延迟更新的绑定" SizeToContent="Height" Width="325">
+    <StackPanel>
+        <TextBlock Margin="5" Text="在文本框中输入，等待2秒后才更新" x:Name="tbTest" ></TextBlock>
+        <TextBlock Margin="5" Text="{Binding Information,Mode=OneWay}"  ></TextBlock>
+        <TextBox Margin="5" Text="{Binding Information,Delay=2000,UpdateSourceTrigger=PropertyChanged}"></TextBox>
+    </StackPanel>
+</Window>

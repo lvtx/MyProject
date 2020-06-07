@@ -7,18 +7,17 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Security.Principal;
 using System.Windows.Forms;
+using System.Data.Entity;
 
 namespace DataAccessLayer
 {
     public class DBHelper
     {
-        public static int Login(Admin admin)
+        public static async Task<int> Login(Admin admin)
         {
             using(var context = new LibraryEntities())
             {
-                Admin _admin = (from a in context.Admin
-                                      where a.LoginId == admin.LoginId
-                                      select a).FirstOrDefault();
+                Admin _admin = await context.Admin.FindAsync(admin);
                 if (_admin == null)
                 {
                     MessageBox.Show("用户不存在");
@@ -39,14 +38,20 @@ namespace DataAccessLayer
         /// 获取读者类型
         /// </summary>
         /// <returns></returns>
-        public static IQueryable<GetReaderType_Result> GetReaderType()
+        public static List<RoleType> GetReaderType()
         {
-            IQueryable<GetReaderType_Result> readerTypes;
+            List<RoleType> readerTypes = new List<RoleType>();
             using (var context = new LibraryEntities())
             {
-                readerTypes = context.GetReaderType();
+                IQueryable<RoleType> RoleTypes = context.GetReaderType();
+                
+                foreach (var roleType in RoleTypes)
+                {
+                    readerTypes.Add(roleType);
+                }
             };
             return readerTypes;
+            //return readerTypes;
         }
     }
 }

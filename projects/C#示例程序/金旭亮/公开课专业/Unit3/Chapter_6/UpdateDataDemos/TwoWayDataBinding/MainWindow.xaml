@@ -1,0 +1,24 @@
+﻿<Window x:Class="TwoWayDataBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WPF双向数据绑定示例" SizeToContent="Height" Width="325">
+    <StackPanel x:Name="StackPanelForMyData">
+        <TextBlock Foreground="Blue" 
+                   Text="{Binding ElementName=txtInformation,Path=Text}" 
+                   FontSize="15" Margin="10" />
+        <TextBox x:Name="txtInformation" 
+                 Text="{Binding Path=Information,
+                                Mode=TwoWay,
+                                UpdateSourceTrigger=PropertyChanged,
+                                NotifyOnTargetUpdated=True,
+                                NotifyOnSourceUpdated=True}" 
+                 FontSize="15" Margin="10" />
+        <TextBlock Foreground="Blue"  FontSize="15" Margin="10" >
+            <Run>Value=</Run>
+            <Run Text="{Binding Path=Value}"></Run>
+        </TextBlock>
+        <Button x:Name="btnChangeDataSource" Content="修改数据源对象属性" 
+                Margin="10" Padding="5" Click="btnChangeDataSource_Click"/>
+
+    </StackPanel>
+</Window>

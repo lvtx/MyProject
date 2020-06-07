@@ -36,8 +36,9 @@
           <Key>
             <PropertyRef Name="BookTypeId" />
           </Key>
-          <Property Name="BookTypeId" Type="int" Nullable="false" />
-          <Property Name="BookTypeName" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="BookTypeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="BookTypeName" Type="nvarchar" MaxLength="20" Nullable="false" />
+          <Property Name="Description" Type="nchar" MaxLength="100" />
         </EntityType>
         <!--Errors Found During Generation:
 warning 6002: The table/view 'Library.dbo.BookTypeInBook' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
@@ -140,18 +141,6 @@ warning 6002: The table/view 'Library.dbo.BookTypeInBook' does not have a primar
           <Property Name="IdCardNum" Type="nchar" MaxLength="20" Nullable="false" />
           <Property Name="Rank" Type="int" />
         </EntityType>
-        <Association Name="FK_BookInfo_BookTypeInBook">
-          <End Role="BookInfo" Type="Self.BookInfo" Multiplicity="1" />
-          <End Role="BookTypeInBook" Type="Self.BookTypeInBook" Multiplicity="*" />
-          <ReferentialConstraint>
-            <Principal Role="BookInfo">
-              <PropertyRef Name="ISBN" />
-            </Principal>
-            <Dependent Role="BookTypeInBook">
-              <PropertyRef Name="ISBN" />
-            </Dependent>
-          </ReferentialConstraint>
-        </Association>
         <Association Name="FK_BookInfo_BorrowReturn">
           <End Role="BookInfo" Type="Self.BookInfo" Multiplicity="1" />
           <End Role="BorrowReturn" Type="Self.BorrowReturn" Multiplicity="*" />
@@ -164,7 +153,19 @@ warning 6002: The table/view 'Library.dbo.BookTypeInBook' does not have a primar
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <Association Name="FK_BookType_BookTypeInBook">
+        <Association Name="FK_BookTypeInBook_BookInfo">
+          <End Role="BookInfo" Type="Self.BookInfo" Multiplicity="1" />
+          <End Role="BookTypeInBook" Type="Self.BookTypeInBook" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="BookInfo">
+              <PropertyRef Name="ISBN" />
+            </Principal>
+            <Dependent Role="BookTypeInBook">
+              <PropertyRef Name="ISBN" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_BookTypeInBook_BookType">
           <End Role="BookType" Type="Self.BookType" Multiplicity="1" />
           <End Role="BookTypeInBook" Type="Self.BookTypeInBook" Multiplicity="*" />
           <ReferentialConstraint>
@@ -250,6 +251,18 @@ warning 6002: The table/view 'Library.dbo.BookTypeInBook' does not have a primar
             </Dependent>
           </ReferentialConstraint>
         </Association>
+        <Association Name="FK_ReaderId">
+          <End Role="Reader" Type="Self.Reader" Multiplicity="1" />
+          <End Role="BorrowReturn" Type="Self.BorrowReturn" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Reader">
+              <PropertyRef Name="ReaderId" />
+            </Principal>
+            <Dependent Role="BorrowReturn">
+              <PropertyRef Name="ReaderId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
         <Association Name="FK_Speciality_Class">
           <End Role="Speciality" Type="Self.Speciality" Multiplicity="1" />
           <End Role="Class" Type="Self.Class" Multiplicity="*" />
@@ -314,7 +327,7 @@ warning 6002: The table/view 'Library.dbo.BookTypeInBook' does not have a primar
           <ReturnType>
             <CollectionType>
               <RowType>
-                <Property Name="ReaderTypeId" Type="int" />
+                <Property Name="RoleTypeId" Type="int" Nullable="false" />
                 <Property Name="RoleTypeName" Type="nchar" MaxLength="10" />
               </RowType>
             </CollectionType>
@@ -339,15 +352,15 @@ warning 6002: The table/view 'Library.dbo.BookTypeInBook' does not have a primar
     [BookTypeInBook].[BookTypeId] AS [BookTypeId]
     FROM [dbo].[BookTypeInBook] AS [BookTypeInBook]</DefiningQuery>
           </EntitySet>
-          <AssociationSet Name="FK_BookInfo_BookTypeInBook" Association="Self.FK_BookInfo_BookTypeInBook">
-            <End Role="BookInfo" EntitySet="BookInfo" />
-            <End Role="BookTypeInBook" EntitySet="BookTypeInBook" />
-          </AssociationSet>
           <AssociationSet Name="FK_BookInfo_BorrowReturn" Association="Self.FK_BookInfo_BorrowReturn">
             <End Role="BookInfo" EntitySet="BookInfo" />
             <End Role="BorrowReturn" EntitySet="BorrowReturn" />
           </AssociationSet>
-          <AssociationSet Name="FK_BookType_BookTypeInBook" Association="Self.FK_BookType_BookTypeInBook">
+          <AssociationSet Name="FK_BookTypeInBook_BookInfo" Association="Self.FK_BookTypeInBook_BookInfo">
+            <End Role="BookInfo" EntitySet="BookInfo" />
+            <End Role="BookTypeInBook" EntitySet="BookTypeInBook" />
+          </AssociationSet>
+          <AssociationSet Name="FK_BookTypeInBook_BookType" Association="Self.FK_BookTypeInBook_BookType">
             <End Role="BookType" EntitySet="BookType" />
             <End Role="BookTypeInBook" EntitySet="BookTypeInBook" />
           </AssociationSet>
@@ -374,6 +387,10 @@ warning 6002: The table/view 'Library.dbo.BookTypeInBook' does not have a primar
           <AssociationSet Name="FK_Reader_RoleType" Association="Self.FK_Reader_RoleType">
             <End Role="RoleType" EntitySet="RoleType" />
             <End Role="Reader" EntitySet="Reader" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ReaderId" Association="Self.FK_ReaderId">
+            <End Role="Reader" EntitySet="Reader" />
+            <End Role="BorrowReturn" EntitySet="BorrowReturn" />
           </AssociationSet>
           <AssociationSet Name="FK_Speciality_Class" Association="Self.FK_Speciality_Class">
             <End Role="Speciality" EntitySet="Speciality" />
@@ -434,8 +451,9 @@ warning 6002: The table/view 'Library.dbo.BookTypeInBook' does not have a primar
             <PropertyRef Name="BookTypeId" />
           </Key>
           <Property Name="BookTypeId" Type="Int32" Nullable="false" />
-          <Property Name="BookTypeName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="BookTypeName" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
           <NavigationProperty Name="BookInfo" Relationship="Self.BookTypeInBook" FromRole="BookType" ToRole="BookInfo" />
+          <Property Name="Description" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
         </EntityType>
         <EntityType Name="BorrowReturn">
           <Key>
@@ -766,7 +784,7 @@ warning 6002: The table/view 'Library.dbo.BookTypeInBook' does not have a primar
             <End Role="BookInfo" EntitySet="BookInfo" />
             <End Role="BookType" EntitySet="BookType" />
           </AssociationSet>
-          <FunctionImport Name="GetReaderType" IsComposable="true" ReturnType="Collection(LibraryModel.GetReaderType_Result)" />
+          <FunctionImport Name="GetReaderType" IsComposable="true" EntitySet="RoleType" ReturnType="Collection(LibraryModel.RoleType)" />
         </EntityContainer>
         <ComplexType Name="GetReaderType_Result">
           <Property Type="Int32" Name="ReaderTypeId" Nullable="true" />
@@ -810,6 +828,7 @@ warning 6002: The table/view 'Library.dbo.BookTypeInBook' does not have a primar
           <EntitySetMapping Name="BookType">
             <EntityTypeMapping TypeName="LibraryModel.BookType">
               <MappingFragment StoreEntitySet="BookType">
+                <ScalarProperty Name="Description" ColumnName="Description" />
                 <ScalarProperty Name="BookTypeId" ColumnName="BookTypeId" />
                 <ScalarProperty Name="BookTypeName" ColumnName="BookTypeName" />
               </MappingFragment>
@@ -922,12 +941,6 @@ warning 6002: The table/view 'Library.dbo.BookTypeInBook' does not have a primar
             </EndProperty>
           </AssociationSetMapping>
           <FunctionImportMapping FunctionImportName="GetReaderType" FunctionName="LibraryModel.Store.GetReaderType">
-            <ResultMapping>
-              <ComplexTypeMapping TypeName="LibraryModel.GetReaderType_Result">
-                <ScalarProperty Name="ReaderTypeId" ColumnName="ReaderTypeId" />
-                <ScalarProperty Name="RoleTypeName" ColumnName="RoleTypeName" />
-              </ComplexTypeMapping>
-            </ResultMapping>
           </FunctionImportMapping>
         </EntityContainerMapping>
       </Mapping>

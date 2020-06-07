@@ -28,11 +28,17 @@ namespace LibraryApp
 
         private void btnLogin_Clicked(object sender, RoutedEventArgs e)
         {
+            Validate();
+        }
+        async void Validate()
+        {
             Admin admin = new Admin();
             admin.LoginId = txtLoginId.Text.Trim();
             admin.LoginPwd = FloatingPasswordBox.Password;
+            var myTask = DBHelper.Login(admin);
+            int num = await myTask;
             //a.LoginType = cboType.Text.Trim();
-            if (DBHelper.Login(admin) > 0)
+            if (num == 1)
             {
                 MainWindow MainWindow = new MainWindow();
                 //MainWindow.admin = admin;

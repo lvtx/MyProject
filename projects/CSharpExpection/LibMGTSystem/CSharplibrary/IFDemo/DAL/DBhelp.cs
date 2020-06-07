@@ -10,7 +10,7 @@ using System.Data;
 namespace DAL
 {
     public class DBhelp
-    {       
+    {
         private DBhelp() { }
         private static DBhelp dbhelp = null;
         public static DBhelp Create()
@@ -42,7 +42,8 @@ namespace DAL
             finally
             {
                 con.Close();
-            }        
+            }
+            
         }
 
         //返回读取器对象
@@ -85,6 +86,8 @@ namespace DAL
             {
                 con.Close();
             }
+
+
         }
 
         //返回受影响行数
@@ -108,6 +111,12 @@ namespace DAL
             {
                 con.Close();
             }
+
+
+
+
         }
+
+
     }
 }

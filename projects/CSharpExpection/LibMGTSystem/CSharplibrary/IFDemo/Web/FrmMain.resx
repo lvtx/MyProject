@@ -124,7 +124,7 @@
   <data name="toolStripButtonBookManager.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAGeISURBVHhe7b15tFT1te+bP+597453xjsj9753z3h3nC6n
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAGeISURBVHhe7b15tFT1te+bP+597453xjsj9753z3h3nC6n
         ucGYGD0agyYmGjtiDNgc2yiIitEoKiqxV0QRBRQEAVFEwB4NoKAgSmODoIKgCKJII2CT5CTxpLnnnPHG
         eGO9+qy9Z+25Zs3faqpq164N6zfGd8CuWrV2Ve31/f7m/M75+60vlaMc5ShHOcpRjnKUoxzlKEc59uhx
         3/59vjL1m/vMnPrNPvOn7rfPsAn77//lzqfKUY5y7Mlj8v77HjC1T58vKgIQJdFn/uT9+gzuPKwc5SjH
@@ -1600,7 +1600,7 @@
   <data name="toolStripButtonBorrowReturn.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAALnhSURBVHhe7Z0FvNTF+v+593qvesO8dqNgo6Jid6HYAQhI
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAALnhSURBVHhe7Z0FvNTF+v+593qvesO8dqNgo6Jid6HYAQhI
         IyWNAioSIiGgEkp3d3eDNEiKWAh2e3+38z//5z2zz+7sd2f37CkEPfN6fV6n9mx+30/NMzPFikbRKBpF
         o2gUjaJRNIpG0SgaRaNo/FTGL7LQLyMK3SaqolE0isaPPKJQ+hD/ytMhnn6dR/n34d+3/5jR51M0ikbR
         KIDhQxUF3Af7NzEdGtNhosNj+m1Mv/P0+xzk31b/X++P+9bH0cf1DUXUQPivoWgUjaKRZvighGBX0H3A
@@ -2399,7 +2399,7 @@
   <data name="toolStripBorrow.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAADpISURBVHhe7d13tGVl1aVxkkhQEGObFUTbnLVVMGDObY5o
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAADpISURBVHhe7d13tGVl1aVxkkhQEGObFUTbnLVVMGDObY5o
         mxPmBGbF8JkV06eigooZ/RSzqG1OmHPOShBFECUI3XM19pAqJ9Ze5z3nPXuv/Txj/P4pq87dQerOqrp3
         n82IiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiI
         iIiIiIiIiIiIiIiIiGbb/1my/yZEREQ08twn8RYMACIiognkPom3YAAQERFNIPdJvAUDgIiIaAK5T+It

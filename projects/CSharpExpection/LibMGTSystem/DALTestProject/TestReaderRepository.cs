@@ -12,23 +12,24 @@ namespace DALTestProject
     [TestClass]
     public class TestReaderRepository
     {
-        [TestMethod]
-        public void ShowReaderTypes()
+        IRepository<Reader> ReaderTypeEntity = null;
+        [TestInitialize]
+        public void TestInitialize()
         {
-            //using (var library = new LibraryEntities())
-            //{
-            //    var readerTypes = library.GetReaderType();
-
-            //    foreach (var readerType in readerTypes)
-            //    {
-            //        Console.WriteLine(readerType.RoleTypeName);
-            //    }
-            //}
-
-            var readerTypes = DBHelper.GetReaderType();
-            foreach (var readerType in readerTypes)
+            ReaderTypeEntity = new ReaderRepository();
+        }
+        [TestMethod]
+        public void GetAllClientsTest()
+        {
+            List<Reader> readers = ReaderTypeEntity.GetAllClient();
+            foreach (var reader in readers)
             {
-                Console.WriteLine(readerType.RoleTypeName);
+                int i = 0;
+                if (i < 20)
+                {
+                    Console.WriteLine(reader.ReaderName);
+                    i++;
+                }
             }
         }
     }

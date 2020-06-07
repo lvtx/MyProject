@@ -30,8 +30,7 @@ namespace Web
         //取消
         private void btnClose_Click(object sender, EventArgs e)
         {
-            DialogResult result = MessageBox.Show("确定取消吗！", "提示", 
-                MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+            DialogResult result = MessageBox.Show("确定取消吗！", "提示", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
             if (result == DialogResult.OK)
                 Application.Exit();      
         }

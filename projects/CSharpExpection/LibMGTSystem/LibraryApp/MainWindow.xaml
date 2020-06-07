@@ -25,6 +25,7 @@
             <Menu FontSize="13">
                 <MenuItem Header="图书管理" Height="30">
                     <MenuItem Header="新增图书" Click="OpenAddBook"/>
+                    <MenuItem Header="图书类型管理" Click="ManageBookType"/>
                 </MenuItem>
                 <MenuItem Header="读者管理" Height="30"/>
                 <MenuItem Header="图书借还管理" Height="30"/>
@@ -88,24 +89,19 @@
                 <DataGrid.Columns>
                     <DataGridTextColumn Header="ISBN" Binding="{Binding Path=ISBN}"/>
                     <DataGridTextColumn Header="图书名称" Binding="{Binding Path=BookName}"/>
-                    <DataGridTextColumn Header="登记时间" Binding="{Binding Path=TimeIn}"/>
                     <DataGridTextColumn Header="作者" Binding="{Binding Path=Author}"/>
-                    <DataGridTextColumn Header="翻译" Binding="{Binding Path=Translator}"/>
                     <DataGridTextColumn Header="页数" Binding="{Binding Path=PageNumber}"/>
                     <DataGridTextColumn Header="价格" Binding="{Binding Path=Price}"/>
+                    <DataGridTextColumn Header="总数" Binding="{Binding Path=Total}"/>
+                    <DataGridTextColumn Header="借出后剩余" Binding="{Binding Path=Amount}"/>
+                    
                 </DataGrid.Columns>
             </DataGrid>
             <DataGrid Grid.Column="1" Name="dgrdShowReaderInfo" AutoGenerateColumns="False">
                 <DataGrid.Columns>
                     <DataGridTextColumn Header="读者编号" Binding="{Binding Path=ReaderId}"/>
                     <DataGridTextColumn Header="读者名称" Binding="{Binding Path=ReaderName}"/>
-                    <DataGridTextColumn Header="登记时间" Binding="{Binding Path=TimeIn}"/>
-                    <DataGridTextColumn Header="有效时间" Binding="{Binding Path=TimeOut}"/>
-                    <DataGridTextColumn Header="读者类型" Binding="{Binding Path=ReaderType.ReaderTypeName}"/>
-                    <DataGridTextColumn Header="所在院系" Binding="{Binding Path=Department.DepartmentName}"/>
-                    <DataGridTextColumn Header="所在班级" Binding="{Binding Path=Class.ClassName}"/>
-                    <DataGridTextColumn Header="身份证号" Binding="{Binding Path=IdentityCard}"/>
-                    <DataGridTextColumn Header="性别" Binding="{Binding Path=Gender}"/>
+                    <DataGridTextColumn Header="注册时间" Binding="{Binding Path=TimeIn}"/>
                 </DataGrid.Columns>
             </DataGrid>
             <!--======================================-->

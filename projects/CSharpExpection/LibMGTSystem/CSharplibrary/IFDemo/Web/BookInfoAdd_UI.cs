@@ -21,7 +21,7 @@ namespace Web
         }
         public BookInfoManager_UI manager = null;
         Com com = new Com();
-        #region "触发图标样式改变"
+
         private void button3_MouseEnter(object sender, EventArgs e)
         {
             ((Button)sender).FlatStyle = FlatStyle.Standard;
@@ -31,7 +31,6 @@ namespace Web
         {
             ((Button)sender).FlatStyle = FlatStyle.Flat;
         }
-        #endregion
         BookInfo_BLL bookInfo = new BookInfo_BLL();
         BookType_BLL bookType = new BookType_BLL();
 
@@ -71,7 +70,7 @@ namespace Web
             book.PinYinCode = txtPinYinCode.Text.Trim();
             book.Translator = txtTranslator.Text.Trim();
             book.Language = txtLanguge.Text.Trim();
-            book.PageNumber = txtBookNumber.Text.Trim();
+            book.BookNumber = txtBookNumber.Text.Trim();
             book.Price = txtPrice.Text.Trim();
             book.Layout = txtLayout.Text.Trim();
             book.Address = txtAddress.Text.Trim();

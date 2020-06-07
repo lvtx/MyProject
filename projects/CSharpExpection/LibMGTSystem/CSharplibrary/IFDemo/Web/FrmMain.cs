@@ -141,7 +141,9 @@ namespace Web
                 MessageBox.Show("只有超级管理员能使用此功能");
             }
         }
-      
+
+        
+
         private void menuStripBorrow_Click(object sender, EventArgs e)
         {
             BorrowManager_UI b = new BorrowManager_UI();
@@ -152,5 +154,9 @@ namespace Web
         {
             this.tabControl.SelectedIndex = 2;
         }
+
+
+
+
     }
 }

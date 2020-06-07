@@ -18,7 +18,7 @@ namespace DAL
         public List<BookInfo> selectBookInfo()
         {
             string sql = @"select BookId,BookName,TimeIn,BookTypeName,Author,PinYinCode,Translator,Language,
-                            PageNumber,Price,Layout,Address,ISBS,Versions,BookRemark from BookInfo
+                            BookNumber,Price,Layout,Address,ISBS,Versions,BookRemark from BookInfo
                             inner join BookType on BookType.BookTypeId=BookInfo.BookTypeId";
             List<BookInfo> list = new List<BookInfo>();
             SqlDataReader reader = DBhelp.Create().ExecuteReader(sql);
@@ -34,7 +34,7 @@ namespace DAL
                 b.PinYinCode = reader.GetString(5);
                 b.Translator = reader.GetString(6);
                 b.Language = reader.GetString(7);
-                b.PageNumber = reader.GetString(8);
+                b.BookNumber = reader.GetString(8);
                 b.Price = reader.GetString(9);
                 b.Layout = reader.GetString(10);
                 b.Address = reader.GetString(11);
@@ -53,7 +53,7 @@ namespace DAL
         /// <returns></returns>
         public List<BookInfo> selectBookInfo(string BookId)
         {
-            string sql = @"select BookId,BookName,TimeIn,BookTypeId,Author,PinYinCode,Translator,Language,PageNumber, Price,Layout,Address,ISBS,Versions,BookRemark from BookInfo where BookId=@BookId";
+            string sql = @"select BookId,BookName,TimeIn,BookTypeId,Author,PinYinCode,Translator,Language,BookNumber, Price,Layout,Address,ISBS,Versions,BookRemark from BookInfo where BookId=@BookId";
             SqlParameter[] sp ={
                                 new SqlParameter("@BookId",BookId)
                               };
@@ -70,7 +70,7 @@ namespace DAL
                 b.PinYinCode = reader.GetString(5);
                 b.Translator = reader.GetString(6);
                 b.Language = reader.GetString(7);
-                b.PageNumber = reader.GetString(8);
+                b.BookNumber = reader.GetString(8);
                 b.Price = reader.GetString(9);
                 b.Layout = reader.GetString(10);
                 b.Address = reader.GetString(11);
@@ -90,7 +90,7 @@ namespace DAL
         /// <returns></returns>
         public DataSet selectBookInfo1()
         {
-            string sql = @"select BookId,BookName,TimeIn,BookTypeName,Author,PinYinCode,Translator,Language,PageNumber,Price,Layout,Address,ISBS,Versions,BookRemark from BookInfo inner join BookType on BookType.BookTypeId=BookInfo.BookTypeId";
+            string sql = @"select BookId,BookName,TimeIn,BookTypeName,Author,PinYinCode,Translator,Language,BookNumber,Price,Layout,Address,ISBS,Versions,BookRemark from BookInfo inner join BookType on BookType.BookTypeId=BookInfo.BookTypeId";
             return DBhelp.Create().ExecuteAdater(sql);
         }
         public DataSet selectBook;
@@ -103,7 +103,7 @@ namespace DAL
         public DataSet selectBookInfo2(string BookId)
         {
             string sql = @"select BookInfo.BookId as 'BookId',BookName,TimeIn,BookTypeName,Author,PinYinCode,Translator,Language,
-                    PageNumber,Price,Layout,Address,ISBS,Versions,BookRemark from BookInfo
+                    BookNumber,Price,Layout,Address,ISBS,Versions,BookRemark from BookInfo
                     inner join BookType on BookType.BookTypeId=BookInfo.BookTypeId
                    
                     where BookInfo.BookId like '%'+@BookId+'%' and BookInfo.BookId not in(select BookId from BorrowReturn where FactReturnTime is null )";
@@ -120,7 +120,7 @@ namespace DAL
         public DataSet selectBookInfo1(int index)
         {
             string sql = @"select BookId,BookName,TimeIn,BookTypeName,Author,PinYinCode,Translator,Language,
-                            PageNumber,Price,Layout,Address,ISBS,Versions,BookRemark from BookInfo
+                            BookNumber,Price,Layout,Address,ISBS,Versions,BookRemark from BookInfo
                             inner join BookType on BookType.BookTypeId=BookInfo.BookTypeId
                             where BookType.BookTypeId=@BookTypeId";
             SqlParameter[] sp ={
@@ -138,7 +138,7 @@ namespace DAL
         public DataSet selectBookInfo1(string A, string B)
         {
             string sql = string.Format(@"select BookId,BookName,TimeIn,BookTypeName,Author,PinYinCode,Translator,Language,
-                            PageNumber,Price,Layout,Address,ISBS,Versions,BookRemark from BookInfo
+                            BookNumber,Price,Layout,Address,ISBS,Versions,BookRemark from BookInfo
                             inner join BookType on BookType.BookTypeId=BookInfo.BookTypeId
                             where {0} like '%{1}%'", A, B);
             return DBhelp.Create().ExecuteAdater(sql);
@@ -157,14 +157,14 @@ namespace DAL
                 if (i != list.Count - 1)
                 {
                     sql += string.Format(@"select BookId,BookName,TimeIn,BookTypeName,Author,PinYinCode,Translator,Language,
-                            PageNumber,Price,Layout,Address,ISBS,Versions,BookRemark from BookInfo
+                            BookNumber,Price,Layout,Address,ISBS,Versions,BookRemark from BookInfo
                             inner join BookType on BookType.BookTypeId=BookInfo.BookTypeId
                             where {0} like '%{1}%' union  ", list[i], B);
                 }
                 else
                 {
                     sql += string.Format(@"select BookId,BookName,TimeIn,BookTypeName,Author,PinYinCode,Translator,Language,
-                            PageNumber,Price,Layout,Address,ISBS,Versions,BookRemark from BookInfo
+                            BookNumber,Price,Layout,Address,ISBS,Versions,BookRemark from BookInfo
                             inner join BookType on BookType.BookTypeId=BookInfo.BookTypeId
                             where {0} like '%{1}%' ", list[i], B);
                 }
@@ -181,7 +181,7 @@ namespace DAL
         public int AddBookInfo(BookInfo book)
         {
             string sql = @"insert into BookInfo select @BookId,@BookName,@TimeIn,@BookTypeId,@Author,
-                    @PinYinCode,@Translator,@Language,@PageNumber,@Price,@Layout,@Address,@ISBS,@Versions,@BookRemark";
+                    @PinYinCode,@Translator,@Language,@BookNumber,@Price,@Layout,@Address,@ISBS,@Versions,@BookRemark";
             SqlParameter[] sp ={
                                    new SqlParameter("@BookId",book.BookId),
                                    new SqlParameter("@BookName",book.BookName),
@@ -191,7 +191,7 @@ namespace DAL
                                    new SqlParameter("@PinYinCode",book.PinYinCode),
                                    new SqlParameter("@Translator",book.Translator),
                                    new SqlParameter("@Language",book.Language),
-                                   new SqlParameter("@PageNumber",book.PageNumber),
+                                   new SqlParameter("@BookNumber",book.BookNumber),
                                    new SqlParameter("@Price",book.Price),
                                    new SqlParameter("@Layout",book.Layout),
                                    new SqlParameter("@Address",book.Address),
@@ -209,7 +209,7 @@ namespace DAL
         public int ExitBookInfo(BookInfo book)
         {
             string sql = @"update BookInfo set BookName=@BookName,TimeIn=@TimeIn,BookTypeId=@BookTypeId,
-            Author=@Author,PinYinCode=@PinYinCode,Translator=@Translator,Language=@Language,PageNumber=@PageNumber,
+            Author=@Author,PinYinCode=@PinYinCode,Translator=@Translator,Language=@Language,BookNumber=@BookNumber,
             Price=@Price,Layout=@Layout,Address=@Address,ISBS=@ISBS,Versions=@Versions,BookRemark=@BookRemark
             where BookId=@BookId";
             SqlParameter[] sp ={
@@ -220,7 +220,7 @@ namespace DAL
                                     new SqlParameter("@PinYinCode",book.PinYinCode),
                                     new SqlParameter("@Translator",book.Translator),
                                     new SqlParameter("@Language",book.Language),
-                                    new SqlParameter("@PageNumber",book.PageNumber),
+                                    new SqlParameter("@BookNumber",book.BookNumber),
                                     new SqlParameter("@Price",book.Price),
                                     new SqlParameter("@Layout",book.Layout),
                                     new SqlParameter("@Address",book.Address),

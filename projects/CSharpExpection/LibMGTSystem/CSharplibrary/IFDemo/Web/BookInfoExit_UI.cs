@@ -52,7 +52,7 @@ namespace Web
             txtPinYinCode.Text = list[0].PinYinCode;
             txtTranslator.Text = list[0].Translator;
             txtLanguge.Text = list[0].Language;
-            txtBookNumber.Text = list[0].PageNumber;
+            txtBookNumber.Text = list[0].BookNumber;
             txtPrice.Text = list[0].Price;
             txtLayout.Text = list[0].Layout;
             txtAddress.Text = list[0].Address;
@@ -90,7 +90,7 @@ namespace Web
             book.PinYinCode = txtPinYinCode.Text.Trim();
             book.Translator = txtTranslator.Text.Trim();
             book.Language = txtLanguge.Text.Trim();
-            book.PageNumber = txtBookNumber.Text.Trim();
+            book.BookNumber = txtBookNumber.Text.Trim();
             book.Price = txtPrice.Text.Trim();
             book.Layout = txtLayout.Text.Trim();
             book.Address = txtAddress.Text.Trim();

@@ -69,6 +69,7 @@
       <DependentUpon>LibraryDataModel.edmx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReaderTypeRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <EntityDeploy Include="LibraryDataModel.edmx">

@@ -42,9 +42,9 @@ namespace DataAccessLayer
         public virtual DbSet<Teacher> Teacher { get; set; }
     
         [DbFunction("LibraryEntities", "GetReaderType")]
-        public virtual IQueryable<GetReaderType_Result> GetReaderType()
+        public virtual IQueryable<RoleType> GetReaderType()
         {
-            return ((IObjectContextAdapter)this).ObjectContext.CreateQuery<GetReaderType_Result>("[LibraryEntities].[GetReaderType]()");
+            return ((IObjectContextAdapter)this).ObjectContext.CreateQuery<RoleType>("[LibraryEntities].[GetReaderType]()");
         }
     }
 }
