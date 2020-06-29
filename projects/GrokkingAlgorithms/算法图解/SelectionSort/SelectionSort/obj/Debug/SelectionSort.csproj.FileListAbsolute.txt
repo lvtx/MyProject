@@ -1,7 +1,0 @@
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe.config
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csprojAssemblyReference.cache
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\SelectionSort\SelectionSort\obj\Debug\SelectionSort.exe
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb

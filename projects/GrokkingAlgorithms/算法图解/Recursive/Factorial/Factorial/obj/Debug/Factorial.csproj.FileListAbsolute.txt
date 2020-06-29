@@ -1,7 +1,0 @@
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\Recursive\Factorial\Factorial\bin\Debug\Factorial.exe.config
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\Recursive\Factorial\Factorial\bin\Debug\Factorial.exe
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\Recursive\Factorial\Factorial\bin\Debug\Factorial.pdb
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\Recursive\Factorial\Factorial\obj\Debug\Factorial.csprojAssemblyReference.cache
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\Recursive\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\Recursive\Factorial\Factorial\obj\Debug\Factorial.exe
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\Recursive\Factorial\Factorial\obj\Debug\Factorial.pdb

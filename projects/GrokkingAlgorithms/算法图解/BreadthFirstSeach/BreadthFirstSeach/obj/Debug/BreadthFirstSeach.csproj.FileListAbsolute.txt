@@ -1,7 +1,0 @@
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\BreadthFirstSeach\BreadthFirstSeach\bin\Debug\BreadthFirstSeach.exe.config
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\BreadthFirstSeach\BreadthFirstSeach\bin\Debug\BreadthFirstSeach.exe
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\BreadthFirstSeach\BreadthFirstSeach\bin\Debug\BreadthFirstSeach.pdb
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\BreadthFirstSeach\BreadthFirstSeach\obj\Debug\BreadthFirstSeach.csprojAssemblyReference.cache
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\BreadthFirstSeach\BreadthFirstSeach\obj\Debug\BreadthFirstSeach.csproj.CoreCompileInputs.cache
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\BreadthFirstSeach\BreadthFirstSeach\obj\Debug\BreadthFirstSeach.exe
-C:\Users\tomw5\OneDrive\visual_studio_2019\projects\GrokkingAlgorithms\BreadthFirstSeach\BreadthFirstSeach\obj\Debug\BreadthFirstSeach.pdb
