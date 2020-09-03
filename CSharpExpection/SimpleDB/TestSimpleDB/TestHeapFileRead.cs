@@ -126,7 +126,7 @@ namespace TestSimpleDB
                 it.Next();
                 Assert.Fail("expected exception");
             }
-            catch (NullReferenceException e)
+            catch (NullReferenceException)
             {
             }
             // close twice is harmless

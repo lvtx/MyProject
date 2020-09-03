@@ -158,7 +158,6 @@ namespace TestSimpleDB
                 get { return readCount; }
                 set { readCount = value; }
             }
-
         }
     }
 }

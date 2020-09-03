@@ -26,34 +26,37 @@ namespace SimpleDB
             count += 1;
             string path = string.Format(@"D:\test\tempTable{0}.txt", count);
             FileInfo tempInput = new FileInfo(path);
-            FileStream fs = tempInput.OpenWrite();
-            //tempInput.deleteOnExit();
-            BinaryWriter bw = new BinaryWriter(fs);
-            //BufferedWriter bw = new BufferedWriter(new FileWriter(tempInput));
-            foreach (List<int> tuple in tuples)
+            using (FileStream fs = tempInput.OpenWrite())
             {
-                int writtenFields = 0;
-                foreach (int field in tuple)
+                //tempInput.deleteOnExit();
+                using (BinaryWriter bw = new BinaryWriter(fs))
                 {
-                    writtenFields++;
-                    if (writtenFields > numFields)
+                    //BufferedWriter bw = new BufferedWriter(new FileWriter(tempInput));
+                    foreach (List<int> tuple in tuples)
                     {
-                        throw new Exception("Tuple has more than " + numFields + " fields: (" +
-                                Utility.ListToString(tuple) + ")");
-                    }
-                    byte[] fieldAsByteArray = Encoding.Default.GetBytes(field.ToString());
-                    bw.Write(fieldAsByteArray,0,fieldAsByteArray.Length);
-                    if (writtenFields < numFields)
-                    {
-                        byte[] commaAsByteArray = Encoding.Default.GetBytes(",");
-                        bw.Write(commaAsByteArray,0,commaAsByteArray.Length);
+                        int writtenFields = 0;
+                        foreach (int field in tuple)
+                        {
+                            writtenFields++;
+                            if (writtenFields > numFields)
+                            {
+                                throw new Exception("Tuple has more than " + numFields + " fields: (" +
+                                        Utility.ListToString(tuple) + ")");
+                            }
+                            byte[] fieldAsByteArray = Encoding.Default.GetBytes(field.ToString());
+                            bw.Write(fieldAsByteArray, 0, fieldAsByteArray.Length);
+                            if (writtenFields < numFields)
+                            {
+                                byte[] commaAsByteArray = Encoding.Default.GetBytes(",");
+                                bw.Write(commaAsByteArray, 0, commaAsByteArray.Length);
+                            }
+                        }
+                        char[] endChar = new char[] { '\n' };
+                        byte[] endCharAsByteArray = Encoding.Default.GetBytes(endChar);
+                        bw.Write(endCharAsByteArray, 0, endCharAsByteArray.Length);
                     }
                 }
-                char[] endChar = new char[] { '\n' };
-                byte[] endCharAsByteArray = Encoding.Default.GetBytes(endChar);
-                bw.Write(endCharAsByteArray,0,endCharAsByteArray.Length);
-            }
-            bw.Close();
+            }         
             Convert(tempInput, outFile, npagebytes, numFields);
         }
 
@@ -107,155 +110,155 @@ namespace SimpleDB
             if (nheaderbytes * 8 < nrecords)
                 nheaderbytes++;  //ceiling
             int nheaderbits = nheaderbytes * 8;
-
-            BinaryReader br = new BinaryReader(inFile.OpenRead());
             //BufferedReader br = new BufferedReader(new FileReader(inFile));
-            FileStream os = outFile.OpenWrite();
             //FileOutputStream os = new FileOutputStream(outFile);
-
-            // our numbers probably won't be much larger than 1024 digits
-            // 我们的数字可能不会比1024位大很多
-            char[] buf = new char[1024];
-            
-            int curpos = 0;//当前的位置
-            int recordcount = 0;
-            int npages = 0;
-            int fieldNo = 0;
-
-            MemoryStream headerMS = new MemoryStream(nheaderbytes);
-            BinaryWriter headerBW = new BinaryWriter(headerMS);
-            //ByteArrayOutputStream headerBAOS = new ByteArrayOutputStream(nheaderbytes);
-            //DataOutputStream headerStream = new DataOutputStream(headerBAOS);
-            MemoryStream pageMS = new MemoryStream(npagebytes);
-            BinaryWriter pageBW = new BinaryWriter(pageMS);
-            //ByteArrayOutputStream pageBAOS = new ByteArrayOutputStream(npagebytes);
-            //DataOutputStream pageStream = new DataOutputStream(pageBAOS);
-            //Console.WriteLine("标题占用的字节为{0}byte",nheaderbytes);
-            bool done = false;
-            bool first = true;
-            while (!done)
+            using (BinaryReader br = new BinaryReader(inFile.OpenRead()))
             {
-                int c = br.ReadByte();
-
-                // Ignore Windows/Notepad special line endings
-                // 忽略Windows/记事本特殊行的结尾
-                if (c == '\r')
-                    continue;
-
-                if (c == '\n')
+                using (FileStream os = outFile.OpenWrite())
                 {
-                    if (first)
-                        continue;
-                    recordcount++;
-                    first = true;
-                }
-                else
-                    first = false;
-                if (c == fieldSeparator || c == '\n' || c == '\r')
-                {
-                    string s = new string(buf, 0, curpos);
-                    if (typeAr[fieldNo] == typeof(INT_TYPE))
+                    // our numbers probably won't be much larger than 1024 digits
+                    // 我们的数字可能不会比1024位大很多
+                    char[] buf = new char[1024];
+
+                    int curpos = 0;//当前的位置
+                    int recordcount = 0;
+                    int npages = 0;
+                    int fieldNo = 0;
+
+                    MemoryStream headerMS = new MemoryStream(nheaderbytes);
+                    BinaryWriter headerBW = new BinaryWriter(headerMS);
+                    //ByteArrayOutputStream headerBAOS = new ByteArrayOutputStream(nheaderbytes);
+                    //DataOutputStream headerStream = new DataOutputStream(headerBAOS);
+                    MemoryStream pageMS = new MemoryStream(npagebytes);
+                    BinaryWriter pageBW = new BinaryWriter(pageMS);
+                    //ByteArrayOutputStream pageBAOS = new ByteArrayOutputStream(npagebytes);
+                    //DataOutputStream pageStream = new DataOutputStream(pageBAOS);
+                    //Console.WriteLine("标题占用的字节为{0}byte",nheaderbytes);
+                    bool done = false;
+                    bool first = true;
+                    while (!done)
                     {
-                        try
+                        int c = br.ReadByte();
+
+                        // Ignore Windows/Notepad special line endings
+                        // 忽略Windows/记事本特殊行的结尾
+                        if (c == '\r')
+                            continue;
+
+                        if (c == '\n')
                         {
-                            //Console.WriteLine(int.Parse(s.Trim()));
-                            pageBW.Write(int.Parse(s.Trim()));
+                            if (first)
+                                continue;
+                            recordcount++;
+                            first = true;
                         }
-                        catch (Exception)
+                        else
+                            first = false;
+                        if (c == fieldSeparator || c == '\n' || c == '\r')
                         {
-                            Console.WriteLine("BAD LINE : " + s);
+                            string s = new string(buf, 0, curpos);
+                            if (typeAr[fieldNo] == typeof(INT_TYPE))
+                            {
+                                try
+                                {
+                                    //Console.WriteLine(int.Parse(s.Trim()));
+                                    pageBW.Write(int.Parse(s.Trim()));
+                                }
+                                catch (Exception)
+                                {
+                                    Console.WriteLine("BAD LINE : " + s);
+                                }
+                            }
+                            else if (typeAr[fieldNo] == typeof(STRING_TYPE))
+                            {
+                                s = s.Trim();
+                                int overflow = STRING_TYPE.LEN - s.Length;
+                                if (overflow < 0)
+                                {
+                                    //如果字符串长度过长 截断前128字节
+                                    string news = s.Substring(0, STRING_TYPE.LEN);
+                                    s = news;
+                                }
+                                pageBW.Write(s.Length);
+                                // pageStream.writeInt(s.Length);
+                                pageBW.Write(Encoding.Default.GetBytes(s));
+                                // pageStream.writeBytes(s);
+                                // 将长度不足128字节的补上0
+                                while (overflow-- > 0)
+                                    pageBW.Write((byte)0);
+                            }
+                            curpos = 0;
+                            if (c == '\n')
+                                fieldNo = 0;
+                            else
+                                fieldNo++;
+                        }
+                        else
+                        {
+                            buf[curpos++] = (char)c;
+                            continue;
+                        }
+                        if (br.PeekChar() == -1)
+                        {
+                            curpos--;
+                            done = true;
+                        }
+                        // if we wrote a full page of records, or if we're done altogether,
+                        // write out the header of the page.
+                        //
+                        // in the header, write a 1 for bits that correspond to records we've
+                        // written and 0 for empty slots.
+                        //
+                        // when we're done, also flush the page to disk, but only if it has
+                        // records on it.  however, if this file is empty, do flush an empty
+                        // page to disk.
+                        // 如果我们写了一整页的记录，或者全部都写了，请写出页的header标记
+                        // 在头文件中，对应于我们所写记录的位写1，空槽写0
+                        // 当我们完成时，也将页刷新到磁盘，但仅当它有记录。
+                        // 但是，如果该文件为空，请将一个空页刷新到磁盘
+                        if (recordcount >= nrecords
+                            || done && recordcount > 0
+                            || done && npages == 0)
+                        {
+                            int i = 0;
+                            byte headerbyte = 0;
+
+                            for (i = 0; i < nheaderbits; i++)
+                            {
+                                if (i < recordcount)
+                                    headerbyte |= (byte)(1 << (i % 8));
+
+                                if (((i + 1) % 8) == 0)
+                                {
+                                    headerBW.Write(headerbyte);
+                                    headerbyte = 0;
+                                }
+                            }
+
+                            if (i % 8 > 0)
+                                headerBW.Write(headerbyte);
+
+                            // pad the rest of the page with zeroes
+
+                            for (i = 0; i < (npagebytes - (recordcount * nrecbytes + nheaderbytes)); i++)
+                                pageBW.Write((byte)0);
+
+                            // write header and body to file
+                            headerMS.WriteTo(os);
+                            pageMS.WriteTo(os);
+
+                            // reset header and body for next page
+                            headerMS = new MemoryStream(nheaderbytes);
+                            headerBW = new BinaryWriter(headerMS);
+                            pageMS = new MemoryStream(npagebytes);
+                            pageBW = new BinaryWriter(pageMS);
+
+                            recordcount = 0;
+                            npages++;
                         }
                     }
-                    else if (typeAr[fieldNo] == typeof(STRING_TYPE))
-                    {
-                        s = s.Trim();
-                        int overflow = STRING_TYPE.LEN - s.Length;
-                        if (overflow < 0)
-                        {
-                            //如果字符串长度过长 截断前128字节
-                            string news = s.Substring(0, STRING_TYPE.LEN);
-                            s = news;
-                        }
-                        pageBW.Write(s.Length);
-                        // pageStream.writeInt(s.Length);
-                        pageBW.Write(Encoding.Default.GetBytes(s));
-                        // pageStream.writeBytes(s);
-                        // 将长度不足128字节的补上0
-                        while (overflow-- > 0)
-                            pageBW.Write((byte)0);
-                    }
-                    curpos = 0;
-                    if (c == '\n')
-                        fieldNo = 0;
-                    else
-                        fieldNo++;
                 }
-                else
-                {
-                    buf[curpos++] = (char)c;
-                    continue;
-                }
-                if (br.PeekChar() == -1)
-                {
-                    curpos--;
-                    done = true;
-                }
-                // if we wrote a full page of records, or if we're done altogether,
-                // write out the header of the page.
-                //
-                // in the header, write a 1 for bits that correspond to records we've
-                // written and 0 for empty slots.
-                //
-                // when we're done, also flush the page to disk, but only if it has
-                // records on it.  however, if this file is empty, do flush an empty
-                // page to disk.
-                // 如果我们写了一整页的记录，或者全部都写了，请写出页的header标记
-                // 在头文件中，对应于我们所写记录的位写1，空槽写0
-                // 当我们完成时，也将页刷新到磁盘，但仅当它有记录。
-                // 但是，如果该文件为空，请将一个空页刷新到磁盘
-                if (recordcount >= nrecords
-                    || done && recordcount > 0
-                    || done && npages == 0)
-                {
-                    int i = 0;
-                    byte headerbyte = 0;
-
-                    for (i = 0; i < nheaderbits; i++)
-                    {
-                        if (i < recordcount)
-                            headerbyte |= (byte)(1 << (i % 8));
-
-                        if (((i + 1) % 8) == 0)
-                        {
-                            headerBW.Write(headerbyte);
-                            headerbyte = 0;
-                        }
-                    }
-
-                    if (i % 8 > 0)
-                        headerBW.Write(headerbyte);
-
-                    // pad the rest of the page with zeroes
-
-                    for (i = 0; i < (npagebytes - (recordcount * nrecbytes + nheaderbytes)); i++)
-                        pageBW.Write((byte)0);
-
-                    // write header and body to file
-                    headerMS.WriteTo(os);
-                    pageMS.WriteTo(os);
-
-                    // reset header and body for next page
-                    headerMS = new MemoryStream(nheaderbytes);
-                    headerBW = new BinaryWriter(headerMS);
-                    pageMS = new MemoryStream(npagebytes);
-                    pageBW = new BinaryWriter(pageMS);
-
-                    recordcount = 0;
-                    npages++;
-                }
-            }
-            br.Close();
-            os.Close();
+            }           
         }
     }
 }

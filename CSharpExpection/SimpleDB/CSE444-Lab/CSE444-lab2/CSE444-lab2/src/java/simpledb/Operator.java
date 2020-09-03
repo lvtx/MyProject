@@ -103,5 +103,4 @@ public abstract class Operator implements DbIterator {
     protected void setEstimatedCardinality(int card) {
         this.estimatedCardinality = card;
     }
-
 }

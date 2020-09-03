@@ -223,7 +223,7 @@ namespace SimpleDB
                 }
                 else
                 {
-                    if (pgNo + 1 < hf.NumPages())
+                    if (pgNo + 1 < hf.NumPages() && pgNo + 1 != 0)
                     {
                         pgNo++;
                         //Console.WriteLine("切换到第{0}页",pgNo + 1);
@@ -237,8 +237,7 @@ namespace SimpleDB
                         {
                             Console.WriteLine("获取下一页的第一个元组失败");
                             oldTuple = null;
-                        }
-                        
+                        }                   
                         return oldTuple;
                     }
                     else
@@ -255,7 +254,7 @@ namespace SimpleDB
             }
             public void Close()
             {
-                pgNo = 0;
+                pgNo = -1;
                 tupleIterator = null;
             }
         }

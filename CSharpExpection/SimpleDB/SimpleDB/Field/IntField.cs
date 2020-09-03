@@ -30,9 +30,24 @@ namespace SimpleDB
         {
             return value;
         }
-        public bool Compare(Predicate<OperatingSystem> op, Field value)
+        public bool Compare(Predicate.Op op, Field value)
         {
-            return false;
+            IntField intField = value as IntField;
+            switch (op.ToString())
+            {
+                case "=":
+                    return this.value == intField.value;
+                case "<":
+                    return this.value < intField.value;
+                case "<=":
+                    return this.value <= intField.value;
+                case ">":
+                    return this.value > intField.value;
+                case ">=":
+                    return this.value >= intField.value;
+                default:
+                    return false;
+            }
         }
 
         public void Serialize(BinaryWriter dos)

@@ -56,6 +56,9 @@
     <Compile Include="Field\IntField.cs" />
     <Compile Include="File\HeapFile.cs" />
     <Compile Include="File\HeapFileEncoder.cs" />
+    <Compile Include="Filter.cs" />
+    <Compile Include="JoinPredicate.cs" />
+    <Compile Include="Operator.cs" />
     <Compile Include="Page\HeapPage.cs" />
     <Compile Include="Page\Page.cs" />
     <Compile Include="Page\HeapPageId.cs" />

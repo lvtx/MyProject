@@ -62,6 +62,8 @@
     <Compile Include="TestUtil.cs" />
     <Compile Include="TestHeapFileRead.cs" />
     <Compile Include="TestScan.cs" />
+    <Compile Include="TestPredicate.cs" />
+    <Compile Include="TestJoinPredicate.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

@@ -9,7 +9,7 @@ namespace TestSimpleDB
         //        /**
         // * @return an IntField with value n
         // */
-        public static Field getField(int n)
+        public static Field GetField(int n)
         {
             return new IntField(n);
         }

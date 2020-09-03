@@ -27,7 +27,7 @@ namespace SimpleDB
          * @param value The value to compare this Field to
          * @return Whether or not the comparison yields true.
          */
-        bool Compare(Predicate<OperatingSystem> op, Field value);
+        bool Compare(Predicate.Op op, Field value);
 
         /**
          * Returns the type of this field (see {@link Type#INT_TYPE} or {@link Type#STRING_TYPE}
